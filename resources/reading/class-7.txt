@@ -1,0 +1,172 @@
+= Exercise 1
+# Information Theory – The Big Idea
+[A] In April 2002 an event took place which demonstrated one of the many applications of information theory. The space probe, Voyager I, launched in 1977, had sent back spectacular images of Jupiter and Saturn and then soared out of the Solar System on a one-way mission to the stars. After 25 years of exposure to the freezing temperatures of deep space, the probe was beginning to show its age. Sensors and circuits were on the brink of failing and NASA experts realized that they had to do something or lose contact with their probe forever. The solution was to get a message to Voyager I to instruct it to use spares to change the failing parts. With the probe 12 billion kilometers from Earth, this was not an easy task. By means of a radio dish belonging to NASA’s Deep Space Network, the message was sent out into the depths of space. Even traveling at the speed of light, it took over 11 hours to reach its target, far beyond the orbit of Pluto. Yet, incredibly, the little probe managed to hear the faint call from its home planet and successfully made the switchover.
+[B] It was the longest-distance repair job in history, and a triumph for the NASA engineers. But it also highlighted the astonishing power of the techniques developed by American communications engineer Claude Shannon, who had died just a year earlier. Born in 1916 in Petoskey, Michigan, Shannon showed an early talent for math and for building gadgets and made breakthroughs in the foundations of computer technology when still a student. While at Bell Laboratories, Shannon developed information theory but shunned the resulting acclaim. In the 1940s, he single-handedly created an entire science of communication which has since inveigled its way into a host of applications, from DVDs to satellite communications to bar codes - any area, in short, where data has to be conveyed rapidly yet accurately.
+[C] This all seems light years away from the down-to-earth uses Shannon originally had for his work, which began when he was a 22-year-old graduate engineering student at the prestigious Massachusetts Institute of Technology in 1939. He set out with an apparently simple aim: to pin down the precise meaning of the concept of ‘information’. The most basic form of information, Shannon argued, is whether something is true or false - which can be captured in the binary unit, or ‘bit’, of the form 1 or 0. Having identified this fundamental unit, Shannon set about defining otherwise vague ideas about information and how to transmit it from place to place. In the process he discovered something surprising: it is always possible to guarantee the information will get through random interference - ‘noise’ - intact.
+[D] Noise usually means unwanted sounds which interfere with genuine information. Information theory generalizes this idea via theorems that capture the effects of noise with mathematical precision. In particular, Shannon showed that noise sets a limit on the rate at which information can pass along communication channels while remaining error-free. This rate depends on the relative strengths of the signal and noise traveling down the communication channel, and on its capacity (its ‘bandwidth’). The resulting limit, given in units of bits per second, is the absolute maximum rate of error-free communication given signal strength and noise level. The trick, Shannon showed, is to find ways of packaging up - ‘coding’ - information to cope with the ravages of noise, while staying within the information-carrying capacity - ‘bandwidth’ - of the communication system being used.
+[E] Over the years scientists have devised many such coding methods, and they have proved crucial in many technological feats. The Voyager spacecraft transmitted data using codes which added one extra bit for every single bit of information; the result was an error rate of just one bit in 10,000 - and stunningly clear pictures of the planets. Other codes have become parts of everyday life - such as the Universal Product Code, or bar code, which uses a simple error-detecting system that ensures supermarket check-out lasers can read the price even on, say, a crumpled bag of crisps. As recently as 1993, engineers made a major breakthrough by discovering so-called turbo codes - which come very close to Shannon’s ultimate limit for the maximum rate that data can be transmitted reliably, and now play a key role in the mobile videophone revolution.
+[F] Shannon also laid the foundations of more efficient ways of storing information, by stripping out superfluous (‘redundant’) bits from data which contributed little real information. As mobile phone text messages like ‘I CN C U’ show, it is often possible to leave out a lot of data without losing much meaning. As with error correction, however, there’s a limit beyond which messages become too ambiguous. Shannon showed how to calculate this limit, opening the way to the design of compression methods that cram maximum information into the minimum space.
+---
+## Questions 1–6
+> The Reading Passage has six paragraphs, **A–F**. Which paragraph contains the following information? Choose the correct letter, **A–F**.
+@sel 1 A-F an explanation of the factors affecting the transmission of information
+@sel 2 A-F an example of how unnecessary information can be omitted
+@sel 3 A-F a reference to Shannon’s attitude to fame
+@sel 4 A-F details of a machine capable of interpreting incomplete information
+@sel 5 A-F a detailed account of an incident involving information theory
+@sel 6 A-F a reference to what Shannon initially intended to achieve in his research
+## Questions 7–11
+> Complete the notes below.
+> Choose **NO MORE THAN THREE WORDS** from the passage for each answer.
+### The Voyager 1 Space Probe
+The probe transmitted pictures of both [[7]], then left the [[8]].
+The freezing temperatures were found to have a negative effect on parts of the space probe.
+Scientists feared that both the [[9]] were about to stop working.
+The only hope was to tell the probe to replace them with [[10]] – but distance made communication with the probe difficult.
+A [[11]] was used to transmit the message at the speed of light.
+The message was picked up by the probe and the switchover took place.
+## Questions 12–14
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 12 The concept of describing something as true or false was the starting point for Shannon in his attempts to send messages over distances.
+@tfng 13 The amount of information that can be sent in a given time period is determined with reference to the signal strength and noise level.
+@tfng 14 Products have now been developed which can convey more information than Shannon had anticipated as possible.
+
+= Exercise 2
+# Keep the Water Away
+[A] Last winter’s floods on the rivers of central Europe were among the worst since the Middle Ages, and as winter storms return, the spectre of floods is returning too. Just weeks ago, the river Rhone in south-east France burst its banks, driving 15,000 people from their homes, and worse could be on the way. Traditionally, river engineers have gone for Plan A: get rid of the water fast, draining it off the land and down to the sea in tall-sided rivers re-engineered as high-performance drains. But however big they dug city drains, however wide and straight they made the rivers, and however high they built the banks, the floods kept coming back to taunt them, from the Mississippi to the Danube. Arid when the floods came, they seemed to be worse than ever. No wonder engineers are turning to Plan B: sap the water’s destructive strength by dispersing it into fields, forgotten lakes, flood plains and aquifers.
+[B] Back in the days when rivers took a more tortuous path to the sea, flood waters lost impetus and volume while meandering across flood plains and idling through wetlands and inland deltas. But today the water tends to have an unimpeded journey to the sea. And this means that when it rains in the uplands, the water comes down all at once. Worse, whenever we close off more flood plains, the river’s flow farther downstream becomes more violent and uncontrollable. Dykes are only as good as their weakest link—-and the water will unerringly find it. By trying to turn the complex hydrology of rivers into the simple mechanics of a water pipe, engineers have often created danger where they promised safety, and intensified the floods they meant to end. Take the Rhine, Europe’s most engineered river. For two centuries, German engineers have erased its backwaters and cut it off from its flood plain.
+[C] Today, the river has lost 7 percent of its original length and runs up to a third faster. When it rains hard in the Alps, the peak flows from several tributaries coincide in the main river, where once they arrived separately. And with four-fifths of the lower Rhine’s flood plain barricaded off, the waters rise ever higher. The result is more frequent flooding that does ever-greater damage to the homes, offices and roads that sit on the flood plain. Much the same has happened in the US on the mighty Mississippi, which drains the world’s second largest river catchment into the Gulf of Mexico.
+[D] The European Union is trying to improve rain forecasts and more accurately model how intense rains swell rivers. That may help cities prepare, but it won’t stop the floods. To do that, say hydrologists, you need a new approach to engineering not just rivers, but the whole landscape. The UK’s Environment Agency -which has been granted an extra £150 million a year to spend in the wake of floods in 2000 that cost the country £1 billion- puts it like this: “The focus is now on working with the forces of nature. Towering concrete walks are out, and new wetlands: are in.” To help keep London’s feet dry, the agency is breaking the Thames’s banks upstream and reflooding 10 square kilometres of ancient flood plain at Otmoor outside Oxford. Nearer to London it has spent £100 million creating new wetlands and a relief channel across 16 kilometres of flood plain to protect the town of Maidenhead, as well as the ancient playing fields of Eton College. And near the south coast, the agency is digging out channels to reconnect old meanders on the river Cuckmere in East Sussex that were cut off by flood banks 150 years ago.
+[E] The same is taking place on a much grander scale in Austria, in one of Europe’s largest river restorations to date. Engineers are regenerating flood plains along 60 kilometres of the river Drava as it exits the Alps. They are also widening the river bed and channeling it back into abandoned meanders, oxbow lakes and backwaters overhung with willows. The engineers calculate that the restored flood plain can now store up to 10 million cubic metres of flood waters and slow storm surges coming out of the Alps by more than an hour, protecting towns as far downstream as Slovenia and Croatia.
+[F] “Rivers have to be allowed to take more space. They have to be turned from flood-chutes into flood-foilers,” says Nienhuis. And the Dutch, for whom preventing floods is a matter of survival, have gone furthest. A nation built largely on drained marshes and seabed had the fright of its life in 1993 when the Rhine almost overwhelmed it. The same happened again in 1995, when a quarter of a million people were evacuated from the Netherlands. But a new breed of “soft engineers” wants our cities to become porous, and Berlin is their shining example. Since reunification, the city’s massive redevelopment has been governed by tough new rules to prevent its drains becoming overloaded after heavy rains. Harald Kraft, an architect working in the city, says: “We now see rainwater as a resource to be kept rather than got rid of at great cost.” A good illustration is the giant Potsdamer Platz, a huge new commercial redevelopment by Daimler Chrysler in the heart of the city.
+[G] Los Angeles has spent billions of dollars digging huge drains and concreting river beds to carry away the water from occasional intense storms. The latest plan is to spend a cool $280 million raising the concrete walls on the Los Angeles river by another 2 metres. Yet many communities still flood regularly. Meanwhile this desert city is shipping in water from hundreds of kilometres away in northern California and from the Colorado river in Arizona to fill its taps and swimming pools, and irrigate its green spaces. It all sounds like bad planning. “In LA we receive half the water we need in rainfall, and we throw it away. Then we spend hundreds of millions to import water,” says Andy Lipkis, an LA environmentalist, along with citizen groups like Friends of the Los Angeles River and Unpaved LA, want to beat the urban flood hazard and fill the taps by holding onto the city’s flood water. And it’s not just a pipe dream. The authorities this year launched a $100 million scheme to road-test the porous city in one flood-hit community in Sun Valley. The plan is to catch the rain that falls on thousands of driveways, parking lots and rooftops in the valley. Trees will soak up water from parking lots. Homes and public buildings will capture roof water to irrigate gardens and parks. And road drains will empty into old gravel pits and other leaky places that should recharge the city’s underground water reserves. Result: less flooding and more water for the city. Plan B says every city should be porous, every river should have room to flood naturally and every coastline should be left to build its own defences. It sounds expensive and utopian, until you realise how much we spend trying to drain cities and protect our watery margins -and how bad we are at it.
+---
+## Questions 1–6
+> The Reading Passage has seven paragraphs, **A–G**. Which paragraph contains the following information? Choose the correct letter, **A–G**.
+@sel 1 A-G a new approach carried out in the UK
+@sel 2 A-G the reason why twisty path and dykes failed
+@sel 3 A-G illustration of an alternative plan in LA which seems much unrealistic
+@sel 4 A-G traditional way of tackling flood
+@sel 5 A-G efforts made in Netherlands and Germany
+@sel 6 A-G one project on a river that benefits three nations
+## Questions 7–12
+> Complete the sentences below.
+> Choose **NO MORE THAN THREE WORDS AND/OR A NUMBER** from the passage for each answer.
+Traditionally, river engineers aimed to carry water away rapidly through high-performance [[7]].
+German engineers have removed the Rhine’s [[8]] and separated the river from its flood plain.
+The UK's Environment Agency carried out one innovative approach: a wetland is generated not far from the city of [[9]] to protect it from flooding.
+The restored flood plain along the river Drava can store up to [[10]] of flood waters.
+[[11]] suggested that cities should be porous, and Berlin set a good example.
+Another city devastated by heavy storms casually is [[12]], though the government pours billions of dollars each year in order to solve the problem.
+
+= Homework Ex 1
+# Why some women cross the finish line ahead of men
+_ RECRUITMENT — The course is tougher but women are staying the distance, reports Andrew Crisp.
+[A] Women who apply for jobs in middle or senior management have a higher success rate than men, according to an employment survey. But of course far fewer of them apply for these positions. The study, by recruitment consultants NB Selection, shows that while one in six men who appear on interview shortlists get jobs, the figure rises to one in four for women.
+[B] The study concentrated on applications for management positions in the $45,000 to $110,000 salary range and found that women are more successful than men in both the private and public sectors. Dr Elisabeth Marx from London-based NB Selection described the findings as encouraging for women, in that they send a positive message to them to apply for interesting management positions. But she added, "We should not lose sight of the fact that significantly fewer women apply for senior positions in comparison with men."
+[C] Reasons for higher success rates among women are difficult to isolate. One explanation suggested is that if a woman candidate manages to get on a shortlist, then she has probably already proved herself to be an exceptional candidate. Dr Marx said that when women apply for positions they tend to be better qualified than their male counterparts but are more selective and conservative in their job search. Women tend to research thoroughly before applying for positions or attending interviews. Men, on the other hand, seem to rely on their ability to sell themselves and to convince employers that any shortcomings they have will not prevent them from doing a good job.
+[D] Managerial and executive progress made by women is confirmed by the annual survey of boards of directors carried out by Korn/Ferry/Carre/Orban International. This year the survey shows a doubling of the number of women serving as non-executive directors compared with the previous year. However, progress remains painfully slow and there were still only 18 posts filled by women out of a total of 354 non-executive positions surveyed. Hilary Sears, a partner with Korn/Ferry, said, "Women have raised the level of grades we are employed in but we have still not broken through barriers to the top."
+[E] In Europe a recent feature of corporate life in the recession has been the de-layering of management structures. Sears said that this has halted progress for women in as much as de-layering has taken place either where women are working or in layers they aspire to. Sears also noted a positive trend from the recession, which has been the growing number of women who have started up on their own.
+[F] In business as a whole, there are a number of factors encouraging the prospect of greater equality in the workforce. Demographic trends suggest that the number of women going into employment is steadily increasing. In addition a far greater number of women are now passing through higher education, making them better qualified to move into management positions.
+[G] Organisations such as the European Women's Management Development Network provide a range of opportunities for women to enhance their skills and contacts. Through a series of both pan-European and national workshops and conferences the barriers to women in employment are being broken down. However, Ariane Berthoin Antal, director of the International Institute for Organisational Change of Archamps in France, said that there is only anecdotal evidence of changes in recruitment patterns. And she said, "It's still so hard for women to even get on to shortlists - there are so many hurdles and barriers." Antal agreed that there have been some positive signs but said "Until there is a belief among employers, until they value the difference, nothing will change."
+---
+## Questions 14–19
+> The passage has 7 paragraphs, **A–G**. State which paragraph discusses each of the points below.
+@sel 14 A-G The drawbacks of current company restructuring patterns.
+@sel 15 A-G Associations that provide support for professional women.
+@sel 16 A-G The success rate of female job applicants for management positions.
+@sel 17 A-G Male and female approaches to job applications.
+@sel 18 A-G Reasons why more women are being employed in the business sector.
+@sel 19 A-G The improvement in female numbers on company management structures.
+## Questions 20–23
+> Which consultant makes each point?
+@box Consultants
+* M. Dr Marx
+* S. Hilary Sears
+* A. Ariane Berthoin Antal
+@sel 20 M,S,A Selection procedures do not favour women.
+@sel 21 M,S,A The number of female-run businesses is increasing.
+@sel 22 M,S,A Male applicants exceed female applicants for top posts.
+@sel 23 M,S,A Women hold higher positions now than they used to.
+## Questions 24–27
+> Answer the questions using **NO MORE THAN THREE WORDS**.
+What change has there been in the number of women in top management positions detailed in the annual survey? [[24]]
+What aspect of company structuring has disadvantaged women? [[25]]
+What information tells us that more women are working nowadays? [[26]]
+Which group of people should change their attitude to recruitment? [[27]]
+
+= Homework Ex 2
+# The Harm That Picture Books Can Cause
+[A] There is a great concern in Europe and North America about declining standards of literacy in schools. In Britain, the fact that 30 per cent of 16 year olds have a reading age of 14 or less has helped to prompt massive educational changes. The development of literacy has far-reaching effects on general intellectual development and thus anything which impedes the development of literacy is a serious matter for us all. So the hunt is on for the cause of the decline in literacy. The search so far has focused on socio-economic factors, or the effectiveness of 'traditional' versus 'modern' teaching techniques.
+[B] The fruitless search for the cause of the increase in illiteracy is a tragic example of the saying 'They can't see the wood for the trees'. When teachers use picture books, they are simply continuing a long-established tradition that is accepted without question. And for the past two decades, illustrations in reading primers have become increasingly detailed and obtrusive, while language has become impoverished - sometimes to the point of extinction.
+[C] Amazingly, there is virtually no empirical evidence to support the use of illustrations in teaching reading. On the contrary, a great deal of empirical evidence shows that pictures interfere in a damaging way with all aspects of learning to read. Despite this, from North America to the Antipodes, the first books that many school children receive are totally without text.
+[D] A teacher's main concern is to help young beginner readers to develop not only the ability to recognise words, but the skills necessary to understand what these words mean. Even if a child is able to read aloud fluently, he or she may not be able to understand much of it: this is called 'barking at text'. The teacher's task of improving comprehension is made harder by influences outside the classroom. But the adverse effects of such things as television, video games, or limited language experiences at home, can be offset by experiencing 'rich' language at school.
+[E] Instead, it is not unusual for a book of 30 or more pages to have only one sentence full of repetitive phrases. The artwork is often marvellous, but the pictures make the language redundant, and the children have no need to imagine anything when they read such books. Looking at a picture actively prevents children younger than nine from creating a mental image, and can make it difficult for older children. In order to learn how to comprehend, they need to practise making their own meaning in response to text. They need to have their innate powers of imagination trained.
+[F] As they grow older, many children turn aside from books without pictures, and it is a situation made more serious as our culture becomes more visual. It is hard to wean children off picture books when pictures have played a major part throughout their formative reading experiences, and when there is competition for their attention from so many other sources of entertainment. The least intelligent are most vulnerable, but tests show that even intelligent children are being affected. The response of educators has been to extend the use of pictures in books and to simplify the language, even at senior levels. The Universities of Oxford and Cambridge recently held joint conferences to discuss the noticeably rapid decline in literacy among their undergraduates.
+[G] Pictures are also used to help motivate children to read because they are beautiful and eye-catching. But motivation to read should be provided by listening to stories well read, where children imagine in response to the story. Then, as they start to read, they have this experience to help them understand the language. If we present pictures to save children the trouble of developing these creative skills, then I think we are making a great mistake.
+[H] Academic journals ranging from educational research, psychology, language learning, psycholinguistics, and so on cite experiments which demonstrate how detrimental pictures are for beginner readers. Here is a brief selection:
+[I] The research results of the Canadian educationalist Dale Willows were clear and consistent: pictures affected speed and accuracy and the closer the pictures were to the words, the slower and more inaccurate the child's reading became. She claims that when children come to a word they already know, then the pictures are unnecessary and distracting. If they do not know a word and look to the picture for a clue to its meaning, they may well be misled by aspects of the pictures which are not closely related to the meaning of the word they are trying to understand.
+[J] Jay Samuels, an American psychologist, found that poor readers given no pictures learnt significantly more words than those learning to read with books with pictures. He examined the work of other researchers who had reported problems with the use of pictures and who found that a word without a picture was superior to a word plus a picture. When children were given words and pictures, those who seemed to ignore the pictures and pointed at the words learnt more words than the children who pointed at the pictures, but they still learnt fewer words than the children who had no illustrated stimuli at all.
+---
+## Questions 14–17
+> Choose the correct answer.
+@mcq 14 Readers are said to 'bark' at a text when
+- they read too loudly.
+- there are too many repetitive words.
+- they are discouraged from using their imagination.
+- they have difficulty assessing its meaning.
+@mcq 15 The text suggests that
+- pictures in books should be less detailed.
+- pictures can slow down reading progress.
+- picture books are best used with younger readers.
+- pictures make modern books too expensive.
+@mcq 16 University academics are concerned because
+- young people are showing less interest in higher education.
+- students cannot understand modern academic texts.
+- academic books are too childish for their undergraduates.
+- there has been a significant change in student literacy.
+@mcq 17 The youngest readers will quickly develop good reading skills if they
+- learn to associate the words in a text with pictures.
+- are exposed to modern teaching techniques.
+- are encouraged to ignore pictures in the text.
+- learn the art of telling stories.
+## Questions 18–21
+> Choose **YES** if the statement agrees with the information, choose **NO** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information about this in the passage.
+@ynng 18 It is traditionally accepted that children's books should contain few pictures.
+@ynng 19 Teachers aim to teach both word recognition and word meaning.
+@ynng 20 Older readers are having difficulty in adjusting to texts without pictures.
+@ynng 21 Literacy has improved as a result of recent academic conferences.
+## Questions 22–25
+> Which paragraph, **A–J**, states the following information? You will not use all the paragraphs.
+@sel 22 A-J The decline of literacy is seen in groups of differing ages and abilities.
+@sel 23 A-J Reading methods currently in use go against research findings.
+@sel 24 A-J Readers able to ignore pictures are claimed to make greater progress.
+@sel 25 A-J Illustrations in books can give misleading information about word meaning.
+## Question 26
+@mcq 26 Choose the most suitable title for the whole of the passage.
+- The global decline in reading levels
+- Concern about recent educational developments
+- The harm that picture books can cause
+- Research carried out on children's literature
+- An examination of modern reading styles
+
+= Homework Ex 3
+# Early Childhood Education
+_ New Zealand's National Party spokesman on education, Dr Lockwood Smith, recently visited the US and Britain. Here he reports on the findings of his trip and what they could mean for New Zealand's education policy
+[A] 'Education To Be More' was published last August. It was the report of the New Zealand Government's Early Childhood Care and Education Working Group. The report argued for enhanced equity of access and better funding for childcare and early childhood education institutions. Unquestionably, that's a real need; but since parents don't normally send children to pre-schools until the age of three, are we missing out on the most important years of all?
+[B] A 13-year study of early childhood development at Harvard University has shown that, by the age of three, most children have the potential to understand about 1000 words - most of the language they will use in ordinary conversation for the rest of their lives.
+Furthermore, research has shown that while every child is born with a natural curiosity, it can be suppressed dramatically during the second and third years of life. Researchers claim that the human personality is formed during the first two years of life, and during the first three years children learn the basic skills they will use in all their later learning both at home and at school. Once over the age of three, children continue to expand on existing knowledge of the world.
+[C] It is generally acknowledged that young people from poorer socio-economic backgrounds tend to do less well in our education system. That's observed not just in New Zealand, but also in Australia, Britain and America. In an attempt to overcome that educational under-achievement, a nationwide programme called 'Headstart' was launched in the United States in 1965. A lot of money was poured into it. It took children into pre-school institutions at the age of three and was supposed to help the children of poorer families succeed in school. Despite substantial funding, results have been disappointing. It is thought that there are two explanations for this. First, the programme began too late. Many children who entered it at the age of three were already behind their peers in language and measurable intelligence. Second, the parents were not involved. At the end of each day, 'Headstart' children returned to the same disadvantaged home environment.
+[D] As a result of the growing research evidence of the importance of the first three years of a child's life and the disappointing results from 'Headstart', a pilot programme was launched in Missouri in the US that focused on parents as the child's first teachers. The 'Missouri' programme was predicated on research showing that working with the family, rather than bypassing the parents, is the most effective way of helping children get off to the best possible start in life. The four-year pilot study included 380 families who were about to have their first child and who represented a cross-section of socio-economic status, age and family configurations. They included single-parent and two-parent families, families in which both parents worked, and families with either the mother or father at home.
+The programme involved trained parent-educators visiting the parents' home and working with the parent, or parents, and the child. Information on child development, and guidance on things to look for and expect as the child grows were provided, plus guidance in fostering the child's intellectual, language, social and motor-skill development. Periodic check-ups of the child's educational and sensory development (hearing and vision) were made to detect possible handicaps that interfere with growth and development. Medical problems were referred to professionals.
+Parent-educators made personal visits to homes and monthly group meetings were held with other new parents to share experience and discuss topics of interest. Parent resource centres, located in school buildings, offered learning materials for families and facilitators for child care.
+[E] At the age of three, the children who had been involved in the 'Missouri' programme were evaluated alongside a cross-section of children selected from the same range of socio-economic backgrounds and family situations, and also a random sample of children that age. The results were phenomenal. By the age of three, the children in the programme were significantly more advanced in language development than their peers, had made greater strides in problem solving and other intellectual skills, and were further along in social development. In fact, the average child on the programme was performing at the level of the top 15 to 20 per cent of their peers in such things as auditory comprehension, verbal ability and language ability.
+[F] These research findings are exciting. There is growing evidence in New Zealand that children from poorer socio-economic backgrounds are arriving at school less well developed and that our school system tends to perpetuate that disadvantage. The initiative outlined above could break that cycle of disadvantage. The concept of working with parents in their homes, or at their place of work, contrasts quite markedly with the report of the Early Childhood Care and Education Working Group. Their focus is on getting children and mothers access to childcare and institutionalised early childhood education. Education from the age of three to five is undoubtedly vital, but without a similar focus on parent education and on the vital importance of the first three years, some evidence indicates that it will not be enough to overcome educational inequity.
+---
+## Questions 1–4
+> The passage has six sections, **A–F**. Which paragraph contains the following information?
+@sel 1 A-F details of the range of family types involved in an education programme
+@sel 2 A-F reasons why a child's early years are so important
+@sel 3 A-F reasons why an education programme failed
+@sel 4 A-F a description of the positive outcomes of an education programme
+

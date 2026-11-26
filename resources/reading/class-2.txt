@@ -1,0 +1,132 @@
+= Warm-up
+# William Perkin
+As a student at the City of London School, Perkin became immersed in the study of chemistry. His talent and devotion to the subject were perceived by his teacher, Thomas Hall, who encouraged him to attend a series of lectures given by the eminent scientist Michael Faraday at the Royal Institution.
+At the time of Perkin’s enrolment, the Royal College of Chemistry was headed by the noted German chemist August Wilhelm Hofmann. Perkin’s scientific gifts soon caught Hofmann’s attention and, within two years, he became Hofmann’s youngest assistant. Not long after that, Perkin made the scientific breakthrough that would bring him both fame and fortune.
+At the time, quinine was the only viable medical treatment for malaria. The drug is derived from the bark of the cinchona tree, native to South America, and by 1856 demand for the drug was surpassing the available supply.
+During his vacation in 1856, Perkin spent his time in the laboratory on the top floor of his family’s house. He was attempting to manufacture quinine from aniline, an inexpensive and readily available coal tar waste product.
+---
+## Questions 1–5
+> Check whether the statements below **agree** or **disagree** with the text. If there is no information, choose **NI**.
+@sel 1 Agree,Disagree,NI Michael Faraday was the first person to recognise Perkin’s ability as a student of chemistry.
+@sel 2 Agree,Disagree,NI Perkin employed August Wilhelm Hofmann as his assistant.
+@sel 3 Agree,Disagree,NI Perkin was still young when he made the discovery that made him rich and famous.
+@sel 4 Agree,Disagree,NI The trees from which quinine is derived grow only in South America.
+@sel 5 Agree,Disagree,NI Perkin hoped to manufacture a drug from a coal tar waste product.
+
+= Exercise 1
+# Chilies
+Chilies originate in South America and have been eaten for at least 9,500 years. Organised cultivation began around 5,400 BC. Christopher Columbus was the first European to encounter chilies, when he landed on the island of Hispaniola in 1492. He thought it was a type of pepper and called it the “red pepper”, a name still used today. After their introduction to Europe, they were an immediate sensation and were quickly incorporated into the diet. From there they spread to Africa, India and East Asia. The reason for the chili’s “hotness” lies in a chemical called Capsaicin. Capsaicin causes temporary irritation to the trigeminal cells, which are the pain receptors in the mouth, nose and throat. After the pain messages are transmitted to the brain, endorphins, natural pain killers, are released and these not only kill the pain but give the chili eater a short lived natural high. Other side effects include: an increased heart rate, a running nose and increased salivation and sweating, which can have a cooling effect in hot climates. The reason for the presence of Capsaicin is thought to be to deter animals from eating the fruit. Only mammals feel the burning effects; birds feel nothing. As birds are a better method of distributing the seeds, which pass intact through their guts, Capsaicin would seem to be a result of natural selection. The smaller chilies tend to be the hottest. This may reflect the fact that they tend to grow closer to the ground and are therefore more vulnerable to animals. The heat of a chili is measured on the Scoville scale. The hottest types such as the Habenero and the Scotch Bonnet rate between 100,000 and 300,000, the world-famous Tabasco sauceÒ rates at 15,000 to 30,000, about the same as the Thai prik khee nu, while the popular Jalapeno is between 5,000 and 15,000. Powdered chili is 500 to 1,000 and the mild capsicins and paprikas can range between 100 and 0.
+---
+## Questions 1–5
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 1 Chilies became popular as soon as they were brought into Europe.
+@tfng 2 Capsaicin causes significant damage to the mouth.
+@tfng 3 Chilies can be part of a bird’s diet.
+@tfng 4 All large chilies grow high off the ground.
+@tfng 5 People breed chilies for their heat.
+
+= Exercise 2
+# Is there such a thing as Canadian English? If so, what is it?
+The standard stereotype among Americans is that Canadians are like Americans, except they say ‘eh’ a lot and pronounce ‘out and about’ as ‘oot and aboot’. Many Canadians, on the other hand, will tell you that Canadian English is more like British English, and as proof will hold aloft the spellings colour and centre and the name zed for the letter Z. Canadian does exist as a separate variety of British English, with subtly distinctive features of pronunciation and vocabulary. It has its own dictionaries; the Canadian Press has its own style guide; the Editors’ Association of Canada has just released a second edition of Editing Canadian English. But an emblematic feature of Editing Canadian English is comparison tables of American versus British spellings so the Canadian editor can come to a reasonable decision on which to use… on each occasion.
+The core of Canadian English is a pervasive ambivalence. Canadian history helps to explain this. In the beginning there were the indigenous people, with far more linguistic and cultural variety than Europe. They’re still there, but Canadian English, like Canadian Anglophone society in general, gives them little more than desultory token nods. Fights between European settlers shaped Canadian English more. The French, starting in the 1600s, colonised the St Lawrence River region and the Atlantic coast south of it. In the mid-1700s, England got into a war with France, concluding with the Treaty of Paris in 1763, which ceded ‘New France’ to England. The English allowed any French to stay who were willing to become subjects of the English King. At the time of the Treaty of Paris, however, there were very few English speakers in Canada. The American Revolution changed that. The founding English-speaking people of Canada were United Empire Loyalists – people who fled American independence and were rewarded with land in Canada. Thus, Canadian English was, from its very beginning, both American – because its speakers had come from the American colonies – and not American, because they rejected the newly independent nation. Just as the Americans sought to have a truly distinct, independent American version of English, the loyalists sought to remain more like England… sort of. These were people whose variety of English was already diverging from the British and vice versa: when the residents of London and its environs began to drop their r’s and change some of their vowels people in certain parts of the United States adopted some of these changes, but Canadians did not.
+---
+## Questions 1–5
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 1 Canadian English is considered more like British English by Canadians.
+@tfng 2 Canadian English is pretty similar to British, with some minor differences.
+@tfng 3 The St Lawrence River was colonised by Canadians in 1600.
+@tfng 4 Canadian English is considered neither American nor not American.
+@tfng 5 Many English-speaking countries adopted changes in pronunciation.
+
+= Exercise 3
+# A Neuroscientist Reveals How to Think Differently
+In the last decade a revolution has occurred in the way that scientists think about the brain. We now know that the decisions humans make can be traced to the firing patterns of neurons in specific parts of the brain. These discoveries have led to the field known as neuroeconomics, which studies the brain's secrets to success in an economic environment that demands innovation and being able to do things differently from competitors. A brain that can do this is an iconoclastic one. Briefly, an iconoclast is a person who does something that others say can't be done.
+This definition implies that iconoclasts are different from other people, but more precisely, it is their brains that are different in three distinct ways: perception, fear response, and social intelligence. Each of these three functions utilizes a different circuit in the brain. Naysayers might suggest that the brain is irrelevant, that thinking in an original, even revolutionary, way is more a matter of personality than brain function. But the field of neuroeconomics was born out of the realization that the physical workings of the brain place limitations on the way we make decisions. By understanding these constraints, we begin to understand why some people march to a different drumbeat.
+The first thing to realize is that the brain suffers from limited resources. It has a fixed energy budget, about the same as a 40-watt light bulb, so it has evolved to work as efficiently as possible. This is where most people are impeded from being an iconoclast. For example, when confronted with information streaming from the eyes, the brain will interpret this information in the quickest way possible. Thus, it will draw on both past experience and any other source of information, such as what other people say, to make sense of what it is seeing. This happens all the time. The brain takes shortcuts that work so well we are hardly ever aware of them.
+We think our perceptions of the world are real, but they are only biological and electrical rumblings. Perception is not simply a product of what your eyes or ears transmit to your brain. More than the physical reality of photons or sound waves, perception is a product of the brain. Perception is central to iconoclasm. Iconoclasts see things differently to other people. Their brains do not fall into efficiency pitfalls as much as the average person's brain. Iconoclasts, either because they were born that way or through learning, have found ways to work around the perceptual shortcuts that plague most people. Perception is not something that is hardwired into the brain. It is a learned process, which is both a curse and an opportunity for change. The brain faces the fundamental problem of interpreting physical stimuli from the senses. Everything the brain sees, hears, or touches has multiple interpretations. The one that is ultimately chosen is simply the brain's best theory. In technical terms, these conjectures have their basis in the statistical likelihood of one interpretation over another and are heavily influenced by past experience and, importantly for potential iconoclasts, what other people say.
+The best way to see things differently to other people is to bombard the brain with things it has never encountered before. Novelty releases the perceptual process from the chains of past experience and forces the brain to make new judgments. Successful iconoclasts have an extraordinary willingness to be exposed to what is fresh and different. Observation of iconoclasts shows that they embrace novelty while most people avoid things that are different.
+The problem with novelty, however, is that it tends to trigger the brain's fear system. Fear is a major impediment to thinking like an iconoclast and stops the average person in his tracks. There are many types of fear, but the two that inhibit iconoclastic thinking and people generally find difficult to deal with are fear of uncertainty and fear of public ridicule. These may seem like trivial phobias. But fear of public speaking, which everyone must do from time to time, afflicts one-third of the population. This makes it too common to be considered a mental disorder. It is simply a common variant of human nature, one which iconoclast do not let inhibit their reactions.
+Finally, to be successful iconoclasts, individuals must sell their ideas to other people. This is where social intelligence comes in. Social intelligence is the ability to understand and manage people in a business setting.
+In the last decade there has been an explosion of knowledge about the social brain and how the brain works when groups coordinate decision making. Neuroscience has revealed which brain circuits are responsible for functions like understanding what other people think, empathy, fairness, and social identity. These brain regions play key roles in whether people convince others of their ideas. Perception is important in social cognition too. The perception of someone's enthusiasm, or reputation, can make or break a deal. Understanding how perception becomes intertwined with social decision-making shows why successful iconoclasts are so rare.
+Iconoclasts create new opportunities in every area from artistic expression to technology to business. They supply creativity and innovation not easily accomplished by committees. Rules aren't important to them.
+Iconoclasts face alienation and failure, but can also be a major asset to any organization. It is crucial for success in any field to understand how the iconoclastic mind works.
+---
+## Questions 1–6
+> Choose **YES** if the statement agrees with the claims of the writer, choose **NO** if the statement contradicts the claims of the writer, or choose **NOT GIVEN** if it is impossible to say what the writer thinks about this.
+@ynng 1 Exposure to different events forces the brain to think differently.
+@ynng 2 Iconoclasts are unusually receptive to new experiences.
+@ynng 3 Most people are too shy to try different things.
+@ynng 4 If you think in an iconoclastic way, you can easily overcome fear.
+@ynng 5 When concern about embarrassment matters less, other fears become irrelevant.
+@ynng 6 Fear of public speaking is a psychological illness.
+
+// ---------- Homework (T/F/NG) ----------
+= Homework Ex 1
+# Programmable Plants
+In electronics, even the most advanced computer is just a complex arrangement of simple, modular parts that control specific functions; the same integrated circuit might be found in an iPhone, or in an aircraft. Biologists are creating this same modularity in – wait for it – plants, by designing gene "circuits" that control specific plant characteristics – color, size, resistance to drought, you name it. The relatively new, interdisciplinary field is synthetic biology – the design of genetic circuits, just like in electronics, that control different functions and can be easily placed in one organism or the next. Most of today's synthetic biologists work with simple microorganisms, like E. coli or yeast. A CSU team led by June Medford, professor of biology, and Ashok Prasad, associate professor of chemical and biological engineering, is doing the same thing, but in the much more complex biological world of plants.
+---
+## Questions 1–3
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 1 The scientists are using a technique from electronics to control specific plant properties.
+@tfng 2 Some synthetic biologists work with genetic circuits of mammals.
+@tfng 3 Most of synthetic biologists work with mammals.
+
+= Homework Ex 2
+# Grizzly Bears
+Grizzly bears usually begin hibernation in November and will get no water or nourishment. They survive on their accumulated fat stores for the next 5 to 6 months. Around March or April, male grizzly bears usually come out of their den, whereas females emerge in late April or May. The first food a grizzly bear eats is the carcasses of animals that died during winter. A grizzly bear will usually walk to lower elevations to reach snow-free areas that contain vegetation. This sometimes causes grizzly bears to come into direct conflict with humans who build their homes along the rivers that bears go to in order to find food.
+---
+## Questions 1–3
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 1 Male grizzly bears normally finish hibernating before the females of the species.
+@tfng 2 After hibernation, grizzly bears first search for berries.
+@tfng 3 Grizzly bears are often killed by humans when they come into conflict as the bear searches for food near rivers.
+
+= Homework Ex 3
+# Geometry
+Geometry (from the Ancient Greek: geo- "earth", -metron "measurement") is a branch of mathematics concerned with questions of shape, size, relative position of figures, and the properties of space. The earliest recorded beginnings of geometry can be traced to ancient Mesopotamia and Egypt in the 2nd millennium BC. An important application of geometry is in the field of architecture. Apart from the mathematics needed when engineering buildings, architects use geometry for several reasons: to define the spatial form of a building; to create forms that are considered harmonious; to lay out buildings and their surroundings according to mathematical, aesthetic and sometimes religious principles; to decorate buildings with mathematical objects such as tessellations; and to meet environmental goals, such as to minimise wind speeds around the bases of tall buildings. In the graphic arts, geometry can be seen in the use of perspective, which may be described as the approximate representation, generally on a flat surface (such as paper), of an image as it is seen by the eye. The two most characteristic features of perspective are that objects appear smaller as their distance from the observer increases, and that they are subject to foreshortening, meaning that an object's dimensions along the line of sight appear shorter than its dimensions across the line of sight.
+---
+## Questions 1–4
+> Choose **YES** if the statement agrees with the claims of the writer, choose **NO** if the statement contradicts the claims of the writer, or choose **NOT GIVEN** if it is impossible to say what the writer thinks about this.
+@ynng 1 Humans have used geometry for well over two thousand years.
+@ynng 2 Religious buildings are often decorated with geometric patterns.
+@ynng 3 Many artists do not realise that they are using geometry.
+@ynng 4 Perspective, in the graphic arts, involves the use of size to imply distance.
+
+= Homework Ex 4
+# The Megafires of California
+_ Drought, housing expansion, and oversupply of tinder make for bigger, hotter fires in the western United States.
+Wildfires are becoming an increasing menace in the western United States, with Southern California being the hardest hit area. There's a reason fire squads battling more frequent blazes in Southern California are having such difficulty containing the flames, despite better preparedness than ever and decades of experience fighting fires fanned by the 'Santa Ana Winds'. The wildfires themselves, experts say, are generally hotter, faster, and spread more erratically than in the past.
+Megafires, also called 'siege fires', are the increasingly frequent blazes that burn 500,000 acres or more – 10 times the size of the average forest fire of 20 years ago. Some recent wildfires are among the biggest ever in California in terms of acreage burned, according to state figures and news reports. One explanation for the trend to more superhot fires is that the region, which usually has dry summers, has had significantly below normal precipitation in many recent years. Another reason, experts say, is related to the century-long policy of the US Forest Service to stop wildfires as quickly as possible. The unintentional consequence has been to halt the natural eradication of underbrush, now the primary fuel for megafires.
+Three other factors contribute to the trend, they add. First is climate change, marked by a 1-degree Fahrenheit rise in average yearly temperature across the western states. Second is fire seasons that on average are 78 days longer than they were 20 years ago. Third is increased construction of homes in wooded areas. 'We are increasingly building our homes in fire-prone ecosystems,' says Dominik Kulakowski, adjunct professor of biology at Clark University Graduate School of Geography in Worcester, Massachusetts. 'Doing that in many of the forests of the western US is like building homes on the side of an active volcano.'
+In California, where population growth has averaged more than 600,000 a year for at least a decade, more residential housing is being built. 'What once was open space is now residential homes providing fuel to make fires burn with greater intensity,' says Terry McHale of the California Department of Forestry firefighters' union. 'With so much dryness, so many communities to catch fire, so many fronts to fight, it becomes an almost incredible job.'
+That said, many experts give California high marks for making progress on preparedness in recent years, after some of the largest fires in state history scorched thousands of acres, burned thousands of homes, and killed numerous people. Stung in the past by criticism of bungling that allowed fires to spread when they might have been contained, personnel are meeting the peculiar challenges of neighborhood- and canyon-hopping fires better than previously, observers say.
+State promises to provide more up-to-date engines, planes, and helicopters to fight fires have been fulfilled. Firefighters' unions that in the past complained of dilapidated equipment, old fire engines, and insufficient blueprints for fire safety are now praising the state's commitment, noting that funding for firefighting has increased, despite huge cuts in many other programs. 'We are pleased that the current state administration has been very proactive in its support of us, and [has] come through with budgetary support of the infrastructure needs we have long sought,' says Mr. McHale of the firefighters' union.
+Besides providing money to upgrade the fire engines that must traverse the mammoth state and wind along serpentine canyon roads, the state has invested in better command-and-control facilities as well as in the strategies to run them. 'In the fire sieges of earlier years, we found that other jurisdictions and states were willing to offer mutual-aid help, but we were not able to communicate adequately with them,' says Kim Zagaris, chief of the state's Office of Emergency Services Fire and Rescue Branch.
+After a commission examined and revamped communications procedures, the statewide response 'has become far more professional and responsive,' he says. There is a sense among both government officials and residents that the speed, dedication, and coordination of firefighters from several states and jurisdictions are resulting in greater efficiency than in past 'siege fire' situations.
+In recent years, the Southern California region has improved building codes, evacuation procedures, and procurement of new technology. 'I am extraordinarily impressed by the improvements we have witnessed,' says Randy Jacobs, a Southern California-based lawyer who has had to evacuate both his home and business to escape wildfires. 'Notwithstanding all the damage that will continue to be caused by wildfires, we will no longer suffer the loss of life endured in the past because of the fire prevention and firefighting measures that have been put in place,' he says.
+---
+## Questions 1–6
+> Complete the notes below.
+> Choose **ONE WORD AND/OR A NUMBER** from the passage for each answer.
+### Wildfires
+**Characteristics of wildfires and wildfire conditions today compared to the past:**
+– occurrence: more frequent
+– temperature: hotter
+– speed: faster
+– movement: [[1]] more unpredictably
+– size of fires: [[2]] greater on average than two decades ago
+**Reasons wildfires cause more damage today compared to the past:**
+– rainfall: [[3]] average
+– more brush to act as [[4]]
+– increase in yearly temperature
+– extended fire [[5]]
+– more building of [[6]] in vulnerable places
+## Questions 7–13
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 7 The amount of open space in California has diminished over the last ten years.
+@tfng 8 Many experts believe California has made little progress in readying itself to fight fires.
+@tfng 9 Personnel in the past have been criticised for mishandling fire containment.
+@tfng 10 California has replaced a range of firefighting tools.
+@tfng 11 More firefighters have been hired to improve fire-fighting capacity.
+@tfng 12 Citizens and government groups disapprove of the efforts of different states and agencies working together.
+@tfng 13 Randy Jacobs believes that loss of life from fires will continue at the same levels, despite changes made.

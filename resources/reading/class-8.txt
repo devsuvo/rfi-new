@@ -1,0 +1,150 @@
+= Warm-up
+# What is an 'elevator pitch'?
+An “elevator pitch” is an overview of a product, service, person, group, organisation or project, and is often part of a fund-raising, marketing, brand or public relations program. The name "elevator pitch" reflects the idea that it should be possible to deliver a short but effective presentation in the time span of an elevator ride from the ground floor to the directors’ boardroom on the top floor of a building. An elevator pitch is often used by an entrepreneur pitching an idea to an investor to receive funding. Venture capitalists often ask entrepreneurs to give an elevator pitch in order to quickly weed out bad ideas and weak teams. Other uses include job interviewing, dating and professional services. Proposals for books, screenplays, blogs and other forms of publishing are often delivered via an elevator pitch, which may be presented in oral, written or video formats.
+---
+## Questions 1–5
+> Which words or phrases in the passage are similar to those below? Write one word or phrase from the passage in each box.
+a summary: [[1]]
+concise: [[2]]
+gain financial backing: [[3]]
+eliminate: [[4]]
+spoken: [[5]]
+
+= Exercise 1
+# 'This Marvellous Invention'
+Of all mankind’s manifold creations, language must take pride of place. Other inventions – the wheel, agriculture, sliced bread – may have transformed our material existence, but the advent of language is what made us human. Compared to language, all other inventions pale in significance, since everything we have ever achieved depends on language and originates from it. Without language, we could never have embarked on our ascent to unparalleled power over all other animals, and even over nature itself. But language is foremost not just because it came first. In its own right it is a tool of extraordinary sophistication, yet based on an idea of ingenious simplicity: ‘this marvellous invention of composing out of twenty-five or thirty sounds that infinite variety of expressions which, whilst having in themselves no likeness to what is in our mind, allow us to disclose to others its whole secret, and to make known to those who cannot penetrate it all that we imagine, and all the various stirrings of our soul’. This was how, in 1660, the renowned French grammarians of the Port-Royal abbey near Versailles distilled the essence of language, and no one since has celebrated more eloquently the magnitude of its achievement. Even so there is just one flaw in all these hymns of praise, for the homage to language’s unique accomplishment conceals a simple yet critical incongruity. Language is mankind’s greatest invention – except, of course, that it was never invented. This apparent paradox is at the core of our fascination with language, and it holds many of its secrets.
+---
+## Questions 1–4
+> Complete the summary using the list of words, **A–G**, below.
+### The importance of language
+@box
+* A. difficult
+* B. complex
+* C. original
+* D. admired
+* E. material
+* F. easy
+* G. fundamental
+The wheel is one invention that has had a major impact on [[1:A-G]] aspects of life, but no impact has been as [[2:A-G]] as that of language. Language is very [[3:A-G]], yet composed of just a small number of sounds. Language appears to be [[4:A-G]] to use. However, its sophistication is often overlooked.
+
+= Exercise 2
+The instructions accompanying do-it-yourself products are regularly cited as a source of unnecessary expense or frustration. Few companies seem to test their instructions by having them followed by a first-time user. Often, essential information is omitted, steps in the construction process are taken for granted, and some degree of special knowledge is assumed. This is especially worrying in any field where failure to follow correct procedures can be dangerous. Objections to material in plain English have come mainly from the legal profession. Lawyers point to the risk of ambiguity inherent in the use of everyday language for legal or official documents, and draw attention to the need for confidence in legal formulations, which can come only from using language that has been tested in courts over the course of centuries. The campaigners point out that there has been no sudden increase in litigation as a consequence of the increase in plain English materials. Similarly, professionals in several different fields have defended their use of technical and complex language as being the most precise means of expressing technical or complex ideas. This is undoubtedly true: scientists, doctors, bankers and others need their jargon in order to communicate with each other succinctly and unambiguously. But when it comes to addressing the non-specialist consumer, the campaigners argue, different criteria must apply.
+---
+## Questions 1–4
+> Complete the summary below.
+> Choose **NO MORE THAN TWO WORDS** from the passage for each answer.
+Consumers often complain that they experience a feeling of [[1]] when trying to put together do-it-yourself products which have not been tested by companies on a [[2]]. In situations where not keeping to the correct procedures could affect safety issues, it is especially important that [[3]] information is not left out and no assumptions are made about a stage being self-evident or the consumer having a certain amount of [[4]].
+
+= Exercise 3
+# Soft Centres – Hard Profits
+_ Are you being seduced by the sweet industry?
+If chocolate were found to be seriously addictive, then the UK would need major therapy to kick the habit. The British lead the world in their love of the cocoa-based treat. As a product, chocolate has a lot going for it, appealing to all ages, both sexes and all income brackets. In 1997, the value of the total UK confectionery market increased by 3% to a staggering £5.2 billion, with chocolate sales accounting for 70%, at £3.6 billion, and sugar confectionery the remaining £1.6 billion. The UK market has shown consistent growth - increasing over the last decade by around 16%.
+"Chocolate confectionery is a market that seems to be remarkably resistant," says Pamela Langworthy, marketing director for Thorntons, the luxury chocolate producer and retailer. It also increasingly transcends national boundaries. In 1997, Swiss Nestle, the largest confectioner, exported over a quarter of its production to more than 100 countries. Nestle has recorded particularly fast growth in confectionary sales in Asia, with its expansion of KitKat into several countries in the region. Eastern Europe provides another promising market. But few markets challenge the UK in terms of current confectionary consumption. In the US, the land associated with excess, each American devours a mere 10kg of confectionery per person a year, whereas UK consumers each manage 16kg. In Europe, where the chocolate market is estimated to be worth £12 billion ($18.5 billion), the UK accounts for almost a third of that total, followed some way behind by Germany, France and Italy.
+Around 60% of all confectionery is bought on impulse, which makes its availability a key determinant of sales. Impulse buying also makes the development of a strong brand image vital, and large, long-established brands control the market. Building up these brands costs serious money. Media expenditure on confectionery exceeds that for any other impulse market. The Cadbury & Trebor Bassett 1997 Confectionary Review reveals that in 1996, media expenditure on chocolate reached £94m, compared with £69m spent on soft drinks, £31m on the lottery and £23m on crisps and snacks.
+Innovation is also essential for ongoing success, despite the chocolate market being dominated by 'consistent performers'. In 1996 the chocolate company Mars launched ‘Flyte’, claiming to be the first mainstream brand to address the demand for lower fat products. At 98 calories a bar, Flyte is designed to appeal to weight-conscious women. Another 1997 Mars launch, 'Celebrations', is claimed by the company's annual review to be showing signs of 'revolutionising the boxed chocolates market by attracting new, younger customers. Traditionally, the boxed chocolates market hasn't changed very much. People who buy the products tend to be older and female. With Celebrations, we are finding that younger people and men are buying because the chocolate doesn't come in the traditional-shaped box - they look different. Products such as Flyte and Celebrations are attempts to introduce a different product category and increase sales for retailers, rather than just shifting market share,' a Mars spokesman says.
+One feature of the chocolate industry in recent years has been the emergence of special editions. The concept was a marketing triumph. Producers believe that special editions offer the consumer a new and exciting variation of a product, while suggesting the same consistent quality they associate with familiar brands. Since special editions are only available for a few weeks while stocks last, they also have a unique quality about them. Far from denting sales of the straight version, limited editions appear to simply boost overall sales.
+---
+## Questions 1–5
+> Complete the summary below.
+> Choose **NO MORE THAN TWO WORDS AND/OR A NUMBER** from the passage for each answer.
+### Chocolate – the figures
+The chocolate market in the UK in 1997 was worth £[[1]], having shown a steady increase during the preceding 10 year period. Overall the manufacturer Swiss Nestle supplies chocolate to over [[2]] and the company has seen rapid sales increases in the markets in [[3]]. Nevertheless, the UK market remains the biggest – surprisingly, British people eat more than [[4]] consumers. Within the European market, their consumption amounts to nearly [[5]] of the total revenue.
+## Questions 6–12
+> Complete the summary using the list of words, **A–P**, below.
+### The Chocolate Market
+@box
+* A. purchasing
+* B. low fat
+* C. selection
+* D. media
+* E. impulse
+* F. similarly
+* G. eating
+* H. outdated
+* I. novelty
+* J. unsuccessful
+* K. well-known
+* L. international
+* M. new
+* N. children's
+* O. lasting
+* P. temporary
+The chocolate market is dominated by [[6:A-P]] brands. For this reason, confectioners spend large sums of money on [[7:A-P]] advertisements. In fact, in 1996, the amount spent totaled £94m. However, it is also important for companies to allocate resources to developing [[8:A-P]] ideas. Examples of these are the 'Flyte' bar and 'Celebrations'. Chocolate producers try to increase sales by changing their customers' [[9:A-P]] habits. For example, Mars's new line of products appeals to younger customers because its packaging does not look [[10:A-P]]. A [[11:A-P]] increase in sales can be achieved by introducing 'special editions' on to the market. These are successful because they have [[12:A-P]] value.
+
+// ---------- Homework (Summary Completion) ----------
+= Homework Warm-up
+# Brain Grinding
+**1.** Some of these animals, the experts have learned, have their migration pathways written into their genes.
+**2.** A songbird hatched in a laboratory, having seen nothing in the natural world, still attempts to begin migration at the right time of the year and in the right cardinal direction.
+**3.** Large mammals like bighorn sheep and moose are a different story; their annual journeys are the results of learning from one another, not of genetic inheritance. A new study published in the journal Science suggests that those hunches may be correct – some animals must learn how to migrate.
+---
+## Questions 1–3
+> Complete each sentence with a word from the matching extract.
+Scientists believe that [[1]] are responsible for some animal migration.
+Songbirds, for example, do not need to learn when and which [[2]] to migrate.
+Bighorn sheep appear to [[3]] migration habits from the herd.
+
+= Homework Ex 1
+# A Work of Genius
+By the beginning of the 15th century, after a hundred years of construction, Florence Cathedral was still missing its dome. The building required an octagonal dome which would be higher and wider than any that had ever been built, with no external buttresses to keep it from spreading and falling under its own weight. The building of such a masonry dome posed many technical problems. Filippo Brunelleschi, who is now seen as a key figure in architecture and perhaps the first modern engineer, looked to the great dome of the Pantheon in Rome for solutions. The dome of the Pantheon is a single shell of concrete, the formula for which had long since been forgotten. Soil filled with silver coins had held the Pantheon dome aloft while its concrete set. This could not be the solution in the case of the Florence Cathedral dome, due to its size. Another possible solution, the use of scaffolding, was also impractical because there was not enough timber in the whole of the region of Tuscany. Brunelleschi would have to build the dome out of brick, due to its light weight compared to stone and being easier to form, and with nothing under it during construction. His eventual success can be attributed, in no small degree, to his technical and mathematical genius. Brunelleschi used more than four million bricks to create what is still the largest masonry dome in the world.
+---
+## Questions 1–6
+> Complete the summary using the list of words, **A–I**, below.
+@box
+* A. Brick
+* B. Width
+* C. Materials
+* D. Earth
+* E. Wood
+* F. Succeeded
+* G. Concrete
+* H. Height
+* I. Achieved
+Due to the [[1:A-I]] and [[2:A-I]] of the required structure, the construction of a dome for the cathedral in Florence had challenged architects for many years. A method employed by the Romans, using [[3:A-I]] to support a dome while it was being built, was not suitable, and an insufficient supply of [[4:A-I]] meant that scaffolding could not be used either. The architect Brunelleschi finally [[5:A-I]] in building the largest [[6:A-I]] dome in the world.
+
+= Homework Ex 2
+# Rubik's Cube
+Erno Rubik first studied sculpture and then later architecture in Budapest, where he went on to become a teacher of interior design. It was while he was working as a teacher that he began the preliminary work on an invention that he called the 'Magic Cube'. Rubik was inspired by geometric puzzles such as the Chinese tangram, a puzzle consisting of various triangles, a square and a parallelogram which can be combined to create different shapes and figures. However, unlike the tangram, which is two-dimensional, Rubik was more interested in investigating how three-dimensional forms, such as the cube, could be moved and combined to produce other forms. His design consisted of a cube made up of layers of individual smaller cubes, and each smaller cube could be turned in any direction except diagonally. To ensure that the cubes could move independently, without falling apart, Rubik first attempted to join them together using elastic bands. However, this proved to be impossible, so Rubik then solved the problem by assembling them using a rounded interior. This permitted them to move smoothly and easily. He experimented with different ways of marking the smaller cubes, but ended up with the simple solution of giving a different colour to each side. The object was to twist the layers of small cubes so that each side of the large cube was an identical colour.
+Rubik took out a patent for the Cube in 1977 and started manufacturing it in the same year. The Cube came to the attention of a Hungarian businessman, Tibor Laczi, who then demonstrated it at the Nuremberg Toy Fair. When British toy expert Tom Kremer saw it, he thought it was amazing and he persuaded a manufacturer, Ideal Toys, to produce 1 million of them in 1979. Ideal Toys renamed the Cube after the toy's inventor, and in 1980, Rubik's Cube was shown at toy fairs all over the world. It won that year's prize in Germany for Best Puzzle. Rubik's Cube is believed to be the world's best-selling puzzle; since its invention, more than 300 million Cubes have been sold worldwide.
+---
+## Questions 1–7
+> Complete the summary below.
+> Choose **NO MORE THAN THREE WORDS** from the passage for each answer.
+Originally named the [[1]], Rubik's Cube consists of a number of smaller cubes organised in [[2]]. The smaller cubes can be twisted in almost any way, though not [[3]]. The Cube's [[4]] is shaped in a way that allows the smaller cubes to move smoothly. Each side of the smaller cubes has a different colour, and the aim of the puzzle is to organise the cubes so that the colours on the sides of the large cube are [[5]]. The manufacturers of the puzzle changed the name of the Cube to the name of its [[6]]; it has now sold more than any other [[7]] in the world.
+
+= Homework Ex 3
+# Striking Back at Lightning With Lasers
+Seldom is the weather more dramatic than when thunderstorms strike. Their electrical fury inflicts death or serious injury on around 500 people each year in the United States alone. As the clouds roll in, a leisurely round of golf can become a terrifying dice with death – out in the open, a lone golfer may be a lightning bolt's most inviting target. And there is damage to property too. Lightning damage costs American power companies more than $100 million a year.
+But researchers in the United States and Japan are planning to hit back. Already in laboratory trials they have tested strategies for neutralising the power of thunderstorms, and this winter they will brave real storms, equipped with an armoury of lasers that they will be pointing towards the heavens to discharge thunderclouds before lightning can strike.
+The idea of forcing storm clouds to discharge their lightning on command is not new. In the early 1960s, researchers tried firing rockets trailing wires into thunderclouds to set up an easy discharge path for the huge electric charges that these clouds generate. The technique survives to this day at a test site in Florida run by the University of Florida, with support from the Electrical Power Research Institute (EPRI), based in California.
+EPRI, which is funded by power companies, is looking at ways to protect the United States' power grid from lightning strikes. 'We can cause the lightning to strike where we want it to using rockets,' says Ralph Bernstein, manager of lightning projects at EPRI. The rocket site is providing precise measurements of lightning voltages and allowing engineers to check how electrical equipment bears up.
+But, while rockets are fine for research, they cannot provide the protection from lightning strikes that everyone is looking for. The rockets cost around $1,200 each, can only be fired at a limited frequency and their failure rate is about 40 per cent. And even when they do trigger lightning, things still do not always go according to plan. 'Lightning is not perfectly well behaved,' says Bernstein. 'Occasionally, it will take a branch and go someplace it wasn't supposed to go.'
+And anyway, who would want to fire streams of rockets in a populated area? 'What goes up must come down,' points out Jean-Claude Diels of the University of New Mexico. Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely – and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk. With around $500,000 invested so far, a promising system is just emerging from the laboratory. The idea began some 20 years ago, when high-powered lasers were revealing their ability to extract electrons out of atoms and create ions. If a laser could generate a line of ionisation in the air all the way up to a storm cloud, this conducting path could be used to guide lightning to Earth, before the electric field becomes strong enough to break down the air in an uncontrollable surge. To stop the laser itself being struck, it would not be pointed straight at the clouds. Instead it would be directed at a mirror, and from there into the sky. The mirror would be protected by placing lightning conductors close by. Ideally, the cloud-zapper (gun) would be cheap enough to be installed around all key power installations, and portable enough to be taken to international sporting events to beam up at brewing storm clouds.
+However, there is still a big stumbling block. The laser is no nifty portable: it's a monster that takes up a whole room. Diels is trying to cut down the size and says that a laser around the size of a small table is in the offing. He plans to test this more manageable system on live thunderclouds next summer.
+Bernstein says that Diels's system is attracting lots of interest from the power companies. But they have not yet come up with the $5 million that EPRI says will be needed to develop a commercial system, by making the lasers yet smaller and cheaper. 'I cannot say I have money yet, but I'm working on it,' says Bernstein. He reckons that the forthcoming field tests will be the turning point – and he's hoping for good news. Bernstein predicts 'an avalanche of interest and support' if all goes well. He expects to see cloud-zappers eventually costing $50,000 to $100,000 each.
+Other scientists could also benefit. With a lightning 'switch' at their fingertips, materials scientists could find out what happens when mighty currents meet matter. Diels also hopes to see the birth of 'interactive meteorology' – not just forecasting the weather but controlling it. 'If we could discharge clouds, we might affect the weather,' he says. And perhaps, says Diels, we'll be able to confront some other meteorological menaces. 'We think we could prevent hail by inducing lightning,' he says. Thunder, the shock wave that comes from a lightning flash, is thought to be the trigger for the torrential rain that is typical of storms. A laser thunder factory could shake the moisture out of clouds, perhaps preventing the formation of the giant hailstones that threaten crops. With luck, as the storm clouds gather this winter, laser-toting researchers could, for the first time, strike back.
+---
+## Questions 1–3
+> Complete the sentences below.
+> Choose **NO MORE THAN TWO WORDS** from the passage for each answer.
+EPRI receives financial support from [[1]].
+The advantage of the technique being developed by Diels is that it can be used [[2]].
+The main difficulty associated with using the laser equipment is related to its [[3]].
+## Questions 4–6
+> Choose **YES** if the statement agrees with the claims of the writer, choose **NO** if the statement contradicts the claims of the writer, or choose **NOT GIVEN** if it is impossible to say what the writer thinks about this.
+@ynng 4 Power companies have given Diels enough money to develop his laser.
+@ynng 5 Obtaining money to improve the lasers will depend on tests in real storms.
+@ynng 6 Weather forecasters are intensely interested in Diels's system.
+## Questions 7–10
+> Complete the summary using the list of words, **A–I**, below.
+@box
+* A. cloud-zappers
+* B. atoms
+* C. storm clouds
+* D. mirrors
+* E. technique
+* F. ions
+* G. rockets
+* H. conductors
+* I. thunder
+In this method, a laser is used to create a line of ionisation by removing electrons from [[7:A-I]]. This laser is then directed at [[8:A-I]] in order to control electrical charges, a method which is less dangerous than using [[9:A-I]]. As a protection for the lasers, the beams are aimed firstly at [[10:A-I]].

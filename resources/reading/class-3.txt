@@ -1,0 +1,162 @@
+= Exercise 1
+# Why do we sleep?
+Researchers have found that sleep is beneficial to humans in many ways: it helps us process memories, and keeps our social and emotional lives on track. Yet we still do not really know how, why or evenexactly when sleep evolved. “The cost of losing consciousness to survival is astronomical,” says Matthew Walker at the University of California in Berkeley. Whatever functions sleep performs, they must be so fundamentally important that they far outweigh the obvious vulnerability associated with being asleep. This means we can confidently reject one of the simplest theories of sleep: that we drift off simply because we have nothing better to do. This could be described as the indolence theory of sleep. Once an animal has eaten, seen off any rivals and exhausted any potential mating opportunities, it effectively has an empty schedule, and losing consciousness kills time for a few hours.
+It is a fun idea, but considering that a sleeping animal is significantly more likely to be caught and eaten than a waking animal, this hypothesis makes “zero sense”, says Walker. There is now an emerging consensus on the behavioural features that define sleep, and these features can be used to look for sleep in simple animals, says Ravi Allada at Northwestern University in Evanston, Illinois.
+There are three main elements, says Allada. First and foremost, sleep renders an animal quiet and still: muscles are not very active during sleep. Second, sleep makes animals slower to respond. For instance, if you make a loud noise near a sleeping animal, it will react more slowly than an awake animal. And finally, we can recognise sleep because it keeps animals from getting tired “I believe that the behavioural features used to characterise sleep are quite reliable for identifying this behaviour in animals and to differentiate sleep from a simple rest,” says Paul-Antoine Libourel at the Lyon Neuroscience Research Center in France.
+According to Libourel, sleep now appears to be an almost universal feature of animal life. “This suggeststhat sleep is fundamental for the survival of species. Natural selection did not suppress it. In fact, naturalselection did the exact opposite: it built on the concept of sleep, adding in new stages and new functions.”“At some point in prehistory, the most famous of all stages of sleep appeared: rapid eye movement (REM)sleep,” says Walker. “Non-REM sleep was the original form.”
+Sleep impacts every major system in the body. Cut down on sleep and it is not just your brain thatstruggles: the reproductive, metabolic, cardiovascular, thermoregulatory and immune systems all suffertoo, says Libourel. All the explanations for sleep we have looked at ultimately boil down to the same thing: sleep is a state we enter to fix the systems that are put under stress when we are awake.
+---
+## Questions 1–7
+> Classify the following statements as referring to the people below.
+> Choose **A**, **B** or **C**.
+@box List of People
+* A. Matthew Walker
+* B. Ravi Allada
+* C. Paul-Antoine Libourel
+@sel 1 A-C There are three main behavioural features incident to sleep.
+@sel 2 A-C The idea that we sleep because we have nothing else to do is absurd.
+@sel 3 A-C At some point in the evolution, a new stage of sleep appeared: rapid eye movement sleep.
+@sel 4 A-C Natural selection did not suppress sleep, but developed it.
+@sel 5 A-C Sleep makes animals' reaction slower.
+@sel 6 A-C Every major system in human's body suffers because of lack of sleep.
+@sel 7 A-C Muscles are not very active during sleep.
+
+= Exercise 2
+# A song on the brain
+_ Some songs just won't leave you alone. But this may give us clues about how our brain works
+[A] Everyone knows the situation where you can't get a song out of your head. You hear a pop song on theradio - or even just read the song's title and it haunts you for hours, playing over and over in your minduntil you're heartily sick of it. The condition now even has a medical name 'song-in-head syndrome'.
+[B] But why does the mind annoy us like this? No one knows for sure, but it's probably because the brainis better at holding onto information than it is at knowing what information is important. Roger Chaffin, apsychologist at the University of Connecticut says, 'It's a manifestation of an aspect of memory which is normally an asset to us, but in this instance it can be a nuisance.'
+[C] This eager acquisitiveness of the brain may have helped our ancestors remember important informationin the past. Today, students use it to learn new material, and musicians rely on it to memorise complicatedpieces. But when this useful function goes awry it can get you stuck on a tune. Unfortunately, superficial,repetitive pop tunes are, by their very nature, more likely to stick than something more inventive.
+[D] The annoying playback probably originates in the auditory cortex. Located at the front of the brain,this region handles both listening and playback of music and other sounds. Neuroscientist Robert Zatorreof McGill University in Montreal proved this some years ago when he asked volunteers to replay thetheme from the TV show Dallas in their heads. Brain imaging studies showed that this activated the sameregion of the auditory cortex as when the people actually heard the song.
+[E] Not every stored musical memory emerges into consciousness, however. The frontal lobe of the braingets to decide which thoughts become conscious and which ones are simply stored away. But it canbecome fatigued or depressed, which is when people most commonly suffer from song-in-head syndromeand other intrusive thoughts, says Susan Ball, a clinical psychologist at Indiana University School ofMedicine in Indianapolis. And once the unwanted song surfaces, it's hard to stuff it back down into thesubconscious. 'The more you try to suppress a thought, the more you get it,' says Ball. 'We call this thepink elephant phenomenon. Tell the brain not to think about pink elephants, and it's guaranteed to do so,'she says.
+[F] For those not severely afflicted, simply avoiding certain kinds of music can help. 'I know certain piecesthat are kind of "sticky" to me, so I will not play them in the early morning for fear that they will runaround in my head all day,' says Steven Brown, who trained as a classical pianist but is now aneuroscientist at the University of Texas Health Science Center at San Antonio. He says he always has asong in his head and, even more annoying, his mind never seems to make it all the way through. 'It tendsto involve short fragments between, say, 5 or 15 seconds. They seem to get looped, for hours sometimes,'he says.
+[G] Brown's experience of repeated musical loops may represent a phenomenon called 'chunking', in whichpeople remember musical phrases as a single unit of memory, says Caroline Palmer, a psychologist atOhio State University in Columbus. Most listeners have little choice about what chunks they remember.Particular chunks may be especially 'sticky' if you hear them often or if they follow certain predictablepatterns, such as the chord progression of rock 'n' roll music. Palmer's research shows that the more a48 piece of music conforms to these patterns, the easier it is to remember. That's why you're more likely to behaunted by the tunes of pop music than by those of a classical composer such as J. S. Bach.
+[H] But this ability can be used for good as well as annoyance. Teachers can tap into memoryreinforcement by setting their lessons to music. For example, in one experiment students who heard ahistory text set as the lyrics to a catchy song remembered the words better than those who simply readthem, says Sandra Calvert, a psychologist at Georgetown University in Washington DC.
+[I] This sort of memory enhancement may even explain the origin of music. Before the written word couldbe used to record history, people memorised it in songs, says Leon James, a psychologist at the University of Hawaii. And music may have had an even more important role. ‘All music has a message.' he says. ‘This message functions to unite society and to standardise the thought processes of people in society.’
+---
+## Questions 1–4
+> Look at the following theories (Questions 1–4) and the list of people below. Match each theory with the person it is credited to. Choose the correct letter, **A–F**.
+@box List of People
+* A. Roger Chaffin
+* B. Susan Ball
+* C. Steven Brown
+* D. Caroline Palmer
+* E. Sandra Calvert
+* F. Leon James
+@sel 1 A-F The memorable nature of some tunes can help other learning processes.
+@sel 2 A-F Music may not always be stored in the memory in the form of separate notes.
+@sel 3 A-F People may have started to make music because of their need to remember things.
+@sel 4 A-F Having a song going round your head may happen to you more often when one part of the brain is tired.
+## Questions 5–9
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 5 The term ‘song-in-head syndrome’ was first decided to be used in a different field.
+@tfng 6 Every piece of musical memory grows into consciousness.
+@tfng 7 Steven Brown refrains himself from playing certain kinds of music in the morning to avoid suffering from the ‘song-in-head syndrome’.
+@tfng 8 Pop music causes more song-in-head syndrome than does classical music.
+@tfng 9 Music tended to disintegrate society.
+
+= Exercise 3
+# Being Left-handed in a Right-handed World
+_ The world is designed for right-handed people. Why does a tenth of the population prefer the left?
+The probability that two right-handed people would have a left-handed child is only about 9.5 percent. The chance rises to 19.5 percent if one parent is a lefty and 26 percent if both parents are left-handed. The preference, however, could also stem from an infant’s imitation of his/her parents. To test genetic influence, starting in the 1970s British biologist Marian Annett of the University of Leicester hypothesized that no single gene determines handedness. Rather, during fetal development, a certain molecular factor helps to strengthen the brain’s left hemisphere, which increases the probability that the right hand will be dominant, because the left side of the brain controls the right side of the body, and vice versa. Among the minority of people who lack this factor, handedness develops entirely by chance. Research conducted on twins complicates the theory, however. One in five sets of identical twins involves one right-handed and one left-handed person, despite the fact that their genetic material is the same. Genes, therefore, are not solely responsible for handedness.
+Genetic theory is also undermined by results from Peter Hepper and his team at Queen’s University in Belfast, Ireland. In 2004 the psychologists used ultrasound to show that by the 15th week of pregnancy, fetuses already have a preference as to which thumb they suck. In most cases, the preference continued after birth. At 15 weeks, though, the brain does not yet have control over the body’s limbs. Hepper speculates that fetuses tend to prefer whichever side of the body is developing quicker and that their movements, in turn, influence the brain’s development. Whether this early preference is temporary or holds up throughout development and infancy is unknown. Genetic predetermination is also contradicted by the widespread observation that children do not settle on either their right or left hand until they are two or three years old.
+In 1949 neurosurgeon Juhn Wada devised the first test to provide access to the brain’s functional organization of language. By injecting an anesthetic into the right or left carotid artery, Wada temporarily paralyzed one side of a healthy brain, enabling him to more closely study the other side’s capabilities. Based on this approach, Brenda Milner and the late Theodore Rasmussen of the Montreal Neurological Institute published a major study in 1975 that confirmed the theory that country doctor Dax had formulated nearly 140 years earlier: in 96 percent of right-handed people, language is processed much more intensely in the left hemisphere. The correlation is not as clear in lefties, however. For two-thirds of them, the left hemisphere is still the most active language processor. But for the remaining third, either the right side is dominant or both sides work equally, controlling different language functions. That last statistic has slowed acceptance of the notion that the predominance of right-handedness is driven by left-hemisphere dominance in language processing. It is not at all clear why language control should somehow have dragged the control of body movement with it. Some experts think one reason the left hemisphere reigns over language is because the organs of speech processing—the larynx and tongue—are positioned on the body’s symmetry axis. Because these structures were centered, it may have been unclear, in evolutionary terms, which side of the brain should control them, and it seems unlikely that shared operation would result in smooth motor activity. Language and handedness could have developed preferentially for very different reasons as well. For example, some researchers, including evolutionary psychologist Michael C. Corballis of the University of Auckland in New Zealand, think that the origin of human speech lies in gestures. Gestures predated words and helped language emerge. If the left hemisphere began to dominate speech, it would have dominated gestures, too, and because the left brain controls the right side of the body, the right hand developed more strongly.
+---
+## Questions 1–4
+> Look at the following researchers (Questions 1–4) and the list of findings below. Match each researcher with the correct finding. Choose the correct letter, **A–G**.
+@box List of Findings
+* A. Early language evolution is correlated to body movement and thus affecting the preference of use of one hand.
+* B. No single biological component determines the handedness of a child.
+* C. Each hemisphere of the brain is in charge of different body functions.
+* D. The language process is mainly centered in the left hemisphere of the brain.
+* E. Speech difficulties are often caused by brain damage.
+* F. The rate of development of one side of the body has an influence on hemisphere preference in the fetus.
+* G. Brain function already matures by the end of the fetal stage.
+@sel 1 A-G Marian Annett
+@sel 2 A-G Peter Hepper
+@sel 3 A-G Brenda Milner & Theodore Rasmussen
+@sel 4 A-G Michael Corballis
+
+// ---------- Homework (Matching Names & Features) ----------
+= Homework Ex 1
+# Utopia
+A utopia is a community or society possessing highly desirable or perfect qualities. The word was coined in Greek by Sir Thomas More for his 1516 book Utopia, describing a fictional island society in the Atlantic Ocean. Chronologically, the first recorded utopian proposal is Plato's Republic. It proposes a categorization of citizens into a rigid class structure of "golden," "silver," "bronze" and "iron" socioeconomic classes.
+In the early 19th century, several "utopian socialist" ideas arose, in response to the belief that social disruption was created by the development of commercialism and capitalism. These ideas shared certain characteristics: an egalitarian distribution of goods, frequently with the total abolition of money, and citizens only doing work which they enjoy and which is for the common good, leaving them with ample time for the cultivation of the arts and sciences.
+One classic example of such a utopia was Edward Bellamy's Looking Backward. Another socialist utopia is William Morris' News from Nowhere, written partially in response to the top-down (bureaucratic) nature of Bellamy's utopia, which Morris criticized. However, as the socialist movement developed it moved away from utopianism; Karl Marx in particular became a harsh critic of earlier socialism he described as utopian.
+Utopias have also been imagined by the opposite side of the political spectrum. For example, Robert A. Heinlein's The Moon Is a Harsh Mistress portrays an individualistic and libertarian utopia. Capitalist utopias of this sort are generally based on free market economies, in which the presupposition is that private enterprise and personal initiative without an institution of coercion, government, provides the greatest opportunity for achievement and progress of both the individual and society as a whole.
+---
+## Questions 1–5
+> Answer questions 1 to 5 by choosing the correct letter, **A–F**. Which of the writers in the box below…
+@box Writers
+* A. Sir Thomas More
+* B. Plato
+* C. Edward Bellamy
+* D. William Morris
+* E. Karl Marx
+* F. Robert A. Heinlein
+@sel 1 A-F imagined a utopia based on individual freedom
+@sel 2 A-F first used the word 'utopia'
+@sel 3 A-F wrote about a bureaucratic socialist utopia
+@sel 4 A-F first described a utopian society
+@sel 5 A-F distanced himself from utopian socialism
+
+= Homework Ex 2
+# Young children's sense of identity
+A sense of self develops in young children by degrees. The process can usefully be thought of in terms of the gradual emergence of two somewhat separate features: the self as a subject, and the self as an object. William James introduced the distinction in 1892, and contemporaries of his, such as Charles Cooley, added to the developing debate. Ever since then psychologists have continued building on the theory.
+According to James, a child's first step on the road to self-understanding can be seen as the recognition that he or she exists. This is an aspect of the self that he labelled 'self-as-subject', and he gave it various elements. These included an awareness of one's own agency (i.e. one's power to act), and an awareness of one's distinctiveness from other people. These features gradually emerge as infants explore their world and interact with caregivers. Cooley (1902) suggested that a sense of the self-as-subject was primarily concerned with being able to exercise power. He proposed that the earliest examples of this are an infant's attempts to control physical objects, such as toys or his or her own limbs. This is followed by attempts to affect the behaviour of other people. For example, infants learn that when they cry or smile someone responds to them.
+Another powerful source of information for infants about the effects they can have on the world around them is provided when others mimic them. Many parents spend a lot of time, particularly in the early months, copying their infant's vocalizations and expressions. In addition, young children enjoy looking in mirrors, where the movements they can see are dependent upon their own movements. This is not to say that infants recognize the reflection as their own image (a later development). However, Lewis and Brooks-Gunn (1979) suggest that infants' developing understanding that the movements they see in the mirror are contingent on their own, leads to a growing awareness that they are distinct from other people. This is because they, and only they, can change the reflection in the mirror.
+This understanding that children gain of themselves as active agents continues to develop in their attempts to co-operate with others in play. Dunn (1988) points out that it is in such day-to-day relationships and interactions that the child's understanding of his- or herself emerges. Empirical investigations of the self-as-subject in young children are, however, rather scarce because of difficulties of communication: even if young infants can reflect on their experience, they certainly cannot express this aspect of the self directly.
+Once children have acquired a certain level of self-awareness, they begin to place themselves in a whole series of categories, which together play such an important part in defining them uniquely as 'themselves'. This second step in the development of a full sense of self is what James called the 'self-as-object'. This has been seen by many to be the aspect of the self which is most influenced by social elements, since it is made up of social roles (such as student, brother, colleague) and characteristics which derive their meaning from comparison or interaction with other people (such as trustworthiness, shyness, sporting ability).
+Cooley and other researchers suggested a close connection between a person's own understanding of their identity and other people's understanding of it. Cooley believed that people build up their sense of identity from the reactions of others to them, and from the view they believe others have of them. He called the self-as-object the 'looking-glass self', since people come to see themselves as they are reflected in others. Mead (1934) went even further, and saw the self and the social world as inextricably bound together: 'The self is essentially a social structure, and it arises in social experience … it is impossible to conceive of a self arising outside of social experience.'
+Lewis and Brooks-Gunn argued that an important developmental milestone is reached when children become able to recognize themselves visually without the support of seeing contingent movement. This recognition occurs around their second birthday. In one experiment, Lewis and Brooks-Gunn (1979) dabbed some red powder on the noses of children who were playing in front of a mirror, and then observed how often they touched their noses. The psychologists reasoned that if the children knew what they usually looked like, they would be surprised by the unusual red mark and would start touching it. On the other hand, they found that children of 15 to 18 months are generally not able to recognize themselves unless other cues such as movement are present.
+Finally, perhaps the most graphic expressions of self-awareness in general can be seen in the displays of rage which are most common from 18 months to 3 years of age. In a longitudinal study of groups of three or four children, Bronson (1975) found that the intensity of the frustration and anger in their disagreements increased sharply between the ages of 1 and 2 years. Often, the children's disagreements involved a struggle over a toy that none of them had played with before or after the tug-of-war: the children seemed to be disputing ownership rather than wanting to play with it. Although it may be less marked in other societies, the link between the sense of 'self' and of 'ownership' is a notable feature of childhood in Western societies.
+---
+## Questions 1–4
+> Look at the following findings (Questions 1–4) and the list of researchers below. Match each finding with the correct researcher or researchers, **A–E**.
+@box List of Researchers
+* A. James
+* B. Cooley
+* C. Lewis and Brooks-Gunn
+* D. Mead
+* E. Bronson
+@sel 1 A-E A sense of identity can never be formed without relationships with other people.
+@sel 2 A-E A child's awareness of self is related to a sense of mastery over things and people.
+@sel 3 A-E At a certain age, children's sense of identity leads to aggressive behaviour.
+@sel 4 A-E Observing their own reflection contributes to children's self-awareness.
+## Questions 5–7
+> Complete the summary below.
+> Choose **ONE WORD ONLY** from the passage for each answer.
+### How children acquire a sense of identity
+First, children come to realise that they can have an effect on the world around them, for example by handling objects, or causing the image to move when they face a [[5]]. This aspect of self-awareness is difficult to research directly, because of [[6]] problems. Secondly, children start to become aware of how they are viewed by others. One important stage in this process is the visual recognition of themselves which usually occurs when they reach the age of two. In Western societies at least, the development of self-awareness is often linked to a sense of [[7]], and can lead to disputes.
+
+= Homework Ex 3
+# Andrea Palladio: Italian architect
+_ A new exhibition celebrates Palladio's architecture 500 years on
+[A] Vicenza is a pleasant, prosperous city in the Veneto, 60km west of Venice. Its grand families settled and farmed the area from the 16th century. But its principal claim to fame is Andrea Palladio, who is such an influential architect that a neoclassical style is known as Palladian. The city is a permanent exhibition of some of his finest buildings, and as he was born – in Padua, to be precise – 500 years ago, the International Centre for the Study of Palladio's Architecture has an excellent excuse for mounting la grande mostra, the big show.
+[B] The exhibition has the special advantage of being held in one of Palladio's buildings, Palazzo Barbaran da Porto. Its bold facade is a mixture of rustication and decoration set between two rows of elegant columns. On the second floor the pediments are alternately curved or pointed, a Palladian trademark. The harmonious proportions of the atrium at the entrance lead through to a dramatic interior of fine fireplaces and painted ceilings. Palladio's design is simple, clear and not over-crowded. The show has been organised on the same principles, according to Howard Burns, the architectural historian who co-curated it.
+[C] Palladio's father was a miller who settled in Vicenza, where the young Andrea was apprenticed to a skilled stonemason. How did a humble miller's son become a world renowned architect? The answer in the exhibition is that, as a young man, Palladio excelled at carving decorative stonework on columns, doorways and fireplaces. He was plainly intelligent, and lucky enough to come across a rich patron, Gian Giorgio Trissino, a landowner and scholar, who organised his education, taking him to Rome in the 1540s, where he studied the masterpieces of classical Roman and Greek architecture and the work of other influential architects of the time, such as Donato Bramante and Raphael.
+[D] Burns argues that social mobility was also important. Entrepreneurs, prosperous from agriculture in the Veneto, commissioned the promising local architect to design their country villas and their urban mansions. In Venice the aristocracy were anxious to co-opt talented artists, and Palladio was given the chance to design the buildings that have made him famous – the churches of San Giorgio Maggiore and the Redentore, both easy to admire because they can be seen from the city's historical centre across a stretch of water.
+[E] He tried his hand at bridges – his unbuilt version of the Rialto Bridge was decorated with the large pediment and columns of a temple – and, after a fire at the Ducal Palace, he offered an alternative design which bears an uncanny resemblance to the Banqueting House in Whitehall in London. Since it was designed by Inigo Jones, Palladio's first foreign disciple, this is not as surprising as it sounds.
+[F] Jones, who visited Italy in 1614, bought a trunk full of the master's architectural drawings; they passed through the hands of the Dukes of Burlington and Devonshire before settling at the Royal Institute of British Architects in 1894. Many are now on display at Palazzo Barbaran. What they show is how Palladio drew on the buildings of ancient Rome as models. The major theme of both his rural and urban building was temple architecture, with a strong pointed pediment supported by columns and approached by wide steps.
+[G] Palladio's work for rich landowners alienates unreconstructed critics on the Italian left, but among the papers in the show are designs for cheap housing in Venice. In the wider world, Palladio's reputation has been nurtured by a text he wrote and illustrated, "Quattro Libri dell' Architettura". His influence spread to St Petersburg and to Charlottesville in Virginia, where Thomas Jefferson commissioned a Palladian villa he called Monticello.
+[H] Vicenza's show contains detailed models of the major buildings and is leavened by portraits of Palladio's teachers and clients by Titian, Veronese and Tintoretto; the paintings of his Venetian buildings are all by Canaletto, no less. This is an uncompromising exhibition; many of the drawings are small and faint, and there are no sideshows for children, but the impact of harmonious lines and satisfying proportions is to impart in a viewer a feeling of benevolent calm. Palladio is history's most therapeutic architect.
+[I] "Palladio, 500 Anni: La Grande Mostra" is at Palazzo Barbaran da Porto, Vicenza, until January 6th 2009. The exhibition continues at the Royal Academy of Arts, London, from January 31st to April 13th, and travels afterwards to Barcelona and Madrid.
+---
+## Questions 1–7
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 1 The building where the exhibition is staged has been newly renovated.
+@tfng 2 Palazzo Barbaran da Porto typically represents Palladio's design.
+@tfng 3 Palladio's father worked as an architect.
+@tfng 4 Palladio's family refused to pay for his architectural studies.
+@tfng 5 Palladio's alternative design for the Ducal Palace in Venice was based on an English building.
+@tfng 6 Palladio designed for both wealthy and poor people.
+@tfng 7 The exhibition includes paintings of people by famous artists.
+## Questions 8–13
+> Answer the questions below.
+> Choose **NO MORE THAN THREE WORDS** from the passage for each answer.
+**8.** What job was Palladio training for before he became an architect? [[8]]
+**9.** Who arranged Palladio's architectural studies? [[9]]
+**10.** Who was the first non-Italian architect influenced by Palladio? [[10]]
+**11.** What type of Ancient Roman buildings most heavily influenced Palladio's work? [[11]]
+**12.** What did Palladio write that strengthened his reputation? [[12]]
+**13.** In the writer's opinion, what feeling will visitors to the exhibition experience? [[13]]

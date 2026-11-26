@@ -1,0 +1,154 @@
+@fulltest
+= Passage 1
+# Venus in Transit
+_ June 2004 saw the first passage, known as a ‘transit’, of the planet Venus across the face of the Sun in 122 years. Transits have helped shape our view of the whole Universe, as Heather Cooper and Nigel Henbest explain
+[A] On 8 June 2004, more than half the population of the world were treated to a rare astronomical event. For over six hours, the planet Venus steadily inched its way over the surface of the Sun. This ‘transit’ of Venus was the first since 6 December 1882. On that occasion, the American astronomer Professor Simon Newcomb led a party to South Africa to observe the event. They were based at a girls’ school, where - it is alleged - the combined forces of three schoolmistresses outperformed the professionals with the accuracy of their observations.
+[B] For centuries, transits of Venus have drawn explorers and astronomers alike to the four corners of the globe. And you can put it all down to the extraordinary polymath Edmond Halley. In November 1677, Halley observed a transit of the innermost planet, Mercury, from the desolate island of St Helena in the South Pacific. He realised that, from different latitudes, the passage of the planet across the Sun’s disc would appear to differ. By timing the transit from two widely-separated locations, teams of astronomers could calculate the parallax angle - the apparent difference in position of an astronomical body due to a difference in the observer’s position. Calculating this angle would allow astronomers to measure what was then the ultimate goal: the distance of the Earth from the Sun. This distance is known as the astronomical unit’ or AU.
+[C] Halley was aware that the AU was one of the most fundamental of all astronomical measurements. Johannes Kepler, in the early 17th century, had shown that the distances of the planets from the Sun governed their orbital speeds, which were easily measurable. But no-one had found a way to calculate accurate distances to the planets from the Earth. The goal was to measure the AU; then, knowing the orbital speeds of all the other planets round the Sun, the scale of the Solar System would fall into place. However, Halley realised that Mercury was so far away that its parallax angle would be very difficult to determine. As Venus was closer to the Earth, its parallax angle would be larger, and Halley worked out that by using Venus it would be possible to measure the Sun's distance to 1 part in 500. But there was a problem: transits of Venus, unlike those of Mercury, are rare, occurring in pairs roughly eight years apart every hundred or so years. Nevertheless, he accurately predicted that Venus would cross the face of the Sun in both 1761 and 1769 - though he didn’t survive to see either.
+[D] Inspired by Halley’s suggestion of a way to pin down the scale of the Solar System, teams of British and French astronomers set out on expeditions to places as diverse as India and Siberia. But things weren’t helped by Britain and France being at war. The person who deserves most sympathy is the French astronomer Guillaume Le Gentil.
+He was thwarted by the fact that the British were besieging his observation site at Pondicherry in India. Fleeing on a French warship crossing the Indian Ocean, Le Gentil saw a wonderful transit - but the ship’s pitching and rolling ruled out any attempt at making accurate observations. Undaunted, he remained south of the equator, keeping himself busy by studying the islands of Mauritius and Madagascar before setting off to observe the next transit in the Philippines. Ironically after travelling nearly 50,000 kilometres, his view was clouded out at the last moment, a very dispiriting experience.
+[E] While the early transit timings were as precise as instruments would allow, the measurements were dogged by the ‘black drop’ effect. When Venus begins to cross the Sun’s disc, it looks smeared not circular - which makes it difficult to establish timings. This is due to diffraction of light. The second problem is that Venus exhibits a halo of light when it is seen just outside the Sun’s disc. While this showed astronomers that Venus was surrounded by a thick layer of gases refracting sunlight around it, both effects made it impossible to obtain accurate timings.
+[F] But astronomers laboured hard to analyse the results of these expeditions to observe Venus transits. Johann Franz Encke, Director of the Berlin Observatory, finally determined a value for the AU based on all these parallax measurements: 153,340,000 km. Reasonably accurate for the time, that is quite close to today’s value of 149,597,870 km, determined by radar, which has now superseded transits and all other methods in accuracy. The AU is a cosmic measuring rod, and the basis of how we scale the Universe today. The parallax principle can be extended to measure the distances to the stars. If we look at a star in January - when Earth is at one point in its orbit - it will seem to be in a different position from where it appears six months later. Knowing the width of Earth’s orbit, the parallax shift lets astronomers calculate the distance.
+[G] June 2004’s transit of Venus was thus more of an astronomical spectacle than a scientifically important event. But such transits have paved the way for what might prove to be one of the most vital breakthroughs in the cosmos - detecting Earth-sized planets orbiting other stars.
+---
+## Questions 1–4
+> Reading Passage 1 has seven paragraphs, **A–G**. Which paragraph contains the following information?
+> Choose the correct letter, **A–G**.
+@sel 1 A-G examples of different ways in which the parallax principle has been applied
+@sel 2 A-G a description of an event which prevented a transit observation
+@sel 3 A-G a statement about potential future discoveries leading on from transit observations
+@sel 4 A-G a description of physical states connected with Venus which early astronomical instruments failed to overcome
+## Questions 5–8
+> Look at the following statements (Questions 5–8) and the list of people below. Match each statement with the correct person, **A**, **B**, **C** or **D**.
+@box List of People
+* A. Edmond Halley
+* B. Johannes Kepler
+* C. Guillaume Le Gentil
+* D. Johann Franz Encke
+@sel 5 A-D He calculated the distance of the Sun from the Earth based on observations of Venus with a fair degree of accuracy.
+@sel 6 A-D He understood that the distance of the Sun from the Earth could be worked out by comparing observations of a transit.
+@sel 7 A-D He realized that the time taken by a planet to go around the Sun depends on its distance from the Sun.
+@sel 8 A-D He witnessed a Venus transit but was unable to make any calculations.
+## Questions 9–13
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 9 Halley observed one transit of the planet Venus.
+@tfng 10 Le Gentil managed to observe a second Venus transit.
+@tfng 11 The shape of Venus appears distorted when it starts to pass in front of the Sun.
+@tfng 12 Early astronomers suspected that the atmosphere on Venus was toxic.
+@tfng 13 The parallax principle allows astronomers to work out how far away distant stars are from the Earth.
+
+= Passage 2
+# Museums of fine art and their public
+The fact that people go to the Louvre Museum in Paris to see the original painting Mona Lisa when they can see a reproduction anywhere leads us to question some assumptions about the role of museums of fine art in today's world.
+One of the most famous works of art in the world is Leonardo da Vinci's Mona Lisa. Nearly everyone who goes to see the original will already be familiar with it from reproductions, but they accept that fine art is more rewarding when viewed in its original form.
+However, if Mona Lisa was a famous novel, few people would bother to go to a museum to read the writer's actual manuscript rather than a printed reproduction. This might be explained by the fact that the novel has evolved precisely because of technological developments that made it possible to print huge numbers of texts, whereas oil paintings have always been produced as unique objects. In addition, it could be argued that the practice of interpreting or 'reading' each medium follows different conventions. With novels, the reader attends mainly to the meaning of words rather than the way they are printed on the page, whereas the 'reader' of a painting must attend just as closely to the material form of marks and shapes in the picture as to any ideas they may signify.
+Yet it has always been possible to make very accurate facsimiles of pretty well any fine art. The seven surviving versions of Mona Lisa bear witness to the fact that in the 1 6th century, artists seemed perfectly content with seeing the reproduction of their creations treated by their apprentices as regular 'bread and butter' work. And today the task of reproducing pictures is incomparably simpler and more reliable, with reprographic techniques that allow the reproduction of high-quality works at low cost, giving faithful colour values and size, even with duplication of the surface relief of the painting. But despite an implicit recognition that the spread of reproductions can be culturally valuable, museums continue to promote the special status of original work.
+Unfortunately, this seems to place severe limitations on the kind of experience offered to visitors. One limitation is related to the way the museum presents its exhibits. As repositories of valuable objects, art museums are often called 'treasure houses'. We are reminded of this even before we view a collection by the presence of security guards, attendants, ropes and display cases to keep us away from the exhibits. In many cases, the architectural style of the building further reinforces that notion. In addition, a major collection like that of London's National Gallery has thousands of numerous rooms, each with dozens of works, any one of which is likely to be worth more than all the average visitors possess. This feeling is not diminished by the portraits shown surrounded by so many other materials, with it therefore difficult not to be impressed by one's own relative 'worthlessness' in such an environment.
+Furthermore, consideration of the 'value' of the original work in its treasure house setting impresses upon the viewer that, since these works were originally produced, they have been assigned a huge monetary value by some person or institution more powerful than themselves. Evidently, nothing the viewer thinks about the work is going to alter that value, and so today's viewer is deterred from trying to extend that spontaneous, immediate, self-reliant kind of reading which would originally have met the work.
+The visitor may then be struck by the strangeness of seeing such diverse paintings, drawings and sculptures brought together in an environment for which they were not originally created. This 'displacement effect' is further heightened by the sheer volume of exhibits. In the case of a major collection, there are probably more works on display than we could realistically view in weeks or even months.
+This is particularly distressing because time seems to be a vital factor in the appreciation of all art forms.
+A fundamental difference between paintings and other art forms is that there is no prescribed time over which a painting is viewed. By contrast, the audience encourages an opera or a play over a specific time, which is the duration of the performance. Similarly, novels and poems are read in a prescribed temporal sequence, whereas a picture has no clear place at which to start viewing, or at which to finish. Thus, art works themselves encourage us to view them superficially, without appreciating the richness of detail and labour that is involved. Consequently, the dominant critical approach becomes that of the art historian, a specialized academic approach devoted to 'discovering the meaning' of art within the cultural context of its time. This is in perfect harmony with the museum function, since the approach is dedicated to seeking out and conserving 'authentic', original, readings of the exhibits. Again, this seems to put paid to that spontaneous, participators criticism which can be found in abundance in criticism of classic works of literature, but is absent from most art history.
+The displays of art museums serve as a warning of what critical practices can emerge when spontaneous criticism is suppressed. The museum public, like any other audience, experience art more rewardingly when given the confidence to express their views. If appropriate works of fine art could be rendered permanently accessible to the public by means of high-fidelity reproductions, as literature and music already are, the public may feel somewhat less in awe of them. Unfortunately, that may be too much to ask from those who seek to maintain and control the art establishment.
+---
+## Questions 14–18
+> Complete the summary using the list of words, **A–L**, below.
+### The value attached to original works of art
+@box
+* A. institution
+* B. mass production
+* C. mechanical processes
+* D. public
+* E. paints
+* F. artist
+* G. size
+* H. underlying ideas
+* I. basic technology
+* J. readers
+* K. picture frames
+* L. assistants
+People go to art museums because they accept the value of seeing an original work of art. But they do not go to museums to read original manuscripts of novels, perhaps because the availability of novels has depended on [[14:A-L]] for so long, and also because with novels, the [[15:A-L]] are the most important thing. However, in historical times artists such as Leonardo were happy to instruct [[16:A-L]] to produce copies of their work and these days new methods of reproduction allow excellent replication of surface relief features as well as colour and [[17:A-L]]. It is regrettable that museums still promote the superiority of original works of art, since this may not be in the interests of the [[18:A-L]].
+## Questions 19–22
+> Choose the correct answer.
+@mcq 19 The writer mentions London's National Gallery to illustrate
+- the undesirable cost to a nation of maintaining a huge collection of art.
+- the conflict that may arise in society between financial and artistic values.
+- the negative effect a museum can have on visitors' opinions of themselves.
+- the need to put individual well-being above large-scale artistic schemes.
+@mcq 20 The writer says that today, viewers may be unwilling to criticize a work because
+- they lack the knowledge needed to support an opinion.
+- they fear it may have financial implications.
+- they have no real concept of the work's value.
+- they feel their personal reaction is of no significance.
+@mcq 21 According to the writer, the "displacement effect" on the visitor is caused by
+- the variety of works on display and the way they are arranged.
+- the impossibility of viewing particular works of art over a long period.
+- the similar nature of the paintings and the lack of great works.
+- the inappropriate nature of the individual works selected for exhibition.
+@mcq 22 The writer says that unlike other forms of art, a painting does not
+- involve direct contact with an audience.
+- require a specific location for a performance.
+- need the involvement of other professionals.
+- have a specific beginning or end.
+## Questions 23–26
+> Choose **YES** if the statement agrees with the claims of the writer, choose **NO** if the statement contradicts the claims of the writer, or choose **NOT GIVEN** if it is impossible to say what the writer thinks about this.
+@ynng 23 Art history should focus on discovering the meaning of art using a range of media.
+@ynng 24 The approach of art historians conflicts with that of art museums.
+@ynng 25 People should be encouraged to give their opinions openly on works of art.
+@ynng 26 Reproductions of fine art should only be sold to the public if they are of high quality.
+
+= Passage 3
+# The Meaning and Power of Smell
+_ The sense of smell, or olfaction, is powerful. Odours affect us on a physical, psychological, and social level. For the most part, however, we breathe in the aromas that surround us without being consciously aware of their importance to us. It is only when the faculty of smell is impaired for some reason that we begin to realise the essential role the sense of smell plays in our sense of well-being.
+[A] A survey conducted by Anthony Synnott at Montreal's Concordia University asked participants to comment on how important smell was to them in their lives. It became apparent that smell can evoke strong emotional responses. A scent associated with a good experience can bring a rush of joy, while a foul odour or one associated with a bad memory may make us grimace with disgust. Respondents to the survey noted that many of their olfactory likes and dislikes were based on emotional associations. Such associations can be powerful enough so that odours that we would generally label unpleasant become agreeable, and those that we would generally consider fragrant become disagreeable for particular individuals. The perception of smell, therefore, consists not only of the sensation of the odours themselves but also of the experiences and emotions associated with them.
+[B] Odours are also essential cues in social bonding. One respondent to the survey believed that there is no true emotional bonding without touching and smelling a loved one. In fact, infants recognize the odours of their mothers soon after birth, and adults can often identify their children or spouses by scent. In one well-known test, women and men were able to distinguish by smell alone clothing worn by their marriage partners from similar clothing worn by other people. Most of the subjects would probably never have given much thought to odour as a cue for identifying family members before being involved in the test, but as the experiment revealed, even when not consciously considered, smells register.
+[C] In spite of its importance to our emotional and sensory lives, smell is probably the most undervalued sense in many cultures. The reason often given for the low regard in which smell is held is that, in comparison with its importance among animals, the human sense of smell is feeble and undeveloped. While it is true that the olfactory powers of humans are nothing like as fine as those possessed by certain animals, they are still remarkably acute. Our noses are able to recognize thousands of smells and to perceive odours that are present only in extremely small quantities.
+[D] Smell, however, is a highly elusive phenomenon. Odours, unlike colours, for instance, cannot be named in many languages because the specific vocabulary simply doesn't exist. "It smells like..." we have to say when describing an odour, struggling to express our olfactory experience. Nor can odours be recorded: there is no effective way to either capture or store them over time. In the realm of olfaction, we must make do with descriptions and recollections. This has implications for olfactory research.
+[E] Most of the research on smell undertaken to date has been of a physical scientific nature. Significant advances have been made in understanding the biological and chemical nature of olfaction, but many fundamental questions have yet to be answered. Researchers have still to decide whether smell is one sense or two—one responding to odours proper and the other registering odourless chemicals in the air. Other unanswered questions are whether the nose is the only part of the body affected by odours and how smells can be measured objectively given the nonphysical components. Questions like these mean that interest in the psychology of smell is inevitably set to play an increasingly important role for researchers.
+[F] However, smell is not simply a biological and psychological phenomenon. Smell is cultural; hence, it is a social and historical phenomenon. Odours are invested with cultural values: smells that are considered to be offensive in some cultures may be perfectly acceptable in others. Therefore, our sense of smell is a means of, and model for, interacting with the world. Different smells can provide us with intimate and emotionally charged experiences, and the value that we attach to these experiences is internalised by the members of society deeply personal way. Importantly, our commonly held feelings about smells can help distinguish us from other cultures. The study of the cultural history of smell is, therefore, in a very real sense, an investigation into the essence of human culture.
+---
+## Questions 27–32
+> Choose the correct heading for each paragraph from the list of headings below.
+@box List of Headings
+* i. The difficulties of talking about smells
+* ii. The role of smell in personal relationships
+* iii. Future studies into smell
+* iv. The relationship between the brain and the nose
+* v. The interpretation of smells as a factor in defining groups
+* vi. Why our sense of smell is not appreciated
+* vii. Smell is our superior sense
+* viii. The relationship between smell and feelings
+@sel 27 i-viii Paragraph A
+@sel 28 i-viii Paragraph B
+@sel 29 i-viii Paragraph C
+@sel 30 i-viii Paragraph D
+@sel 31 i-viii Paragraph E
+@sel 32 i-viii Paragraph F
+## Questions 33–36
+> Choose the correct answer.
+@mcq 33 According to the introduction, we become aware of the importance of smell when
+- we discover a new smell.
+- we experience a powerful smell.
+- our ability to smell is damaged.
+- we are surrounded by odours.
+@mcq 34 The experiment described in paragraph B
+- shows how we make use of smell without realizing it.
+- demonstrates that family members have a similar smell.
+- proves that a sense of smell is learnt.
+- compares the sense of smell in males and females.
+@mcq 35 What is the writer doing in paragraph C?
+- supporting other research
+- making a proposal
+- rejecting a common belief
+- describing limitations
+@mcq 36 What does the writer suggest about the study of smell in the atmosphere in paragraph E?
+- The measurement of smell is becoming more accurate.
+- Researchers believe smell is a purely physical reaction.
+- Most smells are inoffensive.
+- Smell is yet to be defined.
+## Questions 37–40
+> Complete the sentences below.
+> Choose **ONE WORD ONLY** from the passage for each answer.
+Tests have shown that odours can help people recognise the [[37]] belonging to their husbands and wives.
+Certain linguistic groups may have difficulty describing smell because they lack the appropriate [[38]].
+The sense of smell may involve response to [[39]] which do not smell, in addition to obvious odours.
+Odours regarded as unpleasant in certain [[40]] are not regarded as unpleasant in others.

@@ -1,0 +1,220 @@
+= Exercise 1
+# Lunar exploration themes
+1. Extend human presence to the Moon to enable eventual settlement.
+2. Pursue scientific activities that address fundamental questions about the history of Earth, the solar system and the universe; and therefore, about our place in them.
+3. Test technologies, systems, flight operations and exploration techniques to reduce the risks and increase the productivity of future missions to Mars and beyond.
+4. Provide a challenging, shared and peaceful activity that unites nations in pursuit of common objectives.
+5. Expand Earth's economic sphere, and conduct lunar activities with benefits to life on the home planet.
+6. Use a lively space exploration program to engage the public, encourage students and help develop the high-technology workforce that will be required to address the challenges of tomorrow.
+---
+## Questions 1–6
+> Match each heading from the following list with one of the themes described in the passage. Choose the correct letter, **A–F**.
+@box List of Headings
+* A. Economic Expansion
+* B. Scientific Knowledge
+* C. Global Partnerships
+* D. Human Civilisation
+* E. Public Engagement
+* F. Exploration Preparation
+@sel 1 A-F Theme 1
+@sel 2 A-F Theme 2
+@sel 3 A-F Theme 3
+@sel 4 A-F Theme 4
+@sel 5 A-F Theme 5
+@sel 6 A-F Theme 6
+
+= Exercise 2
+# Future Shock
+Future Shock is a book written by the futurist Alvin Toffler in 1970. In the book, Toffler defines the term "future shock" as a certain psychological state of individuals and entire societies. His shortest definition for the term is a personal perception of "too much change in too short a period of time". The book became an international bestseller, selling over 6 million copies, and has been widely translated.
+Toffler argued that society is undergoing an enormous structural change, a revolution from an industrial society to a "super-industrial society". This change overwhelms people, he believed, the accelerated rate of technological and social change leaving people disconnected and suffering from "shattering stress and disorientation" - future shock. Toffler stated that the majority of social problems are symptoms of future shock. In his discussion of the components of such shock he popularized the term "information overload."
+---
+## Question 1
+> Choose the best title for the passage.
+@mcq 1 Choose the title.
+- A shocking vision of the future.
+- What is “future shock”?
+- The career of the futurist Alvin Toffler.
+- A changing society.
+
+= Exercise 3
+# Smoking
+[A] The combination of smoke from burning commercial tobacco products and the smoke breathed out by a person who is smoking, is deadly. In adults, exposing non-smokers to tobacco smoke causes stroke, lung cancer, and coronary heart disease, as well as adverse reproductive health effects in women, including low birth weight. Children who are exposed to it are at an increased risk for sudden infant death syndrome (SIDS), acute respiratory infections such as pneumonia and bronchitis, middle ear disease, more frequent and severe asthma, respiratory symptoms, and slowed lung growth.
+[B] In 2006, the Surgeon General concluded that using designated smoking areas indoors to separate people who smoke from people who do not smoke, cleaning or filtering the air, or ventilating buildings does not remove the risk of secondhand smoke exposure. Completely eliminating smoking in indoor spaces is the only way to fully protect people who do not smoke from secondhand smoke exposure. In 2009, the World Health Organization's International Agency for Research on Cancer reiterated these findings, concluding that smokefree policies lead to substantial declines in secondhand smoke exposure, citing air quality improvements of up to 90% in high-risk settings, such as bars.
+[C] It's never too late to quit smoking. Quitting smoking now improves your health and reduces your risk of heart disease, cancer, lung disease, and other smoking-related illnesses. If you are ready to quit, call a quitline coach or talk to a healthcare professional. They can help you decide what treatment is best for you and can connect you to quit smoking programs and resources. For example, you can talk to a quit smoking counselor individually or in a group, use free online resources, or use Nicotine Replacement Therapy (NRT).
+[D] Smoking leads to disease and disability and harms nearly every organ of the body. More than 16 million Americans are living with a disease caused by smoking. For every person who dies because of smoking, at least 30 people live with a serious smoking-related illness. Smoking causes cancer, heart disease, stroke, lung diseases, diabetes, and chronic obstructive pulmonary disease (COPD), which includes emphysema and chronic bronchitis. Smoking also increases risk for tuberculosis, certain eye diseases, and problems of the immune system, including rheumatoid arthritis. Cigarette smoking causes more than 480,000 deaths each year in the United States. This is nearly one in five deaths. More than 10 times as many U.S. citizens have died prematurely from cigarette smoking than have died in all the wars fought by the United States. Smoking causes about 90% (or 9 out of 10) of all lung cancer deaths. More women die from lung cancer each year than from breast cancer.
+---
+## Questions 1–4
+> The Reading Passage has four paragraphs, **A–D**. Choose the correct heading for each paragraph from the list of headings below.
+@box List of Headings
+* i. The health effects of smoking
+* ii. The dangers of second-hand smoking
+* iii. Smoking and addiction
+* iv. Treatments for smoking addictions
+* v. Research finding on causes for smoking
+* vii. How to help someone with smoking addiction
+* viii. Banning of smoking in public places
+@sel 1 i,ii,iii,iv,v,vii,viii Paragraph A
+@sel 2 i,ii,iii,iv,v,vii,viii Paragraph B
+@sel 3 i,ii,iii,iv,v,vii,viii Paragraph C
+@sel 4 i,ii,iii,iv,v,vii,viii Paragraph D
+
+= Exercise 4
+# European Transport Systems 1990–2010
+_ What have been the trends and what are the prospects for European transport systems?
+[A] It is difficult to conceive of vigorous economic growth without an efficient transport system. Although modern information technologies can reduce the demand for physical transport by facilitating teleworking and teleservices, the requirement for transport continues to increase. There are two key factors behind this trend. For passenger transport, the determining factor is the spectacular growth in car use. The number of cars on European Union (EU) roads saw an increase of three million cars each year from 1990 to 2010, and in the next decade the EU will see a further substantial increase in its fleet.
+[B] As far as goods transport is concerned, growth is due to a large extent to changes in the European economy and its system of production. In the last 20 years, as internal frontiers have been abolished, the EU has moved from a ”stock” economy to a ”flow” economy. This phenomenon has been emphasised by the relocation of some industries, particularly those which are labor-intensive, to reduce production costs, even though the production site is hundreds or even thousands of kilometres away from the final assembly plant or away from users.
+[C] The strong economic growth expected in countries which are candidates for entry to the EU will also increase transport flows, in particular road haulage traffic. In 1998, some of these countries already exported more than twice their 1990 volumes and imported more than five times their 1990 volumes. And although many candidate countries inherited a transport system which encourages rail, the distribution between modes has tipped sharply in favour of road transport since the 1990s. Between 1990 and 1998, road haulage increased by 19.4%, while during the same period rail haulage decreased by 43.5%, although – and this could benefit the enlarged EU – it is still on average at a much higher level than in existing member states.
+[D] However, a new imperative-sustainable development – offers an opportunity for adapting the EU, s common transport policy. This objective, agreed by the Gothenburg European Council, has to be achieved by integrating environmental considerations into Community policies, and shifting the balance between modes of transport lies at the heart of its strategy. The ambitious objective can only be fully achieved by 2020, but proposed measures are nonetheless a first essential step towards a sustainable transport system which will ideally be in place in 30 years‟ time, that is by 2040.
+[E] In 1998, energy consumption in the transport sector was to blame for 28% of emissions of CO2, the leading greenhouse gas. According to the latest estimates, if nothing is done to reverse the traffic growth trend, CO2 emissions from transport can be expected to increase by around 50% to 1,113 billion tonnes by 2020, compared with the 739 billion tonnes recorded in 1990. Once again, road transport is the main culprit since it alone accounts for 84% of the CO2 emissions attributable to transport. Using alternative fuels and improving energy efficiency is thus both an ecological necessity and a technological challenge.
+[F] At the same time greater efforts must be made to achieve a modal shift. Such a change cannot be achieved overnight, all the less so after over half a century of constant deterioration in favour of road. This has reached such a pitch that today rail freight services are facing marginalisation, with just 8% of market share, and with international goods trains struggling along at an average speed of 18km/h. Three possible options have emerged.
+[G] The first approach would consist of focusing on road transport solely through pricing. This option would not be accompanied by complementary measures in the other modes of transport. In the short term it might curb the growth in road transport through the better loading ratio of goods vehicles and occupancy rates of passenger vehicles expected as a result of the increase in the price of transport. However, the lack of measures available to revitalise other modes of transport would make it impossible for more sustainable modes of transport to take up the baton.
+[H] The second approach also concentrates on road transport pricing but is accompanied by measures to increase the efficiency of the other modes (better quality of services, logistics, technology). However, this approach does not include investment in new infrastructure, nor does it guarantee better regional cohesion. It could help to achieve greater uncoupling than the first approach, but road transport would keep the lion‟s share of the market and continue to concentrate on saturated arteries, despite being the most polluting of the modes. It is therefore not enough to guarantee the necessary shift of the balance.
+[I] The third approach, which is not new, comprises a series of measures ranging from pricing to revitalising alternative modes of transport and targeting investment in the trans- European network. This integrated approach would allow the market shares of the other modes to return to their 1998 levels and thus make a shift of balance. It is far more ambitious than it looks, bearing in mind the historical imbalance in favour of roads for the last fifty years, but would achieve a marked break in the link between road transport growth and economic growth, without placing restrictions on the mobility of people and goods.
+---
+## Questions 1–8
+> The Reading Passage has nine paragraphs, **A–I**. Choose the correct heading for each paragraph from the list of headings below.
+@box List of Headings
+* i. A fresh and important long-term goal
+* ii. Charging for roads and improving other transport methods
+* iii. Changes affecting the distances goods may be transported
+* iv. Taking all the steps necessary to change transport patterns
+* v. The environmental costs of road transport
+* vi. The escalating cost of rail transport
+* vii. The need to achieve transport rebalance
+* viii. The rapid growth of private transport
+* ix. Plans to develop major road networks
+* x. Restricting road use through charging policies alone
+* xi. Transport trends in countries awaiting EU admission
+@sel 1 i-xi Paragraph A
+@sel 2 i-xi Paragraph B
+@sel 3 i-xi Paragraph C
+@sel 4 i-xi Paragraph D
+@sel 5 i-xi Paragraph E
+@sel 6 i-xi Paragraph G
+@sel 7 i-xi Paragraph H
+@sel 8 i-xi Paragraph I
+## Questions 9–14
+> Choose **TWO** letters for each question.
+@mcq2 9,10 What has driven the increase in goods transport in Europe in Paragraph B?
+- Shift towards a continuous flow-based production system
+- Replacement of manufacturing by services only
+- Movement of production far from assembly and consumption points
+- Reduction in cross-border trade within the EU
+- Decline in industrial relocation between countries
+@mcq2 11,12 What is a key feature of the EU’s sustainable transport strategy in Paragraph D?
+- It aims to reduce all transport activity
+- It integrates environmental goals into transport policy
+- It promotes a shift between transport modes
+- It focuses only on road pricing reforms
+- It avoids long-term planning targets
+@mcq2 13,14 What are the advantages of the integrated approach in Paragraph I?
+- Combines pricing, infrastructure, and investment
+- Maintains dominance of road transport
+- Enables rebalancing between transport modes
+- Restricts movement of goods and people
+- Focuses only on pricing policies
+
+// ---------- Homework (List of Headings) ----------
+= Homework Ex 1
+# The American Lobster
+[A] The American lobster is a species of lobster found on the Atlantic coast of North America, chiefly from Labrador to New Jersey. It is also known as Atlantic lobster, Canadian lobster, true lobster, northern lobster, Canadian Reds, or Maine lobster. It can reach a body length of 64cm, and a mass of over 20 kilograms, making it not only the heaviest crustacean in the world, but also the heaviest of all living arthropod species.
+[B] Most American lobsters come from the northeastern coast of North America, with the Atlantic Provinces of Canada and the U.S. state of Maine being the largest producers. They are caught primarily using lobster traps, although lobsters are also harvested as bycatch by bottom trawlers, fishermen using gillnets, and by scuba divers in some areas. Maine completely prohibits scuba divers from catching lobsters (violations could result in up to a $1000 fine).
+[C] In the United States, the lobster industry is regulated. Every lobster fisher is required to use a lobster gauge to measure the distance from the lobster's eye socket to the end of its carapace: if the lobster is less than 83mm long, it is too young to be sold and must be released back to the sea. There is also a legal maximum size of 130mm in Maine, meant to ensure the survival of a healthy breeding stock of adult males.
+---
+## Questions 1–3
+> Read the passage and match each paragraph with one of the following headings.
+@box List of Headings
+* i. Lobster habitats
+* ii. Why lobsters must be measured when caught
+* iii. Adult male lobsters are a prime catch
+* iv. Lobster fishing methods
+* v. The world's heaviest lobster
+* vi. Different types of American lobster
+@sel 1 i-vi Paragraph A
+@sel 2 i-vi Paragraph B
+@sel 3 i-vi Paragraph C
+
+= Homework Ex 2
+# Is there anybody out there?
+_ The Search for Extra-terrestrial Intelligence
+The question of whether we are alone in the Universe has haunted humanity for centuries, but we may now stand poised on the brink of the answer to that question, as we search for radio signals from other intelligent civilisations. This search, often known by the acronym SETI (search for extra-terrestrial intelligence), is a difficult one. Although groups around the world have been searching intermittently for three decades, it is only now that we have reached the level of technology where we can make a determined attempt to search all nearby stars for any sign of life.
+[A] The primary reason for the search is basic curiosity – the same curiosity about the natural world that drives all pure science. We want to know whether we are alone in the Universe. We want to know whether life evolves naturally if given the right conditions, or whether there is something very special about the Earth to have fostered the variety of life forms that we see around us on the planet. The simple detection of a radio signal will be sufficient to answer this most basic of all questions. In this sense, SETI is another cog in the machinery of pure science which is continually pushing out the horizon of our knowledge. However, there are other reasons for being interested in whether life exists elsewhere. For example, we have had civilisation on Earth for perhaps only a few thousand years, and the threats of nuclear war and pollution over the last few decades have told us that our survival may be tenuous. Will we last another two thousand years or will we wipe ourselves out? Since the lifetime of a planet like ours is several billion years, we can expect that, if other civilisations do survive in our galaxy, their ages will range from zero to several billion years. Thus any other civilisation that we hear from is likely to be far older, on average, than ourselves. The mere existence of such a civilisation will tell us that long-term survival is possible, and gives us some cause for optimism. It is even possible that the older civilisation may pass on the benefits of their experience in dealing with threats to survival such as nuclear war and global pollution, and other threats that we haven't yet discovered.
+[B] In discussing whether we are alone, most SETI scientists adopt two ground rules. First, UFOs (Unidentified Flying Objects) are generally ignored since most scientists don't consider the evidence for them to be strong enough to bear serious consideration (although it is also important to keep an open mind in case any really convincing evidence emerges in the future). Second, we make a very conservative assumption that we are looking for a life form that is pretty well like us, since if it differs radically from us we may well not recognise it as a life form, quite apart from whether we are able to communicate with it. In other words, the life form we are looking for may well have two green heads and seven fingers, but it will nevertheless resemble us in that it should communicate with its fellows, be interested in the Universe, live on a planet orbiting a star like our Sun, and perhaps most restrictively, have a chemistry, like us, based on carbon and water.
+[C] Even when we make these assumptions, our understanding of other life forms is still severely limited. We do not even know, for example, how many stars have planets, and we certainly do not know how likely it is that life will arise naturally, given the right conditions. However, when we look at the 100 billion stars in our galaxy (the Milky Way), and 100 billion galaxies in the observable Universe, it seems inconceivable that at least one of these planets does not have a life form on it; in fact, the best educated guess we can make, using the little that we do know about the conditions for carbon-based life, leads us to estimate that perhaps one in 100,000 stars might have a life-bearing planet orbiting it. That means that our nearest neighbours are perhaps 100 light years away, which is almost next door in astronomical terms.
+[D] An alien civilisation could choose many different ways of sending information across the galaxy, but many of these either require too much energy, or else are severely attenuated while traversing the vast distances across the galaxy. It turns out that, for a given amount of transmitted power, radio waves in the frequency range 1000 to 3000 MHz travel the greatest distance, and so all searches to date have concentrated on looking for radio waves in this frequency range. So far there have been a number of searches by various groups around the world, including Australian searches using the radio telescope at Parkes, New South Wales. Until now there have not been any detections from the few hundred stars which have been searched. The scale of the searches has been increased dramatically since 1992, when the US Congress voted NASA $10 million per year for ten years to conduct a thorough search for extra-terrestrial life. Much of the money in this project is being spent on developing the special hardware needed to search many frequencies at once. The project has two parts. One part is a targeted search using the world's largest radio telescopes, the American-operated telescope in Arecibo, Puerto Rico and the French telescope in Nancy in France. This part of the project is searching the nearest 1000 likely stars with high sensitivity for signals in the frequency range 1000 to 3000 MHz. The other part of the project is an undirected search which is monitoring all of space with a lower sensitivity, using the smaller antennas of NASA's Deep Space Network.
+[E] There is considerable debate over how we should react if we detect a signal from an alien civilisation. Everybody agrees that we should not reply immediately. Quite apart from the impracticality of sending a reply over such large distances at short notice, it raises a host of ethical questions that would have to be addressed by the global community before any reply could be sent. Would the human race face the culture shock if faced with a superior and much older civilisation? Luckily, there is no urgency about this. The stars being searched are hundreds of light years away, so it takes hundreds of years for their signal to reach us, and a further few hundred years for our reply to reach them. It's not important, then, if there's a delay of a few years, or decades, while the human race debates the question of whether to reply, and perhaps carefully drafts a reply.
+---
+## Questions 1–4
+> The passage has five paragraphs, **A–E**. Choose the correct heading for paragraphs **B–E** from the list of headings below.
+@box List of Headings
+* i. Seeking the transmission of radio signals from planets
+* ii. Appropriate responses to signals from other civilisations
+* iii. Vast distances to Earth's closest neighbours
+* iv. Assumptions underlying the search for extra-terrestrial intelligence
+* v. Reasons for the search for extra-terrestrial intelligence
+* vi. Knowledge of extra-terrestrial life forms
+* vii. Likelihood of life on other planets
+@sel 1 i-vii Paragraph B
+@sel 2 i-vii Paragraph C
+@sel 3 i-vii Paragraph D
+@sel 4 i-vii Paragraph E
+
+= Homework Ex 3
+# E-Training
+[A] E-learning is the unifying term to describe the fields of online learning, web-based training, and technology-delivered instruction, which can be a great benefit to corporate e-learning. IBM, for instance, claims that the institution of its e-training program, Basic Blue, whose purpose is to train new managers, saved the company in the range of $200 million in 1999. Cutting the travel expenses required to bring employees and instructors to a central classroom account for the lion's share of the savings. With an online course, employees can learn from any Internet-connected PC, anywhere in the world. Ernst and Young reduced training costs by 35 percent while improving consistency and scalability.
+[B] In addition to generally positive economic benefits, other advantages such as convenience, standardized delivery, self-paced learning, and a variety of available content, have made e-learning a high priority for many corporations. E-learning is widely believed to offer flexible "any time, any place" learning. The claim for "any place" is valid in principle and is a great development. Many people can engage with rich learning materials that simply were not possible in a paper or broadcast distance learning era. For teaching specific information and skills, e-training holds great promise. It can be especially effective at helping employees prepare for IT certification programs. E-learning also seems to effectively address topics such as sexual harassment education, safety training and management training – all areas where a clear set of objectives can be identified. Ultimately, training experts recommend a "blended" approach that combines both online and in-person training as the instruction requires. E-learning is not an end-all solution. But if it helps decrease costs and windowless classrooms filled with snoring students, it definitely has its advantages.
+[C] Much of the discussion about implementing e-learning has focused on the technology, but as Driscoll and others have reminded us, e-learning is not just about the technology, but also many human factors. As any capable manager knows, teaching employees new skills is critical to a smoothly run business. Having said that, however, the traditional route of classroom instruction runs the risk of being expensive, slow and, oftentimes, ineffective. Perhaps the classroom's greatest disadvantage is the fact that it takes employees out of their jobs. Every minute an employee is sitting in a classroom training session is a minute they're not out on the floor working. It now looks as if there is a way to circumvent these traditional training drawbacks. E-training promises more effective teaching techniques by integrating audio, video, animation, text and interactive materials with the intent of teaching each student at his or her own pace. In addition to higher performance results, there are other immediate benefits to students such as increased time on task, higher levels of motivation, and reduced test anxiety for many learners.
+[D] On the other hand, nobody said e-training technology would be cheap. E-training service providers, on the average, charge from $10,000 to $60,000 to develop one hour of online instruction. This price varies depending on the complexity of the training topic and the media used. HTML pages are a little cheaper to develop while streaming-video presentations or flash animations cost more. Course content is just the starting place for the cost. A complete e-learning solution also includes the technology platform (the computers, applications and network connections that are used to deliver the courses). This technology platform, known as a learning management system (LMS), can either be installed onsite or outsourced. Add to that cost the necessary investments in network bandwidth to deliver multimedia courses, and you're left holding one heck of a bill. For the LMS infrastructure and a dozen or so online courses, costs can top $500,000 in the first year. These kinds of costs mean that custom e-training is, for the time being, an option only for large organizations. For those companies that have a large enough staff, the e-training concept pays for itself. Aware of this fact, large companies are investing heavily in online training. Today, over half of the 400-plus courses that Rockwell Collins offers are delivered instantly to its clients in an e-learning format, a change that has reduced its annual training costs by 40%. Many other success stories exist.
+[E] E-learning isn't expected to replace the classroom entirely. For one thing, bandwidth limitations are still an issue in presenting multimedia over the Internet. Furthermore, e-training isn't suited to every mode of instruction or topic. For instance, it's rather ineffective imparting cultural values or building teams. If your company has a unique corporate culture it would be difficult to convey that to first-time employees through a computer monitor. Group training sessions are more ideal for these purposes. In addition, there is a perceived loss of research time because of the work involved in developing and teaching online classes. Professor Wallin estimated that it required between 500 and 1,000 person-hours, that is, Wallin-hours, to keep the course at the appropriate level of currency and usefulness. (Distance learning instructors often need technical skills, no matter how advanced the courseware system.) That amounts to between a quarter and half of a person-year. Finally, teaching materials require computer literacy and access to equipment. Any e-Learning system involves basic equipment and a minimum level of computer knowledge in order to perform the tasks required by the system. A student that does not possess these skills, or have access to these tools, cannot succeed in an e-Learning program.
+[F] While few people debate the obvious advantages of e-learning, systematic research is needed to confirm that learners are actually acquiring and using the skills that are being taught online, and that e-learning is the best way to achieve the outcomes in a corporate environment. Nowadays, a go-between style of Blended learning, which refers to a mixing of different learning environments, is gaining popularity. It combines traditional face-to-face classroom methods with more modern computer-mediated activities. According to its proponents, the strategy creates a more integrated approach for both instructors and learners. Formerly, technology-based materials played a supporting role in face-to-face instruction. Through a blended learning approach, technology will be more important.
+---
+## Questions 1–6
+> Choose the correct heading for each paragraph from the list of headings below.
+@box List of Headings
+* i. Overview of the benefits for application of E-training
+* ii. IBM's successful choice of training
+* iii. Future directions and a new style of teaching
+* iv. Learners' achievement and advanced teaching materials
+* v. Limitations when E-training compares with traditional class
+* vi. Multimedia over the Internet can be a solution
+* vii. Technology can be a huge financial burden
+* viii. The distance learners outperformed the traditional university learners worldwide
+* ix. Other advantages besides economic consideration
+* x. Training offered to help people learn using computers
+@sel 1 i-x Paragraph A
+@sel 2 i-x Paragraph B
+@sel 3 i-x Paragraph C
+@sel 4 i-x Paragraph D
+@sel 5 i-x Paragraph E
+@sel 6 i-x Paragraph F
+
+= Homework Ex 4
+# Tea and the Industrial Revolution
+_ A Cambridge professor says that a change in drinking habits was the reason for the Industrial Revolution in Britain. Anjana Ahuja reports.
+[A] Alan Macfarlane, professor of anthropological science at King's College, Cambridge has, like other historians, spent decades wrestling with the enigma of the Industrial Revolution. Why did this particular Big Bang – the world-changing birth of industry – happen in Britain? And why did it strike at the end of the 18th century?
+[B] Macfarlane compares the puzzle to a combination lock. 'There are about 20 different factors and all of them need to be present before the revolution can happen,' he says. For industry to take off, there needs to be the technology and power to drive factories, large urban populations to provide cheap labour, easy transport to move goods around, an affluent middle-class willing to buy mass-produced objects, a market-driven economy and a political system that allows this to happen. While this was the case for England, other nations, such as Japan, the Netherlands and France also met some of these criteria but were not industrialising. 'All these factors must have been necessary but not sufficient to cause the revolution,' says Macfarlane. 'After all, Holland had everything except coal while China also had many of these factors. Most historians are convinced there are one or two missing factors that you need to open the lock.'
+[C] The missing factors, he proposes, are to be found in almost every kitchen cupboard. Tea and beer, two of the nation's favourite drinks, fuelled the revolution. The antiseptic properties of tannin, the active ingredient in tea, and of hops in beer – plus the fact that both are made with boiled water – allowed urban communities to flourish at close quarters without succumbing to water-borne diseases such as dysentery. The theory sounds eccentric but once he starts to explain the detective work that went into his deduction, the scepticism gives way to wary admiration. Macfarlane's case has been strengthened by support from notable quarters – Roy Porter, the distinguished medical historian, recently wrote a favourable appraisal of his research.
+[D] Macfarlane had wondered for a long time how the Industrial Revolution came about. Historians had alighted on one interesting factor around the mid-18th century that required explanation. Between about 1650 and 1740, the population in Britain was static. But then there was a burst in population growth. Macfarlane says: 'The infant mortality rate halved in the space of 20 years, and this happened in both rural areas and cities, and across all classes. People suggested four possible causes. Was there a sudden change in the viruses and bacteria around? Unlikely. Was there a revolution in medical science? But this was a century before Lister's revolution. Was there a change in environmental conditions? There were improvements in agriculture that wiped out malaria, but these were small gains. Sanitation did not become widespread until the 19th century. The only option left is food. But the height and weight statistics show a decline. So the food must have got worse. Efforts to explain this sudden reduction in child deaths appeared to draw a blank.'
+[E] This population burst seemed to happen at just the right time to provide labour for the Industrial Revolution. 'When you start moving towards an industrial revolution, it is economically efficient to have people living close together,' says Macfarlane. 'But then you get disease, particularly from human waste.' Some digging around in historical records revealed that there was a change in the incidence of water-borne disease at that time, especially dysentery. Macfarlane deduced that whatever the British were drinking must have been important in regulating disease. He says, 'We drank beer. For a long time, the English were protected by the strong antibacterial agent in hops, which were added to help preserve the beer. But in the late 17th century a tax was introduced on malt, the basic ingredient of beer. The poor turned to water and gin and in the 1720s the mortality rate began to rise again. Then it suddenly dropped again. What caused this?'
+[F] Macfarlane looked to Japan, which was also developing large cities about the same time, and also had no sanitation. Water-borne diseases had a much looser grip on the Japanese population than those in Britain. Could it be the prevalence of tea in their culture? Macfarlane then noted that the history of tea in Britain provided an extraordinary coincidence of dates. Tea was relatively expensive until Britain started a direct clipper trade with China in the early 18th century. By the 1740s, about the time that infant mortality was dipping, the drink was common. Macfarlane guessed that the fact that water had to be boiled, together with the stomach-purifying properties of tea meant that the breast milk provided by mothers was healthier than it had ever been. No other European nation sipped tea like the British, which, by Macfarlane's logic, pushed these other countries out of contention for the revolution.
+[G] But, if tea is a factor in the combination lock, why didn't Japan forge ahead in a tea-soaked industrial revolution of its own? Macfarlane notes that even though 17th-century Japan had large cities, high literacy rates, even a futures market, it had turned its back on the essence of any work-based revolution by giving up labour-saving devices such as animals, afraid that they would put people out of work. So, the nation that we now think of as one of the most technologically advanced entered the 19th century having 'abandoned the wheel'.
+---
+## Questions 1–7
+> Choose the correct heading for each paragraph from the list of headings below.
+@box List of Headings
+* i. The search for the reasons for an increase in population
+* ii. Industrialisation and the fear of unemployment
+* iii. The development of cities in Japan
+* iv. The time and place of the Industrial Revolution
+* v. The cases of Holland, France and China
+* vi. Changes in drinking habits in Britain
+* vii. Two keys to Britain's industrial revolution
+* viii. Conditions required for industrialisation
+* ix. Comparisons with Japan lead to the answer
+@sel 1 i-ix Paragraph A
+@sel 2 i-ix Paragraph B
+@sel 3 i-ix Paragraph C
+@sel 4 i-ix Paragraph D
+@sel 5 i-ix Paragraph E
+@sel 6 i-ix Paragraph F
+@sel 7 i-ix Paragraph G

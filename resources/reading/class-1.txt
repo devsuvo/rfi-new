@@ -1,0 +1,122 @@
+= Exercise 1
+@time 8
+# 3D Heart Printed Using Multiple Imaging Techniques
+Congenital heart experts from Spectrum Health Helen DeVos Children's Hospital have successfully integrated two common imaging techniques to produce a three-dimensional anatomic model of a patient's heart. The 3D model printing of patients' hearts has become more common in recent years as part of an emerging, experimental field devoted to enhanced visualization of individual cardiac structures and characteristics. But this is the first time the integration of computed tomography (CT) and three-dimensional transesophageal echocardiography (3DTEE) has successfully been used for printing a hybrid 3D model of a patient's heart. A proof-of-concept study authored by the Spectrum Health experts also opens the way for these techniques to be used in combination with a third tool - magnetic resonance imaging (MRI).
+"Hybrid 3D printing integrates the best aspects of two or more imaging modalities, which can potentially enhance diagnosis, as well as interventional and surgical planning," said Jordan Gosnell, Helen DeVos Children's Hospital cardiac sonographer, and lead author of the study. "Previous methods of 3D printing utilize only one imaging modality, which may not be as accurate as merging two or more datasets." The team used specialized software to register images from the two imaging modalities to selectively integrate datasets to produce an accurate anatomic model of the heart. The result creates more detailed and anatomically accurate 3D renderings and printed models, which may enable physicians to better diagnose and treat heart disease.
+---
+## Questions 1–4
+> Complete the sentences below.
+> Choose **NO MORE THAN THREE WORDS** from the passage for each answer.
+A three-dimensional [[1]] of a patient's heart was created by integrating two imaging techniques.
+Spectrum Health scientists have found a way to combine and use three techniques: computed tomography, three-dimensional transesophageal echocardiography and [[2]].
+The new method of 3D printing is more efficient than previous methods because it merges two and more [[3]].
+With more accurate 3D renderings and [[4]], physicians will be able to better diagnose and treat heart disease.
+
+= Exercise 2
+@time 10
+# Nature’s Most Violent Wind
+[A] Tornados are classified into three levels of intensity; these being weak, strong and violent. 88% of tornados occurring in the USA are classified into the first category making them the most common; they account for less than 5% of fatalities resulting from tornado activity, generally reach wind speeds of less than 177kms/hour and have a duration of between 1 and 10 minutes before cessation. In contrast, ‘violent’ tornados exceed 330 kilometres per hour, can continue for over an hour and while they account for only 1% of the incidence of tornados they result in approximately 70% of resultant deaths. The greatest devastation to date inflicted on the USA by a violent tornado was on March 18th, 1925.
+[B] The tornado was the longest, fastest and widest tornado known to have formed in North America and resulted in 695 deaths, an additional 2279 being injured. Now known as the Tri-state Tornado, it travelled over 350 kilometres affecting 13 counties in the three different states of Missouri, Illinois and Indiana. Around 11% of tornados are classified as ‘strong’ tornados. These tornados account for slightly more than 25% of tornado-related fatal accidents and reach mid-range speeds of between 177 and 330 kilometres per hour with an average duration of around 20 minutes.
+---
+## Questions 1–5
+> Complete the table below.
+> Choose **NO MORE THAN THREE WORDS OR A NUMBER** from the passage for each answer.
+@table
+!Classification | Weak | Strong | Violent
+Incidence | make up [[1]] of tornados in the USA | make up about [[2]] of tornados in the USA | make up the smallest minority of tornados in the USA
+Wind speed | less than 177 kms/hr | between 177 and 330 kms/hr | more than 330 kms/hr
+Lifespan | 1–10 minutes | 20 minutes | can last for [[3]]
+Impact | cause less than 5% of tornado-related deaths | cause just over [[4]] of tornado-related deaths | the most violent example in the USA was the [[5]]
+@end
+
+= Exercise 3
+@time 12
+# The life and work of Marie Curie
+Marie Curie is probably the most famous woman scientist who has ever lived. Born Maria Sklodowska in Poland in 1867, she is famous for her work on radioactivity, and was twice a winner of the Nobel Prize. With her husband, Pierre Curie, and Henri Becquerel, she was awarded the 1903 Nobel Prize for Physics, and was then sole winner of the 1911 Nobel Prize for Chemistry. She was the first woman to win a Nobel Prize.
+From childhood, Marie was remarkable for her prodigious memory, and at the age of 16 won a gold medal on completion of her secondary education. Because her father lost his savings through bad investment, she then had to take work as a teacher. From her earnings she was able to finance her sister Bronia's medical studies in Paris, on the understanding that Bronia would, in turn, later help her to get an education.
+In 1891, this promise was fulfilled and Marie went to Paris and began to study at the Sorbonne (the University of Paris). She often worked far into the night and lived on little more than bread and butter and tea. She came first in the examination in the physical sciences in 1893, and in 1894 was placed second in the examination in mathematical sciences. It was not until the spring of that year that she was introduced to Pierre Curie.
+Their marriage in 1895 marked the start of a partnership that was soon to achieve results of world significance.
+Following Henri Becquerel's discovery in 1896 of a new phenomenon, which Marie later called 'radioactivity', Marie Curie decided to find out if the radioactivity discovered in uranium was to be found in other elements.
+She discovered that this was true for thorium.
+Turning her attention to minerals, she found her interest drawn to pitchblende, a mineral whose radioactivity, superior to that of pure uranium, could be explained only by the presence in the ore of small quantities of an unknown substance of very high activity. Pierre Curie joined her in the work that she had undertaken to resolve this problem, and that led to the discovery of the new elements, polonium and radium. While Pierre Curie devoted himself chiefly to the physical study of the new radiations, Marie Curie struggled to obtain pure radium in the metallic state. This was achieved with the help of the chemist André-Louis Debierne, one of Pierre Curie's pupils. Based on the results of this research, Marie Curie received her Doctorate of Science, and in 1903 Marie and Pierre shared with Becquerel the Nobel Prize for Physics for the discovery of radioactivity.
+The births of Marie's two daughters, Irène and Eve, in 1897 and 1904 failed to interrupt her scientific work.
+She was appointed lecturer in physics at the École Normale Supérieure for girls in Sèvres, France (1900), and introduced a method of teaching based on experimental demonstrations. In December 1904 she was appointed chief assistant in the laboratory directed by Pierre Curie.
+The sudden death of her husband in 1906 was a bitter blow to Marie Curie, but was also a turning point in her career: henceforth she was to devote all her energy to completing alone the scientific work that they had undertaken. On May 13, 1906, she was appointed to the professorship that had been left vacant on her husband's death, becoming the first woman to teach at the Sorbonne. In 1911 she was awarded the Nobel Prize for Chemistry for the isolation of a pure form of radium.
+During World War I, Marie Curie, with the help of her daughter Irène, devoted herself to the development of the use of X-radiography, including the mobile units which came to be known as ‘Little Curies', used for the treatment of wounded soldiers. In 1918, the Radium Institute, whose staff Irène had joined, began to operate in earnest, and became a centre for nuclear physics and chemistry. Marie Curie, now at the highest point of her fame and, from 1922, a member of the Academy of Medicine, researched the chemistry of radioactive substances and their medical applications.
+In 1921, accompanied by her two daughters, Marie Curie made a triumphant journey to the United States to raise funds for research on radium. Women there presented her with a gram of radium for her campaign. Marie also gave lectures in Belgium, Brazil, Spain and Czechoslovakia and, in addition, had the satisfaction of seeing the development of the Curie Foundation in Paris, and the inauguration in 1932 in Warsaw of the Radium Institute, where her sister Bronia became director.
+One of Marie Curie's outstanding achievements was to have understood the need to accumulate intense radioactive sources, not only to treat illness but also to maintain an abundant supply for research. The existence in Paris at the Radium Institute of a stock of 1.5 grams of radium made a decisive contribution to the success of the experiments undertaken in the years around 1930. This work prepared the way for the discovery of the neutron by Sir James Chadwick and, above all, for the discovery in 1934 by Irène and Frédéric Joliot-Curie of artificial radioactivity. A few months after this discovery, Marie Curie died as a result of leukaemia caused by exposure to radiation. She had often carried test tubes containing radioactive isotopes in her pocket, remarking on the pretty blue-green light they gave off.
+Her contribution to physics had been immense, not only in her own work, the importance of which had been demonstrated by her two Nobel Prizes, but because of her influence on subsequent generations of nuclear physicists and chemists.
+---
+## Questions 1–7
+> Complete the notes below.
+> Choose **ONE WORD** from the passage for each answer.
+### Marie Curie’s Research on Radioactivity
+When uranium was discovered to be radioactive, Marie Curie found that the element called [[1]] had the same property.
+Marie and Pierre Curie’s research into the radioactivity of the mineral known as [[2]] led to the discovery of two new elements.
+In 1911, Marie Curie received recognition for her work on the element [[3]].
+Marie and Irène Curie developed X-radiography which was used as a medical technique for [[4]].
+Marie Curie saw the importance of collecting radioactive material both for research and for cases of [[5]].
+The radioactive material stocked in Paris contributed to the discoveries in the 1930s of the [[6]] and of what was known as artificial radioactivity.
+During her research, Marie Curie was exposed to radiation and as a result she suffered from [[7]].
+
+// ---------- Homework (Note / Sentence Completion) ----------
+= Homework Ex 1
+# How Atoms Were Discovered
+Hundreds of years ago in 1785 Dutch scientist Jan Ingenhousz was studying a strange phenomenon that he couldn't quite make sense of. Minute particles of coal dust were darting about on the surface of some alcohol in his lab. About 50 years later, in 1827, the Scottish botanist Robert Brown described something curiously similar. He had his microscope trained on some pollen grains. Brown noticed that some of the grains released tiny particles – which would then move away from the pollen grain in a random jittery dance. At first, Brown wondered if the particles were really some sort of unknown organism. He repeated the experiment with other substances like rock dust, which he knew wasn't alive, and saw the same strange motion again. It would take almost another century for science to offer an explanation. Einstein came along and developed a mathematical formula that would predict this very particular type of movement – by then called Brownian motion, after Robert Brown. Einstein's theory was that the particles from the pollen grains were being moved around because they were constantly crashing into millions of tinier molecules of water – molecules that were made of atoms. By 1908, observations backed with calculations had confirmed that atoms were real. Within about a decade, physicists would be able to go further. By pulling apart individual atoms they began to get a sense of their internal structure. It might come as a surprise that atoms can be broken down – particularly since the very name atom derives from a Greek term "atomos", which means "indivisible". But physicists now know that atoms are not solid little balls. It's better to think of them as tiny electrical, "planetary" systems. They're typically made up of three main parts: protons, neutrons and electrons. Think of the protons and neutrons as together forming a "sun", or nucleus, at the centre of the system. The electrons orbit this nucleus, like planets.
+---
+## Questions 1–4
+> Complete the sentences below.
+> Choose **NO MORE THAN THREE WORDS AND/OR A NUMBER** from the passage for each answer.
+The type of random jittery movement of tiny particles is called [[1]].
+Einstein explained the phenomenon of particles' strange motion by the fact that they were colliding with [[2]].
+Nowadays, scientists consider atoms' structures similar to tiny [[3]].
+[[4]] are parts that are circling around the nucleus.
+
+= Homework Ex 2
+# European Settlement of Australia
+European settlement of Australia began in 1788 when a British penal colony was established on the east coast. From this starting point Australia grew rapidly and continually, expanding across the entire continent. A number of reasons contributed to Britain's decision to colonise Australia. The most important factor was Britain's need to relieve its overcrowded prisons. Several violent incidents at overcrowded prisons convinced the British government of the need to separate unruly elements from the rest of the prison populace. Additionally, Australia was of strategic importance to Britain, and it provided a base for the Royal Navy in the eastern sea. Also, Australia could be used as an entry point to the economic opportunities of the surrounding region. All these points figured in the decision by Lord Sydney, secretary of state of home affairs, to authorise the colonisation.
+To this effect, on May 13, 1787, Captain Arthur Phillip, commanding eleven ships full of convicts, left Britain for Australia. He successfully landed a full fleet at Botany Bay on January 18, 1788. However, they left the bay eight days later because of its openness and poor soil, and settled instead at Port Jackson, a few kilometres north. The ships landed 1,373 people, including 732 convicts, and the settlement became Sydney. Australia Day is now celebrated on 26 January each year, to commemorate this first fleet landing.
+---
+## Questions 1–5
+> Complete the sentences below.
+> Choose **NO MORE THAN THREE WORDS** from the passage for each answer.
+Australia was originally founded as a [[1]].
+The major consideration in colonising Australia was Britain's [[2]].
+It was thought that [[3]] could be gained in that part of the world due to the access provided via Australia.
+Lord Sydney took every factor into account when he gave official permission for the [[4]] of Australia.
+Botany Bay was abandoned by the settlers due to the lack of cover and [[5]].
+
+= Homework Ex 3
+# The Meaning and Power of Smell
+The sense of smell, or olfaction, is powerful. Odours affect us on a physical, psychological and social level. For the most part, however, we breathe in the aromas which surround us without being consciously aware of their importance to us. It is only when the faculty of smell is impaired for some reason that we begin to realise the essential role the sense of smell plays in our sense of well-being.
+[A] A survey conducted by Anthony Synott at Montreal's Concordia University asked participants to comment on how important smell was to them in their lives. It became apparent that smell can evoke strong emotional responses. A scent associated with a good experience can bring a rush of joy, while a foul odour or one associated with a bad memory may make us grimace with disgust. Respondents to the survey noted that many of their olfactory likes and dislikes were based on emotional associations. Such associations can be powerful enough so that odours that we would generally label unpleasant become agreeable, and those that we would generally consider fragrant become disagreeable for particular individuals. The perception of smell, therefore, consists not only of the sensation of the odours themselves, but of the experiences and emotions associated with them.
+[B] Odours are also essential cues in social bonding. One respondent to the survey believed that there is no true emotional bonding without touching and smelling a loved one. In fact, infants recognise the odours of their mothers soon after birth and adults can often identify their children or spouses by scent. In one well-known test, women and men were able to distinguish by smell alone clothing worn by their marriage partners from similar clothing worn by other people. Most of the subjects would probably never have given much thought to odour as a cue for identifying family members before being involved in the test, but as the experiment revealed, even when not consciously considered, smells register.
+[C] In spite of its importance to our emotional and sensory lives, smell is probably the most undervalued sense in many cultures. The reason often given for the low regard in which smell is held is that, in comparison with its importance among animals, the human sense of smell is feeble and undeveloped. While it is true that the olfactory powers of humans are nothing like as fine as those possessed by certain animals, they are still remarkably acute. Our noses are able to recognise thousands of smells, and to perceive odours which are present only in extremely small quantities.
+[D] Smell, however, is a highly elusive phenomenon. Odours, unlike colours, for instance, cannot be named in many languages because the specific vocabulary simply doesn't exist. 'It smells like…,' we have to say when describing an odour, struggling to express our olfactory experience. Nor can odours be recorded: there is no effective way to either capture or store them over time. In the realm of olfaction, we must make do with descriptions and recollections. This has implications for olfactory research.
+[E] Most of the research on smell undertaken to date has been of a physical scientific nature. Significant advances have been made in the understanding of the biological and chemical nature of olfaction, but many fundamental questions have yet to be answered. Researchers have still to decide whether smell is one sense or two – one responding to odours proper and the other registering odourless chemicals in the air. Other unanswered questions are whether the nose is the only part of the body affected by odours, and how smells can be measured objectively given the nonphysical components. Questions like these mean that interest in the psychology of smell is inevitably set to play an increasingly important role for researchers.
+[F] However, smell is not simply a biological and psychological phenomenon. Smell is cultural, hence it is a social and historical phenomenon. Odours are invested with cultural values: smells that are considered to be offensive in some cultures may be perfectly acceptable in others. Therefore, our sense of smell is a means of, and model for, interacting with the world. Different smells can provide us with intimate and emotionally charged experiences and the value that we attach to these experiences is interiorised by the members of society in a deeply personal way. Importantly, our commonly held feelings about smells can help distinguish us from other cultures. The study of the cultural history of smell is, therefore, in a very real sense, an investigation into the essence of human culture.
+---
+## Questions 1–6
+> The passage has six paragraphs, **A–F**. Choose the correct heading for each paragraph from the list of headings below.
+@box List of Headings
+* i. The difficulties of talking about smells
+* ii. The role of smell in personal relationships
+* iii. Future studies into smell
+* iv. The relationship between the brain and the nose
+* v. The interpretation of smells as a factor in defining groups
+* vi. Why our sense of smell is not appreciated
+* vii. Smell is our superior sense
+* viii. The relationship between smell and feelings
+@sel 1 i-viii Paragraph A
+@sel 2 i-viii Paragraph B
+@sel 3 i-viii Paragraph C
+@sel 4 i-viii Paragraph D
+@sel 5 i-viii Paragraph E
+@sel 6 i-viii Paragraph F
+## Questions 7–10
+> Complete the sentences below.
+> Choose **ONE WORD ONLY** from the passage for each answer.
+Tests have shown that odours can help people recognise the [[7]] belonging to their husbands and wives.
+Certain linguistic groups may have difficulty describing smell because they lack the appropriate [[8]].
+The sense of smell may involve response to [[9]] which do not smell, in addition to obvious odours.
+Odours regarded as unpleasant in certain [[10]] are not regarded as unpleasant in others.

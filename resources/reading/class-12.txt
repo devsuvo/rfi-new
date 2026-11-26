@@ -1,0 +1,282 @@
+= Exercise 1
+# Keep taking the tablets
+_ The history of aspirin is a product of a rollercoaster ride through time, of accidental discoveries, intuitive reasoning and intense corporate rivalry.
+In the opening pages of Aspirin: The Remarkable Story of a Wonder Drug, Diarmuid Jeffreys describes this little white pill as ‘one of the most amazing creations in medical history, a drug so astonishingly versatile that it can relieve headache, ease your aching limbs, lower your temperature and treat some of the deadliest human diseases’. Its properties have been known for thousands of years. Ancient Egyptian physicians used extracts from the willow tree as an analgesic, or pain killer. Centuries later the Greek physician Hippocrates recommended the bark of the willow tree as a remedy for the pains of childbirth and as a fever reducer. But it wasn't until the eighteenth and nineteenth centuries that salicylates, the chemical found in the willow tree became the subject of serious scientific investigation. The race was on to identify the active ingredient and to replicate it synthetically. At the end of the nineteenth century a German company, Friedrich Bayer & Co. succeeded in creating a relatively safe and very effective chemical compound, acetylsalicylic acid, which was renamed aspirin.
+The late nineteenth century was a fertile period for experimentation, partly because of the hunger among scientists to answer some of the great scientific questions, but also because those questions were within their means to answer. One scientist in a laboratory with some chemicals and a test tube could make significant breakthroughs whereas today, in order to map the human genome for instance, one needs ‘an army of researchers, a bank of computers and millions and millions of dollars.
+But an understanding of the nature of science and scientific inquiry is not enough on its own to explain how society innovates. In the nineteenth century, scientific advance was closely linked to the industrial revolution. This was a period when people frequently had the means, motive and determination to take an idea and turn it into reality. In the case of aspirin that happened piecemeal - a series of minor, often unrelated advances, fertilised by the century’s broader economic, medical and scientific developments, that led to one big final breakthrough.
+The link between big money and pharmaceutical innovation is also a significant one. Aspirin s continued shelf life was ensured because for the first 70 years of its life, huge amounts of money were put into promoting it as an ordinary everyday analgesic. In the 1970s other analgesics, such as ibuprofen and paracetamol, were entering the market, and the pharmaceutical companies then focused on publicising these new drugs. But just at the same time, discoveries were made regarding the beneficial role of aspirin in preventing heart attacks, strokes and other afflictions. Had it not been for these findings, this pharmaceutical marvel may well have disappeared.
+So, the relationship between big money and drugs is an odd one. Commercial markets are necessary for developing new products and ensuring that they remain around long enough for scientists to carry out research on them. But the commercial markets are just as likely to kill off certain products when something more attractive comes along. In the case of aspirin, a potential ‘wonder drug' was around for over 70 years without anybody investigating the way in which it achieved its effects, because they were making more than enough money out of it as it was. If ibuprofen or paracetamol had entered the market just a decade earlier, aspirin might then not be here today. It would be just another forgotten drug that people hadn't bothered to explore.
+None of the recent discoveries of aspirin's benefits were made by the big pharmaceutical companies; they were made by scientists working in the public sector. 'The reason for that is very simple and straightforward,' Jeffreys says in his book. 'Drug companies will only pursue research that is going to deliver financial benefits. There's no profit in aspirin any more. It is incredibly inexpensive with tiny profit margins and it has no patent anymore, so anyone can produce it.' In fact, there's almost a disincentive for drug companies to further boost the drug, he argues, as it could possibly put them out of business by stopping them from selling their more expensive brands.
+So, what is the solution to a lack of commercial interest in further exploring the therapeutic benefits of aspirin? More public money going into clinical trials, says Jeffreys. ‘If I were in the Department of Health. I would say “this is a very inexpensive drug. There may be a lot of other things we could do with it." We should put a lot more money into trying to find out.' Jeffreys' book which not only tells the tale of a 'wonder drug' but also explores the nature of innovation and the role of big business, public money and regulation reminds us why such research is so important.
+---
+## Questions 1–6
+> Complete each sentence with the correct ending, **A–H**, from the box below.
+@box
+* A. the discovery of new medical applications.
+* B. the negative effects of publicity.
+* C. the large pharmaceutical companies.
+* D. the industrial revolution.
+* E. the medical uses of a particular tree.
+* F. the limited availability of new drugs.
+* G. the chemical found in the willow tree.
+* H. commercial advertising campaigns.
+@sel 1 A-H Ancient Egyptian and Greek doctors were aware of
+@sel 2 A-H Frederick Bayer & Co were able to reproduce
+@sel 3 A-H The development of aspirin was partly due to the effects of
+@sel 4 A-H The creation of a market for aspirin as a painkiller was achieved through
+@sel 5 A-H Aspirin might have become unavailable without
+@sel 6 A-H The way in which aspirin actually worked was not investigated by
+## Questions 7–11
+> Choose **YES** if the statement agrees with the claims of the writer, choose **NO** if the statement contradicts the claims of the writer, or choose **NOT GIVEN** if it is impossible to say what the writer thinks about this.
+@ynng 7 For nineteenth-century scientists, small-scale research was enough to make important discoveries.
+@ynng 8 The nineteenth-century industrial revolution caused a change in the focus of scientific research.
+@ynng 9 The development of aspirin in the nineteenth century followed a structured pattern of development.
+@ynng 10 In the 1970s sales of new analgesic drugs overtook sales of aspirin.
+@ynng 11 Commercial companies may have both good and bad effects on the availability of pharmaceutical products.
+## Questions 12–14
+> Complete the summary below using the list of words, **A–I**, below.
+### Research into aspirin
+@box
+* A. useful
+* B. cheap
+* C. state
+* D. international
+* E. major drug companies
+* F. profitable
+* G. commercial
+* H. public sector scientists
+* I. health officials
+Jeffreys argues that the reason why [[12:A-I]] did not find out about new uses of aspirin is that aspirin is no longer a [[13:A-I]] drug. He therefore suggests that there should be [[14:A-I]] support for further research into the possible applications of the drug.
+
+= Exercise 2
+# When people are ‘deaf’ to music
+Music has long been considered a uniquely human concept. In fact, most psychologists agree that music is a universal human instinct. Like any ability, however, there is great variation in people's musical competence. For every brilliant pianist in the world, there are several people we refer to as " tone deaf". It is not simply that people with tone deafness (or' amusia") are unable to sing in tune, they are also unable to discriminate between tones or recognize familiar melodies. Such a" disorder" can occur after some sort of brain damage, but recently research has been undertaken in an attempt to discover the cause of congenital amusia (when people are born with the condition), which is not associated with any brain damage, hearing problems, or lack of exposure to music.
+According to the research of Dr. Isabelie Peretz of the University of Montreat, amusia is more complicated than the inability to distinguish pitches. An amusia (a person who has the condition of amusia) can distinguish between two pitches that are far apart, but cannot tell the difference between intervals smaller than a half step on the Western diatonic scale, while most people can easily distinguish differences smaller than that, when listening to melodies which have had a single note altered so that it is out of key with the rest of the melody, do not notice a problem. As would be expected, amusics perform significantly worse at singing and tapping a rhythm along with a melody than do non-amusics.
+The most fascinating aspect of amusia is how specific to music it is. Because of music’s close ties to language, it might be expected that a musical impairment may be caused by a language impairment. Studies suggest, however, that language and music ability are independent of one another. People with brain damage in areas critical to language are often still able to sing, despite being unable to communicate through speech. Moreover, while amusics show deficiencies in their recognition of pitch differences in melodies, they show no tonal languages, such as Chinese, do not report having any difficulty discriminating between words that differ only in their intonation. The linguistic cues inherent in speech make discrimination of meaning much easier for amusics. Amusics are also successful most of the time at detecting the mood of a melody, can identify a speaker based on his or her voice and can discriminate and identify environmental sounds.
+Recent work has been focused on locating the part of the brain that is responsible for amusia. The temporal lobes of the brain, the location of the primary auditory cortex, have been considered. It has long been believed that the temporal lobes, especially the right temporal lobe, are most active when activity, so any musical disability should logically stem from here as well. Because it has been shown that there is no hearing deficit in amusia, researchers moved on to the temporal neocortex, which is where more sophisticated processing of musical cues was thought to take place. New studies, however, have suggested that the deficits in amusics are located outside the auditory cortex. Brain scans of amusics do not show any reaction at all to differences smaller than a half step, when changes in tones are large, their brains overreact, showing twice as much activity on the right side of the brain as a normal brain hearing the same thing. These differences do not occur in the auditory cortex, indicating again that the deficits of amusia lie mostly in hearing impairment, but in higher processing of melodies.
+So what does this all mean? Looking only at the research of Peretz in the field of neuropsychology of music, it would appear that amusia is some sort of disorder. As a student of neurobiology, however, I am skeptical. Certainly, the studies by Peretz that have found significant differences between the brains of so-called amusics and normal brains are legitimate. The more important question now becomes one of normality. Every trait from skin color to intelligence to mood exists on a continuum-there is a great idea of variation from one extreme to the other. Just because we recognize that basic musical ability is something that the vast majority of people have, this doesn’t mean that the lack of it is abnormal What makes an amusic worse off than a musical prodigy? Musical ability is culturally valued, and may have been a factor in survival at one point in human history, but it does not seem likely that it is being selected for on an evolutionary scale any longer. Darwin believed that music was adaptive as a way of finding a mate, but who needs to be able to sing to find a partner in an age when it is possible to express your emotions through a song on your IPod?
+While the idea of amusia is interesting, it seems to be just one end of the continuum of innate musical ability. Comparing this ‘disorder’ to learning disorders like a specific language impairment seems to be going too far. Before amusia can be declared a disability, further research must be done to determine whether lack of musical ability is actually detrimental in any way. If no disadvantages can be found of having amusia, then it is no more a disability than having poor fashion sense or bad handwriting.
+---
+## Questions 1–5
+> Complete each sentence with the correct ending, **A–H**, below.
+@box
+* A. an inability to hear when spoken language rises and falls.
+* B. considered to be desirable.
+* C. an inability to follow the beat of music.
+* D. not a problem.
+* E. not yet well understood.
+* F. a result of injury to the mother.
+* G. more marked than with other people.
+* H. associated with intelligence.
+@sel 1 A-H The reason why some people are born with amusia is
+@sel 2 A-H One of the difficulties amusics experience is
+@sel 3 A-H For amusics, discrimination of meaning in speech is
+@sel 4 A-H Certain reactions in the brain of an amusic are
+@sel 5 A-H In most cultures, musical ability is
+## Questions 6–10
+> Choose the correct answer.
+@mcq 6 What does the writer tell us about people with tone deafness (amusia) in the first paragraph?
+- They usually have hearing problems.
+- Some can play a musical instrument very well.
+- Some may be able to sing well-known melodies.
+- They have several inabilities in regard to music.
+@mcq 7 What is the writer doing in the second paragraph?
+- outlining some of the factors that cause amusia
+- summarising some findings about people with amusia
+- suggesting that people with amusia are disadvantaged
+- comparing the singing ability of amusics with their sense …
+@mcq 8 What does the writer say about the relationship between language ability and musical ability?
+- People who are unable to speak can sometimes sing.
+- People with amusia usually have language problems too.
+- Speakers of tonal languages like Chinese rarely have amusia.
+- People with amusia have difficulty recognising people by their voices.
+@mcq 9 In the third paragraph, the writer notes that most amusics are able to
+- learn how to sing in tune.
+- identify a song by its tune.
+- distinguish a sad tone from a happy tune.
+- recognise when a singer is not singing in tune.
+@mcq 10 What is the writer doing in the fourth paragraph?
+- claiming that amusics have problems in the auditory cortex
+- outlining progress in understanding the brains of amusics
+- proving that amusia is located in the temporal lobes
+- explaining why studies of hearing are difficult
+
+= Homework Ex 1
+# Architecture – Reaching for the Sky
+Architecture is the art and science of designing buildings and structures. A building reflects the scientific and technological achievements of the age as well as the ideas and aspirations of the designer and client. The appearance of individual buildings, however, is often controversial.
+The use of an architectural style cannot be said to start or finish on a specific date. Neither is it possible to say exactly what characterises a particular movement. But the origins of what is now generally known as modern architecture can be traced back to the social and technological changes of the 18th and 19th centuries.
+Instead of using timber, stone and traditional building techniques, architects began to explore ways of creating buildings by using the latest technology and materials such as steel, glass and concrete strengthened with steel bars, known as reinforced concrete. Technological advances also helped bring about the decline of rural industries and an increase in urban populations as people moved to the towns to work in the new factories. Such rapid and uncontrolled growth helped to turn parts of cities into slums.
+By the 1920s architects throughout Europe were reacting against the conditions created by industrialisation. A new style of architecture emerged to reflect more idealistic notions for the future. It was made possible by new materials and construction techniques and was known as Modernism.
+By the 1930s many buildings emerging from this movement were designed in the International Style. This was largely characterised by the bold use of new materials and simple, geometric forms, often with white walls supported by stilt-like pillars. These were stripped of unnecessary decoration that would detract from their primary purpose — to be used or lived in.
+Walter Gropius, Charles Jeanneret (better known as Le Corbusier) and Ludwig Mies van der Rohe were among the most influential of the many architects who contributed to the development of Modernism in the first half of the century. But the economic depression of the 1930s and the second world war (1939-45) prevented their ideas from being widely realised until the economic conditions improved and war-torn cities had to be rebuilt. By the 1950s, the International Style had developed into a universal approach to building, which standardised the appearance of new buildings in cities across the world.
+Unfortunately, this Modernist interest in geometric simplicity and function became exploited for profit. The rediscovery of quick-and-easy-to-handle reinforced concrete and an improved ability to prefabricate building sections meant that builders could meet the budgets of commissioning authorities and handle a renewed demand for development quickly and cheaply. But this led to many badly designed buildings, which discredited the original aims of Modernism.
+Influenced by Le Corbusier's ideas on town planning, every large British city built multi-storey housing estates in the 1960s. Mass-produced, low-cost high-rises seemed to offer a solution to the problem of housing a growing inner-city population. But far from meeting human needs, the new estates often proved to be windswept deserts lacking essential social facilities and services. Many of these buildings were poorly designed and constructed and have since been demolished.
+By the 1970s, a new respect for the place of buildings within the existing townscape arose. Preserving historic buildings or keeping only their facades (or fronts) grew common. Architects also began to make more use of building styles and materials that were traditional to the area. The architectural style usually referred to as High Tech was also emerging. It celebrated scientific and engineering achievements by openly parading the sophisticated techniques used in construction. Such buildings are commonly made of metal and glass; examples are Stansted airport and the Lloyd's building in London.
+Disillusionment at the failure of many of the poor imitations of Modernist architecture led to interest in various styles and ideas from the past and present. By the 1980s the coexistence of different styles of architecture in the same building became known as Post Modern. Other architects looked back to the classical tradition. The trend in architecture now favours smaller scale building design that reflects a growing public awareness of environmental issues such as energy efficiency. Like the Modernists, people today recognise that a well designed environment improves the quality of life but is not necessarily achieved by adopting one well defined style of architecture.
+Twentieth century architecture will mainly be remembered for its tall buildings. They have been made possible by the development of light steel frames and safe passenger lifts. They originated in the US over a century ago to help meet the demand for more economical use of land. As construction techniques improved, the skyscraper became a reality.
+_ Ruth Coleman
+---
+## Questions 29–35
+> Complete the table below.
+> Write **NO MORE THAN THREE WORDS** for each answer.
+@table
+!Period | Style of period | Building materials | Characteristics
+Before 18th century | traditional | [[29]] | –
+1920s | introduction of [[30]] | steel, glass and concrete | exploration of latest technology
+1930s – 1950s | [[31]] | – | geometric forms
+1960s | decline of Modernism | pre-fabricated sections | [[32]]
+1970s | end of Modernist era | traditional materials | [[33]] historic buildings
+1970s | beginning of [[34]] era | metal and glass | sophisticated techniques paraded
+1980s | Post-Modernism | – | [[35]]
+@end
+## Questions 36–40
+> Match each Cause (36–40) with its Effect (**A–H**). You may use any effect more than once; you will not use all of them.
+@box List of Effects
+* A. The quality of life is improved.
+* B. Architecture reflects the age.
+* C. A number of these have been knocked down.
+* D. Light steel frames and lifts are developed.
+* E. Historical buildings are preserved.
+* F. All decoration is removed.
+* G. Parts of cities become slums.
+* H. Modernist ideas cannot be put into practice until the second half of the 20th century.
+@sel 36 A-H A rapid movement of people from rural areas to cities is triggered by technological advance.
+@sel 37 A-H Buildings become simple and functional.
+@sel 38 A-H An economic depression and the second world war hit Europe.
+@sel 39 A-H Multi-storey housing estates are built according to contemporary ideas on town planning.
+@sel 40 A-H Less land must be used for building.
+
+= Homework Ex 2
+# Makete Integrated Rural Transport Project
+[A] The disappointing results of many conventional road transport projects in Africa led some experts to rethink the strategy by which rural transport problems were to be tackled at the beginning of the 1980s. A request for help in improving the availability of transport within the remote Makete District of south-western Tanzania presented the opportunity to try a new approach.
+The concept of 'integrated rural transport' was adopted in the task of examining the transport needs of the rural households in the district. The objective was to reduce the time and effort needed to obtain access to essential goods and services through an improved rural transport system. The underlying assumption was that the time saved would be used instead for activities that would improve the social and economic development of the communities. The Makete Integrated Rural Transport Project (MIRTP) started in 1985 with financial support from the Swiss Development Corporation and was co-ordinated with the help of the Tanzanian government.
+[B] When the project began, Makete District was virtually totally isolated during the rainy season. The regional road was in such bad shape that access to the main towns was impossible for about three months of the year. Road traffic was extremely rare within the district, and alternative means of transport were restricted to donkeys in the north of the district. People relied primarily on the paths, which were slippery and dangerous during the rains.
+Before solutions could be proposed, the problems had to be understood. Little was known about the transport demands of the rural households, so Phase I, between December 1985 and December 1987, focused on research. The socio-economic survey of more than 400 households in the district indicated that a household in Makete spent, on average, seven hours a day on transporting themselves and their goods, a figure which seemed extreme but which has also been obtained in surveys in other rural areas in Africa. Interesting facts regarding transport were found: 95% was on foot; 80% was within the locality; and 70% was related to the collection of water and firewood and travelling to grinding mills.
+[C] Having determined the main transport needs, possible solutions were identified which might reduce the time and burden. During Phase II, from January to February 1991, a number of approaches were implemented in an effort to improve mobility and access to transport.
+An improvement of the road network was considered necessary to ensure the import and export of goods to the district. These improvements were carried out using methods that were heavily dependent on labour. In addition to the improvement of roads, these methods provided training in the operation of a mechanical workshop and bus and truck services. However, the difference from the conventional approach was that this time consideration was given to local transport needs outside the road network.
+Most goods were transported along the paths that provide short-cuts up and down the hillsides, but the paths were a real safety risk and made the journey on foot even more arduous. It made sense to improve the paths by building steps, handrails and footbridges.
+It was uncommon to find means of transport that were more efficient than walking but less technologically advanced than motor vehicles. The use of bicycles was constrained by their high cost and the lack of available spare parts. Oxen were not used at all but donkeys were used by a few households in the northern part of the district. MIRTP focused on what would be most appropriate for the inhabitants of Makete in terms of what was available, how much they could afford and what they were willing to accept.
+After careful consideration, the project chose the promotion of donkeys - a donkey costs less than a bicycle - and the introduction of a locally manufacturable wheelbarrow.
+[D] At the end of Phase II, it was clear that the selected approaches to Makete's transport problems had had different degrees of success. Phase III, from March 1991 to March 1993, focused on the refinement and institutionalisation of these activities.
+The road improvements and accompanying maintenance system had helped make the district centre accessible throughout the year. Essential goods from outside the district had become more readily available at the market, and prices did not fluctuate as much as they had done before.
+Paths and secondary roads were improved only at the request of communities who were willing to participate in construction and maintenance. However, the improved paths impressed the inhabitants, and requests for assistance greatly increased soon after only a few improvements had been completed.
+The efforts to improve the efficiency of the existing transport services were not very successful because most of the motorised vehicles in the district broke down and there were no resources to repair them. Even the introduction of low-cost means of transport was difficult because of the general poverty of the district. The locally manufactured wheelbarrows were still too expensive for all but a few of the households. Modifications to the original design by local carpenters cut production time and costs. Other local carpenters have been trained in the new design so that they can respond to requests. Nevertheless, a locally produced wooden wheelbarrow which costs around 5000 Tanzanian shillings (less than US$20) in Makete, and is about one quarter the cost of a metal wheelbarrow, is still too expensive for most people.
+Donkeys, which were imported to the district, have become more common and contribute, in particular, to the transportation of crops and goods to market. Those who have bought donkeys are mainly from richer households but, with an increased supply through local breeding, donkeys should become more affordable. Meanwhile, local initiatives are promoting the renting out of the existing donkeys.
+It should be noted, however, that a donkey, which at 20,000 Tanzanian shillings costs less than a bicycle, is still an investment equal to an average household's income over half a year. This clearly illustrates the need for supplementary measures if one wants to assist the rural poor.
+[E] It would have been easy to criticise the MIRTP for using in the early phases a 'top-down' approach, in which decisions were made by experts and officials before being handed down to communities, but it was necessary to start the process from the level of the governmental authorities of the district. It would have been difficult to respond to the requests of villagers and other rural inhabitants without the support and understanding of district authorities.
+[F] Today, nobody in the district argues about the importance of improved paths and inexpensive means of transport. But this is the result of dedicated work over a long period, particularly from the officers in charge of community development. They played an essential role in raising awareness and interest among the rural communities.
+The concept of integrated rural transport is now well established in Tanzania, where a major program of rural transport is just about to start. The experiences from Makete will help in this initiative, and Makete District will act as a reference for future work.
+---
+## Questions 36–39
+> Complete each sentence with the correct ending, **A–J**.
+@box List of Endings
+* A. provided the people of Makete with experience in running bus and truck services.
+* B. was especially successful in the northern part of the district.
+* C. differed from earlier phases in that the community became less actively involved.
+* D. improved paths used for transport up and down hillsides.
+* E. was no longer a problem once the roads had been improved.
+* F. cost less than locally made wheelbarrows.
+* G. was done only at the request of local people who were willing to lend a hand.
+* H. was at first considered by MIRTP to be affordable for the people of the district.
+* I. hindered attempts to make the existing transport services more efficient.
+* J. was thought to be the most important objective of Phase III.
+@sel 36 A-J Construction of footbridges, steps and handrails ...
+@sel 37 A-J Frequent breakdown of buses and trucks in Makete ...
+@sel 38 A-J The improvement of secondary roads and paths ...
+@sel 39 A-J The isolation of Makete for part of the year ...
+## Question 40
+@mcq 40 Which of the following phrases best describes the main aim of the passage?
+- to suggest that projects such as MIRTP are needed in other countries
+- to describe how MIRTP was implemented and how successful it was
+- to examine how MIRTP promoted the use of donkeys
+- to warn that projects such as MIRTP are likely to have serious problems
+
+= Homework Ex 3
+# Numeration
+One of the first great intellectual feats of a young child is learning how to talk, closely followed by learning how to count. From earliest childhood we are so bound up with our system of numeration that it is a feat of imagination to consider the problems faced by early humans who had not yet developed this facility. Careful consideration of our system of numeration leads to the conviction that, rather than being a facility that comes naturally to a person, it is one of the great and remarkable achievements of the human race.
+It is impossible to learn the sequence of events that led to our developing the concept of number. Even the earliest of tribes had a system of numeration that, if not advanced, was sufficient for the tasks that they had to perform. Our ancestors had little use for actual numbers; instead their considerations would have been more of the kind Is this enough? rather than How many? when they were engaged in food gathering, for example. However, when early humans first began to reflect on the nature of things around them, they discovered that they needed an idea of number simply to keep their thoughts in order. As they began to settle, grow plants and herd animals, the need for a sophisticated number system became paramount. It will never be known how and when this numeration ability developed, but it is certain that numeration was well developed by the time humans had formed even semi-permanent settlements.
+Evidence of early stages of arithmetic and numeration can be readily found. The indigenous peoples of Tasmania were only able to count one, two, many; those of South Africa counted one, two, two and one, two twos, two twos and one, and so on. But in real situations the number and words are often accompanied by gestures to help resolve any confusion. For example, when using the one, two, many type of system, the word many would mean, Look at my hands and see how many fingers I am showing you. This basic approach is limited in the range of numbers that it can express, but this range will generally suffice when dealing with the simpler aspects of human existence.
+The lack of ability of some cultures to deal with large numbers is not really surprising. European languages, when traced back to their earlier version, are very poor in number words and expressions. The ancient Gothic word for ten, tachund, is used to express the number 100 as tachund tachund. By the seventh century, the word teon had become interchangeable with the tachund or hund of the Anglo-Saxon language, and so 100 was denoted as hund teontig, or ten times ten. The average person in the seventh century in Europe was not as familiar with numbers as we are today. In fact, to qualify as a witness in a court of law a man had to be able to count to nine!
+Perhaps the most fundamental step in developing a sense of number is not the ability to count, but rather to see that a number is really an abstract idea instead of a simple attachment to a group of particular objects. It must have been within the grasp of the earliest humans to conceive that four birds are distinct from two birds; however, it is not an elementary step to associate the number 4, as connected with four birds, to the number 4, as connected with four rocks. Associating a number as one of the qualities of a specific object is a great hindrance to the development of a true number sense. When the number 4 can be registered in the mind as a specific word, independent of the object being referenced, the individual is ready to take the first step toward the development of a notational system for numbers and, from there, to arithmetic.
+Traces of the very first stages in the development of numeration can be seen in several living languages today. The numeration system of the Tsimshian language in British Columbia contains seven distinct sets of words for numbers according to the class of the item being counted: for counting flat objects and animals, for round objects and time, for people, for long objects and trees, for canoes, for measures, and for counting when no particular object is being numerated. It seems that the last is a later development while the first six groups show the relics of an older system. This diversity of number names can also be found in some widely used languages such as Japanese.
+Intermixed with the development of a number sense is the development of an ability to count. Counting is not directly related to the formation of a number concept because it is possible to count by matching the items being counted against a group of pebbles, grains of corn, or the counter's fingers. These aids would have been indispensable to very early people who would have found the process impossible without some form of mechanical aid. Such aids, while different, are still used even by the most educated in today's society due to their convenience. All counting ultimately involves reference to something other than the things being counted. At first it may have been grains or pebbles but now it is a memorised sequence of words that happen to be the names of the numbers.
+---
+## Questions 27–31
+> Complete each sentence with the correct ending, **A–G**.
+@box List of Endings
+* A. was necessary in order to fulfil a civic role.
+* B. was necessary when people began farming.
+* C. was necessary for the development of arithmetic.
+* D. persists in all societies.
+* E. was used when the range of number words was restricted.
+* F. can be traced back to early European languages.
+* G. was a characteristic of early numeration systems.
+@sel 27 A-G A developed system of numbering ...
+@sel 28 A-G An additional hand signal ...
+@sel 29 A-G In seventh-century Europe, the ability to count to a certain number ...
+@sel 30 A-G Thinking about numbers as concepts separate from physical objects ...
+@sel 31 A-G Expressing number differently according to class of item ...
+
+= Homework Ex 4
+# The Risks of Cigarette Smoke
+Discovered in the early 1800s and named nicotianine, the oily essence now called nicotine is the main active ingredient of tobacco. Nicotine, however, is only a small component of cigarette smoke, which contains more than 4,700 chemical compounds, including 43 cancer-causing substances. In recent times, scientific research has been providing evidence that years of cigarette smoking vastly increases the risk of developing fatal medical conditions.
+In addition to being responsible for more than 85 per cent of lung cancers, smoking is associated with cancers of, amongst others, the mouth, stomach and kidneys, and is thought to cause about 14 per cent of leukemia and cervical cancers. In 1990, smoking caused more than 84,000 deaths, mainly resulting from such problems as pneumonia, bronchitis and influenza. Smoking, it is believed, is responsible for 30 per cent of all deaths from cancer and clearly represents the most important preventable cause of cancer in countries like the United States today.
+Passive smoking, the breathing in of the side-stream smoke from the burning of tobacco between puffs or of the smoke exhaled by a smoker, also causes a serious health risk. A report published in 1992 by the US Environmental Protection Agency (EPA) emphasized the health dangers, especially from side-stream smoke. This type of smoke contains more, smaller particles and is therefore more likely to be deposited deep in the lungs. On the basis of this report, the EPA has classified environmental tobacco smoke in the highest risk category for causing cancer.
+As an illustration of the health risks, in the case of a married couple where one partner is a smoker and one a non-smoker, the latter is believed to have a 30 per cent higher risk of death from heart disease because of passive smoking. The risk of lung cancer also increases over the years of exposure and the figure jumps to 80 per cent if the spouse has been smoking four packs a day for 20 years. It has been calculated that 17 per cent of cases of lung cancer can be attributed to high levels of exposure to second-hand tobacco smoke during childhood and adolescence.
+A more recent study by researchers at the University of California at San Francisco (UCSF) has shown that second-hand cigarette smoke does more harm to non-smokers than to smokers. Leaving aside the philosophical question of whether anyone should have to breathe someone else's cigarette smoke, the report suggests that the smoke experienced by many people in their daily lives is enough to produce substantial adverse effects on a person's heart and lungs.
+The report, published in the Journal of the American Medical Association (AMA), was based on the researchers' own earlier research but also includes a review of studies over the past few years. The American Medical Association represents about half of all US doctors and is a strong opponent of smoking. The study suggests that people who smoke cigarettes are continually damaging their cardiovascular system, which adapts in order to compensate for the effects of smoking. It further states that people who do not smoke do not have the benefit of their system adapting to the smoke inhalation. Consequently, the effects of passive smoking are far greater on non-smokers than on smokers.
+This report emphasizes that cancer is not caused by a single element in cigarette smoke; harmful effects to health are caused by many components. Carbon monoxide, for example, competes with oxygen in red blood cells and interferes with the blood's ability to deliver life-giving oxygen to the heart. Nicotine and other toxins in cigarette smoke activate small blood cells called platelets, which increases the likelihood of blood clots, thereby affecting blood circulation throughout the body.
+The researchers criticize the practice of some scientific consultants who work with the tobacco industry for assuming that cigarette smoke has the same impact on smokers as it does on non-smokers. They argue that those scientists are underestimating the damage done by passive smoking and, in support of their recent findings, cite some previous research which points to passive smoking as the cause for between 30,000 and 60,000 deaths from heart attacks each year in the United States. This means that passive smoking is the third most preventable cause of death after active smoking and alcohol-related diseases.
+The study argues that the type of action needed against passive smoking should be similar to that being taken against illegal drugs and AIDS (SIDA). The UCSF researchers maintain that the simplest and most cost-effective action is to establish smoke-free work places, schools and public places.
+---
+## Questions 15–17
+> Choose the correct answer.
+@mcq 15 According to information in the text, leukaemia and pneumonia
+- are responsible for 84,000 deaths each year.
+- are strongly linked to cigarette smoking.
+- are strongly linked to lung cancer.
+- result in 30 per cent of deaths per year.
+@mcq 16 According to information in the text, intake of carbon monoxide
+- inhibits the flow of oxygen to the heart.
+- increases absorption of other smoke particles.
+- inhibits red blood cell formation.
+- promotes nicotine absorption.
+@mcq 17 According to information in the text, intake of nicotine encourages
+- blood circulation through the body.
+- activity of other toxins in the blood.
+- formation of blood clots.
+- an increase of platelets in the blood.
+## Questions 18–21
+> Choose **YES** if the statement reflects the claims of the writer, choose **NO** if the statement contradicts the claims of the writer, or choose **NOT GIVEN** if it is impossible to say what the writer thinks about this.
+@ynng 18 Thirty per cent of deaths in the United States are caused by smoking-related diseases.
+@ynng 19 If one partner in a marriage smokes, the other is likely to take up smoking.
+@ynng 20 Teenagers whose parents smoke are at risk of getting lung cancer at some time during their lives.
+@ynng 21 Opponents of smoking financed the UCSF study.
+## Questions 22–24
+> Choose ONE phrase from the list, **A–J**, to complete each sentence.
+@box List of Phrases
+* A. includes reviews of studies in its reports.
+* B. argues for stronger action against smoking in public places.
+* C. is one of the two most preventable causes of death.
+* D. is more likely to be at risk from passive smoking diseases.
+* E. is more harmful to non-smokers than to smokers.
+* F. is less likely to be at risk of contracting lung cancer.
+* G. is more likely to be at risk of contracting various cancers.
+* H. opposes smoking and publishes research on the subject.
+* I. is just as harmful to smokers as it is to non-smokers.
+* J. reduces the quantity of blood flowing around the body.
+@sel 22 A-J Passive smoking ...
+@sel 23 A-J Compared with a non-smoker, a smoker ...
+@sel 24 A-J The American Medical Association ...
+## Questions 25–28
+> Classify the following statements. You may use any letter more than once.
+@box Sources
+* A. a finding of the UCSF study
+* B. an opinion of the UCSF study
+* C. a finding of the EPA report
+* D. an assumption of consultants to the tobacco industry
+@sel 25 A-D Smokers' cardiovascular systems adapt to the intake of environmental smoke.
+@sel 26 A-D There is a philosophical question as to whether people should have to inhale others' smoke.
+@sel 27 A-D Smoke-free public places offer the best solution.
+@sel 28 A-D The intake of side-stream smoke is more harmful than smoke exhaled by a smoker.
+

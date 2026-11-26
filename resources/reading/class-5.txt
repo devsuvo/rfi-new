@@ -1,0 +1,373 @@
+@fulltest
+= Passage 1
+# Bondi Beach
+[A] Bondi Beach. Australia's most famous beach, is located in the suburb of Bondi, in the Local Government Area of Waverley, seven kilometers from the centre of Sydney. "Bondi" or "Boondi" is an Aboriginal word meaning water breaking over rocks or the sound of breaking waves. The Australian Museum records that Bondi means place where a flight of nullas took place. There are Aboriginal Rock carvings on the northern end of the beach at Ben Buckler and south of Bondi Beach near McKenzies Beach on die coastal walk.
+[B] The indigenous people of the area at the time of European settlement have generally been welcomed to as the Sydney people or the Eora (Eora means "the people"). One theory describes the Eora as a sub-group of the Darug language group which occupied the Cumberland Plain west to the Blue Mountains. However, another theory suggests that they were a distinct language group of then own. There is no clear evidence for the name or names of the particular band(s) of the Eora that roamed what is now the Waverley area, A number of place names within Waverley, most famously Bondi, have been based on words derived from Aboriginal languages of the Sydney region.
+[C] From the mid-1800s Bondi Beach was a favourite location for family outings and picnics. The beginnings of the suburb go back to 1809. when the early road builder, William Roberts, received from Governor Bligh a grant of 8! nectares of what is now most of the business and residential area of Bondi Beach. In 1851, Edward Smith Heli and Francis O'Brien purchased 200 acres of the Bondi area that embraced almost the whole frontage of Bondi Beach, and it was named the "The Bondi Estate." Between 1855 and 1877 O'Brien purchased Hall's share of the land. renamed the land the "O'Brien Estate." and made the beach and the surrounding land available to the public as a picnic ground and amusement resort. As the beach became increasingly popular, O'Brien threatened to stop public beach access. However, die Municipal Council believed that the Government needed to intervene to make the beach a public reserve.
+[D] During the 1900s beach became associated with health, leisure and democracy - a playground everyone could enjoy equally. Bondi Beach was a working-class suburb throughout most of the twentieth century with migrant people from New Zealand comprising the majority of the local population. The first tramway reached the beach in 1884. Following this. tram became the first public transportation in Bondi- As an alternative, this action changed die rule that only rich people can enjoy the beach- By the 1930s Bondi was drawing not only local visitors but also people from elsewhere in Australia and overseas. Advertising at the time referred to Bondi Beach as the "Playground of the Pacific".
+[E] There is a growing trend that people prefer having relax near seaside instead of living unhealthily in cities. The increasing popularity of sea bathing during the late 1800s and early 1900s raised concerns about public safety and how to prevent people from drowning. In response, the world's first formally documented surf lifesaving club. the Bondi Surf Bathers' life Saving Club, was formed in 1907. This was powerfully reinforced by the dramatic events of "Black Sunday" at Bondi in 1938. Some 35,000 people were on the beach and a large group of life savers were about to start a surf race when three freak waves hit the beach, sweeping hundreds of people out to sea. Lifesavers rescued 300 people. The largest mass rescue in the history of surf bathing, it confirmed the place of the life saver in the national imagination.
+[F] Bondi Beach Is the end point of the City to Surf Fun Run which is held each year in August Australian surf carnivals further instilled this image. A Royal Surf Carnival was held at Bondi Beach for the Queen Elizabeth n during her first visited in Australia, in 1954. Since 1867, there have been over fifty visits by a member of the British Royal Family to Australia. In addition to many activities, the Bondi Beach Markets is open every Sunday. Many wealthy people spend Christmas Day at the beach. However, the shortage of houses occurs when lots of people crushed to seaside. Manly is the seashore town which solved this problem. However, people still choose Bondi as the satisfied destination rather than Manly.
+[G] Bondi Beach has a commercial area along Campbell Parade and adjacent side streets, featuring many popular cafes, restaurants, and hotels, with views of the contemporary beach. It is depicted as wholly modem and European. In the last decade, Bondi Beaches' unique position has Been a dramatic rise in svelte houses and apartments to take advantage of the views and scent of the sea. The valley naming down to the beach is famous world over for its view of distinctive red tiled roofs. Those architectures are deeply influenced by British costal town.
+[H] Bondi Beach hosted the beach volleyball competition at the 2000 Summer Olympics. A temporary 10,000- seat stadium, a much smaller stadium, 2 warm- up courts, and 3 training courts were set up to host the tournament. The Bondi Beach Volleyball Stadium was constructed for it and stood for just six weeks. Campaigners oppose both the social and environmental consequences of the development. Ine stadium will divide the beach in two and seriously restrict public access for swimming, walking, and other forms of outdoor recreation. People protest for their human rights of having a pure seaside and argue for health life in Bondi.
+[I] "They're prepared to risk lives and risk the Bondi beach environment for the sake of eight days of volleyball", said Stephen Uniacke, a construction lawyer involved in the campaign. Other environmental concerns include the possibility that soil dredged up from below the sand will acidify when brought to the surface.
+---
+## Questions 1–5
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 1 The name of the Bondi beach is first called by the British settlers.
+@tfng 2 The aboriginal culture in Australia is different when compared with European culture.
+@tfng 3 Bondi beach area holds many contemporary hotels.
+@tfng 4 The seaside town in Bondi is affected by British culture for its characteristic red colour.
+@tfng 5 Living near Bondi seashore is not beneficial for health.
+## Questions 6–10
+> Complete the notes below.
+> Choose **NO MORE THAN TWO WORDS** from the passage for each answer.
+### Early history of Bondi Beach
+In **1809**, William Roberts received a land grant from [[6]].
+The land bought by Heli and O’Brien in **1851** was called [[7]].
+O’Brien later renamed the area the [[8]] after buying Hall’s share.
+### Development and safety
+The first [[9]] reached Bondi Beach in **1884**, making access easier for the public.
+The largest mass rescue in surf bathing history occurred during an event known as [[10]].
+## Questions 11–15
+> Choose the correct answer.
+@mcq 11 What annual event finishes at Bondi Beach?
+- The Royal Surf Carnival
+- The City to Surf Fun Run
+- The Bondi Beach Markets
+- The Summer Olympics
+@mcq 12 Why do many people still prefer Bondi Beach over Manly?
+- Manly has fewer markets
+- Bondi has better housing availability
+- Bondi is considered a more satisfying destination
+- Manly is further from the city
+@mcq 13 The architecture near Bondi Beach is strongly influenced by
+- modern Australian design
+- Mediterranean styles
+- American seaside towns
+- British coastal towns
+@mcq 14 Why was the Bondi Beach Volleyball Stadium controversial?
+- It was too expensive to maintain
+- It reduced access to public beach areas
+- It was unsafe for athletes
+- It remained permanent after the Olympics
+@mcq 15 What environmental concern is mentioned regarding the Olympic development?
+- Increased water pollution
+- Damage to marine life
+- Acidification of dredged soil
+- Excessive noise levels
+
+= Passage 2
+# Flight from reality?
+Mobiles are barred, but passengers can tap away on their laptops to their heart's content. Is one realty safer than the other? hi the US, a Congressional subcommittee frilled airline representatives and regulators about the issue test month. But the committee heard that using cellphones in planes may indeed pose a risk, albeit a slight one. This would seem to vindicate the treatment of Manchester oil worker Neil Whitehouse, who was sentenced last summer to a year in jail by a British court for refusing to turn off his mobile phone on a flight home from Madrid. Although he was only typing a message to be sent on landing, not actually making a call, the court decided that he was putting the flight at risk.
+The potential fin problems are certainly there. Modem airliners are packed with electronic devices that control the plane and handle navigation and communications- Each has to meet stringent safeguards to make sure it doesn't emit radiation that would interfere with other devices in the plane- standards that passengers' personal electronic devices don't necessarily meet Emissions from inside the plane could also interfere with sensitive antennae on the fixed exterior.
+But despite running a numbs of studies, Boeing, Airbus and various government agencies haven't been able to find clear evidence of problems caused by personal electronic devices, including mobile phones, "We've done our own studies. We've found cellphones actually have no impact on the navigation system," Bays Maryazme Greczyn, a spokeswoman for Airbus Industries of North America in Herndon, Virginia, nor do they affect other critical systems, she says. The only impact Airbus found? "Sometimes when a passenger is starting or finishing a phone call. the pilot hears a very slight beep in the headset," she says.
+The best evidence yet of a problem comes from a report released this year by Britain's Civil Aviation Authority. Its researchers generated simulated cellphone transmissions inside two Boeing aircraft They concluded that the transmissions could create signals at a power and frequency that would not affect the latest equipment, but exceeded the safety threshold established in 1984 and might therefore affect some of the older equipment on board. This doesn't mean "mission critical" equipment such as the navigation system and flight controls. But the devices that could be affected, such as smoke detectors and fuel level indicators, could still create serious problems for the flight crew if they malfunction.
+Many planes still use equipment certified to the older standards, says Dan Hawkes, head of avionics at the CAA's Safety Regulation Group. The CAA study doesn't prove the equipment will actually fell when cellphone signals actually cause devices to fail.
+In 1996, RTCA, a consultant hired by the Federal Aviation Administration in the US to conduct tests, determined that potential problems from personal electronic devices were "low". Nevertheless, it recommended a ban on their use during "critical" periods of flight, such as take-off and landing. RTCA didn't actually test cellphones, but nevertheless recommended the wholesale ban on flights. But if "better safe than sorry" is the current policy, it's applied inconsistently, according to Marshall Cross, the chairman of Mega Wave Corporation. based in Boylston, Massachusetts. Why are cellphones outlawed when no one considers a ban on laptops? "It's like most things in life. The reason is a little bit technical, a little bit economic and a little bit political." says Cross.
+The company wrote a report for the FAA in 1998 saying it is possible to build an on-board system that can detect dangerous signals from electronic devices. But Cross's personal conclusion is that mobile phones aren't the real threat "You'd have to stretch things pretty far to figure out how a cellphone could interfere with a plane's systems." he says. Cellphones transmit in ranges of around 400, 800 or 1800 megahertz. Since no important piece of aircraft equipment operates at those frequencies, the possibility of interference is very low. Cross says. The use of computers and electronic game systems is much more worrying, he says. They can generate very strong signals at frequencies that could interfere with plane electronics, especially ur a mouse is attached (the wire operates as an antenna or if their built-in shielding is somehow damaged. Some airlines are even planning to put sockets for laptops in seatbacks.
+There's fairly convincing anecdotal evidence that some personal electronic devices have interfered with systems. Air crew on one flight found that the autopilot was being disconnected, and narrowed the problem down to a passenger's portable computer. They could actually watch the autopilot disconnect when they switched the computer on. Boeing bought the computer, took it to the airline's labs and even tested it on an empty flight. But as with every other reported instance of interference, technicians were unable to replicate the problem.
+Some engineers, however, such as Bruce Donham of Boeing, say that common sense suggests phones are riskier than laptops. "A device capable of producing a strong emission is not as safe as a device which does not have any intentional emission," he says. Nevertheless, many experts think it's illogical that cellphones are prohibited when computers aren't. Besides, the problem is more complicated than simply looking at power and frequency. In the air, the plane operates in a soup of electronic emissions, created by its own electronics and by ground-based radiation. Electronic devices in the cabin-especially those emitting a strong signal-can behave unpredictably, reinforcing other signals, for instance, or creating unforeseen harmonics that disrupt systems.
+Despite the Congressional subcommittee hearings last month, no one seems to be working seriously on a technical solution that would allow passengers to use their phones. That's mostly because no one -besides cellphone users themselves-stands to gain a lot if the phones are allowed in the air. Even the cellphone companies don't want it. They are concerned that airborne signals could cause problems by flooding a number of the networks' base stations at once with the same signal This effect, called big footing, happens because airborne cellphone signals tend to go to many base stations at once, unlike land calls which usually go to just one or two stations. In the US, even if FAA regulations didn't prohibit cellphones in the air. Federal Communications Commission regulations would.
+Possible solutions might be to enhance airliners' electronic insulation, or to fit detectors which warned flight staff when passenger devices were emitting dangerous signals. But Cross complains that neither the FAA, the airlines nor the manufacturers are showing much interest in developing these. So, despite Congressional suspicions and the occasional irritated (or jailed) mobile user, the industry's "better safe than sorry" policy on mobile phones seems likely to continue. In the absence of firm evidence that the international airline industry is engaged in a vast conspiracy to overcharge its customers, a delayed phone call seems a small price to pay for even the tiniest reduction in the chances of a plane crash. But you'll still be allowed to use your personal computer during a flight. And while that remains the case, airlines can hardly claim that logic has prevailed.
+---
+## Questions 16–19
+> Complete the summary below.
+> Choose **NO MORE THAN THREE WORDS** from the passage for each answer.
+The would-be risk surely exists, since the avionic systems on modern aircraft are used to manage flight and deal with [[16]]. Those devices are designed to meet the safety criteria which should be free from interrupting [[17]]. The personal use of mobile phones may cause the sophisticated [[18]] outside of the plane to dysfunction. Though definite interference in piloting devices has not been scientifically testified, the devices such as those which detect [[19]] in the cabin could be affected.
+## Questions 20–24
+> Use the information in the passage to match the organisations and people (listed **A–E**) with the opinions or deeds below.
+@box
+* A. British Civil Aviation Authority
+* B. Maryanne Greczyn
+* C. RTCA
+* D. Marshall Cross
+* E. Boeing company
+@sel 20 A-E Mobile usages should be forbidden at a specific time.
+@sel 21 A-E Computers are more dangerous than cell phones.
+@sel 22 A-E Finding that the mobile phones pose little risk on flight navigation devices.
+@sel 23 A-E The disruption of laptops is not as dangerous as cellphones.
+@sel 24 A-E The mobile signal may have an impact on earlier devices.
+## Questions 25–28
+> Choose **YES** if the statement agrees with the claims of the writer, choose **NO** if the statement contradicts the claims of the writer, or choose **NOT GIVEN** if it is impossible to say what the writer thinks about this.
+@ynng 25 Almost all scientists accept that cellphones have higher emission than that of personal computers.
+@ynng 26 Some people believe that radio emission interrupts the equipment on planes.
+@ynng 27 The signal interference-detecting device has not yet been developed because they are in priority far from the administrative department nor offer economic incentive.
+@ynng 28 The FAA initiated open debate with the Federal Communications Commission.
+
+= Passage 3
+# Striking Back at Lightning with Lasers
+Seldom is the weather more dramatic than when thunderstorms strike. Their electrical fury inflicts death or serious injury on around 500 people each year in the United States alone. As the clouds roll in, a leisurely round of golf can become a terrifying dice with death - out in the open, a lone golfer may be a lightning bolts most inviting target. And there is damage to property too. Lightning damage costs American power companies more than $100 million a year.
+But researchers in the United States and Japan are planning to hit back. Already in laboratory trials they have tested strategies for neutralising the power of thunderstorms, and this winter they will brave real storms, equipped with an armoury of lasers that they will be pointing towards the heavens to discharge thunderclouds before lightning can strike.
+The idea of forcing storm clouds to discharge their lightning on command is not new. In the early 1960s, researchers tried firing rockets trailing wires into thunderclouds to set up an easy discharge path for the huge electric charges that these clouds generate. The technique survives to this day at a test site in Florida run by the University of Florida, with support from the Electrical Power Research Institute (EPRI), based in California. EPRI, which is funded by power companies, is looking at ways to protect the United States' power grid from lightning strikes. We can cause the lightning to strike where we want it to using rockets,' says Ralph Bernstein, manager of lightning projects at EPRI. The rocket site is providing precise measurements of lightning voltages and allowing engineers to check how electrical equipment bears up.
+But while rockets are fine for research, they cannot provide the protection from lightning strikes that everyone is looking for. The rockets cost around $1,200 each, can only be fired at a limited frequency and their failure rate is about 40 per cent. And even when they do trigger lightning, things still do not always go according to plan. Lightning is not perfectly well behaved,' says Bernstein. Occasionally, it will take a branch and go someplace it wasn't supposed to go."
+And anyway, who would want to fire streams of rockets in a populated area? 'What goes up must come down,' points out Jean-Claude Diels of the University of New Mexico. Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely- and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk. With around $500,000 invested so far, a promising system is just emerging from the laboratory.
+The idea began some 20 years ago, when high-powered lasers were revealing their ability to extract electrons out of atoms and create ions. If a laser could generate a line of ionisation in the air all the way up to a storm cloud. this conducting path could be used to guide lightning to Earth, before the electric field becomes strong enough to break down the air in an uncontrollable surge. To stop the laser itself being struck, it would not be pointed straight at the clouds. Instead, it would be directed at a mirror, and from there into the sky. The mirror would be protected by placing lightning conductors close by. Ideally, the cloud-zapper (gun) would be cheap enough to be installed around all key power installations, and portable enough to be taken to international sporting events to beam up at brewing storm clouds.
+However, there is still a big stumbling block. The laser is not nifty portable: it's a monster that takes up a whole room. Diels is trying to cut down the size and says that a laser around the size of a small table is in the offing. He plans to test this more manageable system on live thunderclouds next summer. Bernstein says that Diels's system is attracting lots of interest from the power companies.
+But they have not yet come up with the $5 million that EPRI says will be needed to develop a commercial system, by making the lasers yet smaller and cheaper. T cannot say I have money yet, but I'm working on it,' says Bernstein. He reckons that the forthcoming field tests will be the turning point - and he's hoping for good news. Bernstein predicts an avalanche of interest and support if all goes well. He expects to see cloud- zappers eventually costing $50,000 to $100,000 each.
+Other scientists could also benefit. With a lightning 'switch' at their fingertips, materials scientists could find out what happens when mighty currents meet matter. Diels also hopes to see the birth of interactive meteorology - not just forecasting the weather but controlling it. If we could discharge clouds, we might affect the weather, he says.
+And perhaps. says Diels. we'll be able to confront some other meteorological menaces. We think we could prevent hail by inducing lightning, he says. Thunder, the shock wave that comes from a lightning flash, is thought to be the trigger for the torrential rain that is typical of storms. A laser thunder factory could shake the moisture out of clouds, perhaps preventing the formation of the giant hailstones that threaten crops. With luck. as the storm clouds gather this winter, laser-toting researchers could, for the first time, strike back.
+---
+## Questions 29–31
+> Choose the correct answer.
+@mcq 29 The main topic discussed in the text is
+- the damage caused to US golf courses and golf players by lightning strikes.
+- the effect of lightning on power supplies in the US and in Japan.
+- a variety of methods used in trying to control lightning strikes.
+- a laser technique used in trying to control lightning strikes.
+@mcq 30 According to the text, every year lightning
+- does considerable damage to buildings during thunderstorms.
+- kills or injures mainly golfers in the United States.
+- kills or injures around 500 people throughout the world.
+- damages more than 100 American power companies.
+@mcq 31 Researchers at the University of Florida and at the University of New Mexico
+- receive funds from the same source.
+- are using the same techniques.
+- are employed by commercial companies.
+- are in opposition to each other.
+## Questions 32–34
+> Complete the sentences below.
+> Choose **NO MORE THAN TWO WORDS** from the passage for each answer.
+EPRI receives financial support from [[32]].
+The advantage of the technique being developed by Diels is that it can be used [[33]].
+The main difficulty associated with using the laser equipment is related to its [[34]].
+## Questions 35–37
+> Choose **YES** if the statement agrees with the claims of the writer, choose **NO** if the statement contradicts the claims of the writer, or choose **NOT GIVEN** if it is impossible to say what the writer thinks about this.
+@ynng 35 Power companies have given Diels enough money to develop his laser.
+@ynng 36 Obtaining money to improve the lasers will depend on tests in real storms.
+@ynng 37 Weather forecasters are intensely interested in Diels's system.
+## Questions 38–40
+> Complete the summary below.
+> Choose **NO MORE THAN THREE WORDS** from the passage for each answer.
+### Using lasers to discharge lightning
+In this method, a laser is used to create a line of ionisation by removing electrons from [[38]].
+To stop the laser itself being struck, it is not pointed straight at the clouds but at [[39]].
+This method is safer than firing [[40]] into thunderclouds.
+
+= Homework Ex 1
+# The Federal Aviation Administration
+## Part A
+Nobody goes up, up, and away until the folks at the FAA say it's OK. The Federal Aviation Administration (FAA) is the government agency responsible for overseeing air transportation in the US. An arm of the US Department of Transportation, the FAA focuses on air transportation safety, including the enforcement of safety standards for aircraft manufacturing, operation, and maintenance. It also manages air traffic in the US through a network of towers at more than 19,000 airports. It maintains radar systems, communication equipment, and air traffic security systems. Outside the US, the FAA works with international aviation authorities in developing safety practices implemented globally.
+As commercial flying emerged and increased, the Bureau of Air Commerce encouraged a group of airlines to establish the first three centers for providing air traffic control (ATC) along the airways. The pioneer air traffic controllers used maps, blackboards, and mental calculations to ensure the safe separation of aircraft traveling along designated routes between cities. The application of radar to ATC helped controllers in their drive to keep abreast of the postwar boom in commercial air transportation. The approaching era of jet travel, and a series of midair collisions, prompted passage of the Federal Aviation Act of 1958. This legislation gave rise to a new independent body, the Federal Aviation Agency. The act also gave the FAA sole responsibility for a common civil-military system of air navigation and air traffic control.
+## Part B
+Two principal categories of rules governing air traffic are visual flight rules (VFR) and instrument flight rules (IFR). Aircraft operating under visual flight rules (VFR aircraft) maintain separation from other aircraft visually. IFR aircraft in controlled airspace operate in accordance with clearances and instructions provided by air-traffic controllers for the purpose of maintaining separation and expediting the flow of traffic. Flight crews operating under instrument flight rules are responsible for seeing and avoiding other aircraft, but the air-traffic control clearances they receive provide substantial added assurance of safe separation. Consequently, flight crews often will operate under instrument flight rules even though the weather satisfies visual meteorological conditions. Many technologies are used in air traffic control systems. The radar information is used to develop clearances and instructions for separating aircraft operating under instrument flight rules, and to provide traffic advisories to IFR aircraft and to VFR aircraft receiving the traffic advisory service. Traffic advisories provide the ranges, bearings, and altitudes of aircraft in the pilot's immediate vicinity. The pilot is responsible for visually acquiring and avoiding any traffic that may be a collision threat.
+Primary and secondary radar are used to enhance a controller's "situational awareness" within his assigned airspace. Secondary radar is an interrogate-respond system. The rotating directional antenna of the ground station transmits a pulse pair to the transponder in the aircraft. The pulse spacing encodes one of two messages - "transmit your altitude" (the Mode C interrogation) or "transmit your identity" (the Mode A interrogation). The aircraft then transmits an encoded pressure-altitude reply in response to the first interrogation and a four-digit identity code, assigned by air-traffic control and entered into the transponder by the pilot, in response to the second.
+Primary radar operates by transmitting high-power, radio-frequency pulses from a rotating directional antenna. The energy is reflected from any aircraft in the directional beam and received by the antenna. The aircraft is displayed at the azimuth corresponding to the pointing direction of the antenna and the range corresponding to the round-trip time between pulse transmission and receipt of the reflected signal. Primary radar has the advantage that aircraft without air-traffic control transponders can be detected, and energy reflected from heavy precipitation indicates to the controller areas of potentially hazardous weather. However, extraneous returns (clutter) from surrounding buildings and terrain can reduce the effectiveness of primary radar in detecting aircraft. At most air-traffic control radar sites, the secondary radar antenna is mounted on the primary radar antenna, and they are turned by a common drive system.
+## Part C
+With the number of aircraft flying over the United States today, proper airspace usage is critical for flight safety and efficient service to pilots and the flying public. To assist in this goal, the airspace is divided into five classes A-E. Class A airspace is the airspace from 18,000 feet to 60,000 feet. All pilots flying in Class A airspace shall file an IFR flight plan and receive an appropriate air traffic control clearance.
+Class B airspace is generally the airspace from the surface to 10,000 feet. This airspace is normally around the busiest airports in terms of aircraft traffic such as Chicago or Los Angeles. Class B airspace is individually designed to meet the needs of the particular airport and consists of a surface area and two more layers. Most Class B airspace resembles an upside down wedding cake. Pilots must contact air traffic control to receive an air traffic control clearance to enter Class B airspace. The airspace from the surface to 4,000 feet above the airport elevation is called the Class C airspace. Class C airspace will only be found at airports that have an operational control tower and are serviced by a radar approach control. Pilots must establish and maintain two-way radio communications with the ATC facility prior to entering airspace.
+The fourth airspace is Class D airspace which is generally that airspace from the surface to 2,500 feet above the airport elevation. Like Class C airspace, Class D airspace only surrounds airports that have an operational control tower and is also tailored to meet the needs of the airport. Pilots are also required to establish and maintain two-way radio communications with the ATC facility before entering the airspace. No separation services will be provided to pilots of VFR aircraft. Pilots operating under VFR must still use "see-and-avoid" for aircraft separation.
+The fifth airspace is Class E airspace which is generally that airspace that is not Class A, B, C, or D. Class E airspace extends upward from either the surface or a designated altitude to the overlying or adjacent controlled airspace. If an aircraft is flying on a Federal airway below 18,000 feet, it is in Class E airspace. Class E airspace is also the airspace used by aircraft transiting to and from the terminal.
+---
+## Questions 29–31
+> Answer the following questions using **NO MORE THAN THREE WORDS** from the passage.
+What information is used to develop clearances and provide traffic advisories in air traffic control systems? [[29]]
+What does the aircraft send back as a response to the first interrogation from the secondary radar? [[30]]
+What reduces the effectiveness of primary radar in identifying flights? [[31]]
+## Questions 32–35
+> Complete the table below.
+> Choose **NO MORE THAN THREE WORDS** from the passage for each answer.
+@table
+!Airspace | Altitudes | Pilot Responsibility | Comments
+Class A | 18,000 feet to 60,000 feet | file an [[32]] and receive an air traffic control clearance | –
+Class B | surface to 10,000 feet | receive control clearance before entering | around the busiest airports; consists of a surface area and [[33]]
+Class C | surface to 4,000 feet above airport elevation | set up and retain [[34]] with ATC prior to entering | only found at airports with an operational control tower
+Class D | surface to 2,500 feet above airport elevation | pilots [[35]] find and avoid aircraft by themselves | –
+Class E | airspace besides Classes A, B, C, or D | used by aircraft transiting to and from the terminal | –
+@end
+## Questions 36–41
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 36 The responsibilities of FAA include aircraft manufacturing, operation and maintenance.
+@tfng 37 Commercial flights flourished after World War II.
+@tfng 38 Flight crews operate visual flight rules in perfect weather conditions.
+@tfng 39 Primary radars must be installed along with secondary radar antennas to enhance their performance.
+@tfng 40 Both Class C and Class D airspaces are found at airports serviced by functional control towers.
+@tfng 41 If a flight is in Class E airspace, it is flying below 18,000 feet.
+
+
+= Homework Ex 2
+# Architecture – Reaching for the Sky
+Architecture is the art and science of designing buildings and structures. A building reflects the scientific and technological achievements of the age as well as the ideas and aspirations of the designer and client. The appearance of individual buildings, however, is often controversial.
+The use of an architectural style cannot be said to start or finish on a specific date. Neither is it possible to say exactly what characterises a particular movement. But the origins of what is now generally known as modern architecture can be traced back to the social and technological changes of the 18th and 19th centuries.
+Instead of using timber, stone and traditional building techniques, architects began to explore ways of creating buildings by using the latest technology and materials such as steel, glass and concrete strengthened with steel bars, known as reinforced concrete. Technological advances also helped bring about the decline of rural industries and an increase in urban populations as people moved to the towns to work in the new factories. Such rapid and uncontrolled growth helped to turn parts of cities into slums.
+By the 1920s architects throughout Europe were reacting against the conditions created by industrialisation. A new style of architecture emerged to reflect more idealistic notions for the future. It was made possible by new materials and construction techniques and was known as Modernism.
+By the 1930s many buildings emerging from this movement were designed in the International Style. This was largely characterised by the bold use of new materials and simple, geometric forms, often with white walls supported by stilt-like pillars. These were stripped of unnecessary decoration that would detract from their primary purpose — to be used or lived in.
+Walter Gropius, Charles Jeanneret (better known as Le Corbusier) and Ludwig Mies van der Rohe were among the most influential of the many architects who contributed to the development of Modernism in the first half of the century. But the economic depression of the 1930s and the second world war (1939-45) prevented their ideas from being widely realised until the economic conditions improved and war-torn cities had to be rebuilt. By the 1950s, the International Style had developed into a universal approach to building, which standardised the appearance of new buildings in cities across the world.
+Unfortunately, this Modernist interest in geometric simplicity and function became exploited for profit. The rediscovery of quick-and-easy-to-handle reinforced concrete and an improved ability to prefabricate building sections meant that builders could meet the budgets of commissioning authorities and handle a renewed demand for development quickly and cheaply. But this led to many badly designed buildings, which discredited the original aims of Modernism.
+Influenced by Le Corbusier's ideas on town planning, every large British city built multi-storey housing estates in the 1960s. Mass-produced, low-cost high-rises seemed to offer a solution to the problem of housing a growing inner-city population. But far from meeting human needs, the new estates often proved to be windswept deserts lacking essential social facilities and services. Many of these buildings were poorly designed and constructed and have since been demolished.
+By the 1970s, a new respect for the place of buildings within the existing townscape arose. Preserving historic buildings or keeping only their facades (or fronts) grew common. Architects also began to make more use of building styles and materials that were traditional to the area. The architectural style usually referred to as High Tech was also emerging. It celebrated scientific and engineering achievements by openly parading the sophisticated techniques used in construction. Such buildings are commonly made of metal and glass; examples are Stansted airport and the Lloyd's building in London.
+Disillusionment at the failure of many of the poor imitations of Modernist architecture led to interest in various styles and ideas from the past and present. By the 1980s the coexistence of different styles of architecture in the same building became known as Post Modern. Other architects looked back to the classical tradition. The trend in architecture now favours smaller scale building design that reflects a growing public awareness of environmental issues such as energy efficiency. Like the Modernists, people today recognise that a well designed environment improves the quality of life but is not necessarily achieved by adopting one well defined style of architecture.
+Twentieth century architecture will mainly be remembered for its tall buildings. They have been made possible by the development of light steel frames and safe passenger lifts. They originated in the US over a century ago to help meet the demand for more economical use of land. As construction techniques improved, the skyscraper became a reality.
+_ Ruth Coleman
+---
+## Questions 1–7
+> Complete the table below.
+> Write **NO MORE THAN THREE WORDS** for each answer.
+@table
+!Period | Style of period | Building materials | Characteristics
+Before 18th century | traditional | [[1]] | –
+1920s | introduction of [[2]] | steel, glass and concrete | exploration of latest technology
+1930s – 1950s | [[3]] | – | geometric forms
+1960s | decline of Modernism | pre-fabricated sections | [[4]]
+1970s | end of Modernist era | traditional materials | [[5]] historic buildings
+1970s | beginning of [[6]] era | metal and glass | sophisticated techniques paraded
+1980s | Post-Modernism | – | [[7]]
+@end
+
+= Homework Ex 3
+# Whales and Dolphins: the Senses
+_ (The passage begins part-way through, as in the original handout.)
+...However, the position of the eyes so restricts the field of vision in baleen whales that they probably do not have stereoscopic vision.
+On the other hand, the position of the eyes in most dolphins and porpoises suggests that they have stereoscopic vision forward and downward. Eye position in freshwater dolphins, which often swim on their side or upside down while feeding, suggests that what vision they have is stereoscopic forward and upward. By comparison, the bottlenose dolphin has extremely keen vision in water. Judging from the way it watches and tracks airborne flying fish, it can apparently see fairly well through the air-water interface as well. And although preliminary experimental evidence suggests that their in-air vision is poor, the accuracy with which dolphins leap high to take small fish out of a trainer's hand provides anecdotal evidence to the contrary.
+Such variation can no doubt be explained with reference to the habitats in which individual species have developed. For example, vision is obviously more useful to species inhabiting clear open waters than to those living in turbid rivers and flooded plains. The South American boutu and Chinese beiji, for instance, appear to have very limited vision, and the Indian susus are blind, their eyes reduced to slits that probably allow them to sense only the direction and intensity of light.
+Although the senses of taste and smell appear to have deteriorated, and vision in water appears to be uncertain, such weaknesses are more than compensated for by cetaceans' well-developed acoustic sense. Most species are highly vocal, although they vary in the range of sounds they produce, and many forage for food using echolocation. Large baleen whales primarily use the lower frequencies and are often limited in their repertoire. Notable exceptions are the nearly song-like choruses of bowhead whales in summer and the complex, haunting utterances of the humpback whales. Toothed species in general employ more of the frequency spectrum, and produce a wider variety of sounds, than baleen species (though the sperm whale apparently produces a monotonous series of high-energy clicks and little else). Some of the more complicated sounds are clearly communicative, although what role they may play in the social life and 'culture' of cetaceans has been more the subject of wild speculation than of solid science.
+---
+## Questions 1–7
+> Complete the table below.
+> Choose **NO MORE THAN THREE WORDS** from the passage for each answer.
+@table
+!Sense | Species | Ability | Comments
+Smell | toothed | no | evidence from brain structure
+– | baleen | not certain | related brain structures are present
+Taste | some types | poor | nerves linked to their [[1]] are underdeveloped
+Touch | all | yes | region around the blowhole very sensitive
+Vision | [[2]] | yes | probably do not have stereoscopic vision
+– | dolphins, porpoises | yes | probably have stereoscopic vision [[3]]
+– | [[4]] | yes | probably have stereoscopic vision forward and upward
+– | bottlenose dolphins | yes | exceptional in [[5]] and good in air-water interface
+– | boutu and beiji | poor | have limited vision
+– | Indian susus | no | probably only sense direction and intensity of light
+Hearing | most large baleen | yes | usually use [[6]]; repertoire limited
+– | [[7]] whales | yes | song-like
+– | toothed | yes | use more of frequency spectrum; have wider repertoire
+@end
+
+= Homework Ex 4
+# Absenteeism in Nursing: A Longitudinal Study
+_ (The passage begins part-way through Strategy 1, as in the original handout.)
+Within the established wage and salary system it was not possible to use hospital funds to support this strategy. However, it was possible to secure incentives from local businesses, including free passes to entertainment parks, theatres, restaurants, etc. At the end of each roster period, the ward with the lowest absence rate would win the prize.
+### Strategy 2: Flexible fair rostering
+Where possible, staff were given the opportunity to determine their working schedule within the limits of clinical needs.
+### Strategy 3: Individual absenteeism and counselling
+Each month, managers would analyse the pattern of absence of staff with excessive sick leave (greater than ten days per year for full-time employees). Characteristic patterns of potential 'voluntary absenteeism' such as absence before and after days off, excessive weekend and night duty absence and multiple single days off were communicated to all ward nurses and then, as necessary, followed up by action.
+### Results
+Absence rates for the six months prior to the incentive scheme ranged from 3.69 per cent to 4.32 per cent. In the following six months they ranged between 2.87 per cent and 3.96 per cent. This represents a 20 per cent improvement. However, analysing the absence rates on a year-to-year basis, the overall absence rate was 3.60 per cent in the first year and 3.43 per cent in the following year. This represents a 5 per cent decrease from the first to the second year of the study. A significant decrease in absence over the two-year period could not be demonstrated.
+### Discussion
+The non-financial incentive scheme did appear to assist in controlling absenteeism in the short term. As the scheme progressed it became harder to secure prizes and this contributed to the program's losing momentum and finally ceasing. There were mixed results across wards as well. For example, in wards with staff members who had long-term genuine illness, there was little chance of winning, and to some extent the staff on those wards were disempowered. Our experience would suggest that the long-term effects of incentive awards on absenteeism are questionable.
+Over the time of the study, staff were given a larger degree of control in their rosters. This led to significant improvements in communication between managers and staff. A similar effect was found from the implementation of the third strategy. Many of the nurses had not realised the impact their behaviour was having on the organisation and their colleagues but there were also staff members who felt that talking to them about their absenteeism was 'picking' on them and this usually had a negative effect on management-employee relationships.
+---
+## Questions 1–6
+> Complete the notes below.
+> Choose **ONE OR TWO WORDS AND/OR A NUMBER** from the passage for each answer.
+In the first strategy, wards with the lowest absenteeism in different periods would win prizes donated by [[1]].
+In the second strategy, staff were given more control over their [[2]].
+In the third strategy, nurses who appeared to be taking [[3]] sick leave or [[4]] were identified and counselled.
+Initially, there was a [[5]] per cent decrease in absenteeism.
+The first strategy was considered ineffective and stopped. The second and third strategies generally resulted in better [[6]] among staff.
+
+= Homework Ex 5
+# The Story of Silk
+Silk is a fine, smooth material produced from the cocoons – soft protective shells – that are made by mulberry silkworms (insect larvae). Legend has it that it was Lei Tzu, wife of the Yellow Emperor, ruler of China in about 3000 BC, who discovered silkworms. One account of the story goes that as she was taking a walk in her husband's gardens, she discovered that silkworms were responsible for the destruction of several mulberry trees. She collected a number of cocoons and sat down to have a rest. It just so happened that while she was sipping some tea, one of the cocoons that she had collected landed in the hot tea and started to unravel into a fine thread. Lei Tzu found that she could wind this thread around her fingers. Subsequently, she persuaded her husband to allow her to rear silkworms on a grove of mulberry trees. She also devised a special reel to draw the fibres from the cocoon into a single thread so that they would be strong enough to be woven into fabric. While it is unknown just how much of this is true, it is certainly known that silk cultivation has existed in China for several millennia.
+Originally, silkworm farming was solely restricted to women, and it was they who were responsible for the growing, harvesting and weaving. Silk quickly grew into a symbol of status, and originally, only royalty were entitled to have clothes made of silk. The rules were gradually relaxed over the years until finally during the Qing Dynasty (1644—1911 AD), even peasants, the lowest caste, were also entitled to wear silk. Sometime during the Han Dynasty (206 BC-220 AD), silk was so prized that it was also used as a unit of currency. Government officials were paid their salary in silk, and farmers paid their taxes in grain and silk. Silk was also used as diplomatic gifts by the emperor. Fishing lines, bowstrings, musical instruments and paper were all made using silk. The earliest indication of silk paper being used was discovered in the tomb of a noble who is estimated to have died around 168 AD.
+Demand for this exotic fabric eventually created the lucrative trade route now known as the Silk Road, taking silk westward and bringing gold, silver and wool to the East. It was named the Silk Road after its most precious commodity, which was considered to be worth more than gold. The Silk Road stretched over 6,000 kilometres from Eastern China to the Mediterranean Sea, following the Great Wall of China, climbing the Pamir mountain range, crossing modern-day Afghanistan and going on to the Middle East, with a major trading market in Damascus. From there, the merchandise was shipped across the Mediterranean Sea. Few merchants travelled the entire route; goods were handled mostly by a series of middlemen.
+With the mulberry silkworm being native to China, the country was the world's sole producer of silk for many hundreds of years. The secret of silk-making eventually reached the rest of the world via the Byzantine Empire, which ruled over the Mediterranean region of southern Europe, North Africa and the Middle East during the period 330—1453 AD. According to another legend, monks working for the Byzantine emperor Justinian smuggled silkworm eggs to Constantinople (Istanbul in modern-day Turkey) in 550 AD, concealed inside hollow bamboo walking canes. The Byzantines were as secretive as the Chinese, however, and for many centuries the weaving and trading of silk fabric was a strict imperial monopoly. Then in the seventh century, the Arabs conquered Persia, capturing their magnificent silks in the process.
+Silk production thus spread through Africa, Sicily and Spain as the Arabs swept through these lands. Andalusia in southern Spain was Europe's main silk-producing centre in the tenth century. By the thirteenth century, however, Italy had become Europe's leader in silk production and export. Venetian merchants traded extensively in silk and encouraged silk growers to settle in Italy. Even now, silk processed in the province of Como in northern Italy enjoys an esteemed reputation.
+The nineteenth century and industrialisation saw the downfall of the European silk industry. Cheaper Japanese silk, trade in which was greatly facilitated by the opening of the Suez Canal, was one of the many factors driving the trend. Then in the twentieth century, new manmade fibres, such as nylon, started to be used in what had traditionally been silk products, such as stockings and parachutes. The two world wars, which interrupted the supply of raw material from Japan, also stifled the European silk industry. After the Second World War, Japan's silk production was restored, with improved production and quality of raw silk. Japan was to remain the world's biggest producer of raw silk, and practically the only major exporter of raw silk, until the 1970s. However, in more recent decades, China has gradually recaptured its position as the world's biggest producer and exporter of raw silk and silk yarn. Today, around 125,000 metric tons of silk are produced in the world, and almost two thirds of that production takes place in China.
+---
+## Questions 1–9
+> Complete the notes below.
+> Choose **ONE WORD ONLY** from the passage for each answer.
+### The Story of Silk — Early silk production in China
+Around 3000 BC, according to legend: silkworm cocoon fell into emperor's wife's [[1]]
+Emperor's wife invented a [[2]] to pull out silk fibres
+Only [[3]] were allowed to produce silk
+Only [[4]] were allowed to wear silk
+Silk used as a form of [[5]] (e.g. farmers' taxes consisted partly of silk)
+Silk used for many purposes, e.g. evidence found of [[6]] made from silk around 168 AD
+### Silk reaches rest of world
+Merchants use Silk Road to take silk westward and bring back [[7]] and precious metals
+550 AD: [[8]] hide silkworm eggs in canes and take them to Constantinople
+Silk production spreads across Middle East and Europe
+20th century: [[9]] and other manmade fibres cause decline in silk production
+
+= Homework Ex 6
+# Highs & Lows
+Hormone levels - and hence our moods - may be affected by the weather. Gloomy weather can cause depression, but sunshine appears to raise the spirits. In Britain, for example, the dull weather of winter drastically cuts down the amount of sunlight that is experienced which strongly affects some people. They become so depressed and lacking in energy that their work and social life are affected. This condition has been given the name SAD (Seasonal Affective Disorder). Sufferers can fight back by making the most of any sunlight in winter and by spending a few hours each day under special, full-spectrum lamps. These provide more ultraviolet and blue-green light than ordinary fluorescent and tungsten lights. Some Russian scientists claim that children learn better after being exposed to ultraviolet light. In warm countries, hours of work are often arranged so that workers can take a break, or even a siesta, during the hottest part of the day. Scientists are working to discover the links between the weather and human beings' moods and performance.
+It is generally believed that tempers grow shorter in hot, muggy weather. There is no doubt that 'crimes against the person' rise in the summer, when the weather is hotter and fall in the winter when the weather is colder. Research in the United States has shown a relationship between temperature and street riots. The frequency of riots rises dramatically as the weather gets warmer, hitting a peak around 27-30°C. But is this effect really due to a mood change caused by the heat? Some scientists argue that trouble starts more often in hot weather merely because there are more people in the street when the weather is good.
+Psychologists have also studied how being cold affects performance. Researchers compared divers working in icy cold water at 5°C with others in water at 20°C (about swimming pool temperature). The colder water made the divers worse at simple arithmetic and other mental tasks. But significantly, their performance was impaired as soon as they were put into the cold water - before their bodies had time to cool down. This suggests that the low temperature did not slow down mental functioning directly, but the feeling of cold distracted the divers from their tasks.
+Psychologists have conducted studies showing that people become less sceptical and more optimistic when the weather is sunny. However, this apparently does not just depend on the temperature. An American psychologist studied customers in a temperature-controlled restaurant. They gave bigger tips when the sun was shining and smaller tips when it wasn't, even though the temperature in the restaurant was the same. A link between weather and mood is made believable by the evidence for a connection between behaviour and the length of the daylight hours. This in turn might involve the level of a hormone called melatonin, produced in the pineal gland in the brain. The amount of melatonin falls with greater exposure to daylight. Research shows that melatonin plays an important part in the seasonal behaviour of certain animals. For example, food consumption of stags increases during the winter, reaching a peak in February/March. It falls again to a low point in May, then rises to a peak in September, before dropping to another minimum in November. These changes seem to be triggered by varying melatonin levels.
+In the laboratory, hamsters put on more weight when the nights are getting shorter and their melatonin levels are falling. On the other hand, if they are given injections of melatonin, they will stop eating altogether. It seems that time cues provided by the changing lengths of day and night trigger changes in animals' behaviour - changes that are needed to cope with the cycle of the seasons. People's moods too, have been shown to react to the length of the daylight hours. Sceptics might say that longer exposure to sunshine puts people in a better mood because they associate it with the happy feelings of holidays and freedom from responsibility. However, the belief that rain and murky weather make people more unhappy is borne out by a study in Belgium, which showed that a telephone counselling service gets more telephone calls from people with suicidal feelings when it rains.
+When there is a thunderstorm brewing, some people complain of the air being 'heavy' and of feeling irritable, moody and on edge. They may be reacting to the fact that the air can become slightly positively charged when large thunderclouds are generating the intense electrical fields that cause lightning flashes. The positive charge increases the levels of serotonin (a chemical involved in sending signals in the nervous system). High levels of serotonin in certain areas of the nervous system make people more active and reactive and, possibly, more aggressive. When certain winds are blowing, such as the Mistral in southern France and the Fohn in southern Germany, mood can be affected - and the number of traffic accidents rises. It may be significant that the concentration of positively charged particles is greater than normal in these winds. In the United Kingdom, 400,000 ionizers are sold every year. These small machines raise the number of negative ions in the air in a room. Many people claim they feel better in negatively charged air.
+---
+## Questions 1–6
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 1 Seasonal Affective Disorder is disrupting children's education in Russia.
+@tfng 2 Serotonin is an essential cause of human aggression.
+@tfng 3 Scientific evidence links 'happy associations with weather' to human mood.
+@tfng 4 A link between depression and the time of year has been established.
+@tfng 5 Melatonin levels increase at certain times of the year.
+@tfng 6 Positively charged ions can influence eating habits.
+
+= Homework Ex 7
+# Children's Ideas about Rainforests
+Adults and children are frequently confronted with statements about the alarming rate of loss of tropical rainforests. For example, one graphic illustration to which children might readily relate is the estimate that rainforests are being destroyed at a rate equivalent to one thousand football fields every forty minutes - about the duration of a normal classroom period. In the face of the frequent and often vivid media coverage, it is likely that children will have formed ideas about rainforests - what and where they are, why they are important, what endangers them - independent of any formal tuition. It is also possible that some of these ideas will be mistaken.
+Many studies have shown that children harbour misconceptions about 'pure', curriculum science. These misconceptions do not remain isolated but become incorporated into a multifaceted, but organised, conceptual framework, making it and the component ideas, some of which are erroneous, more robust but also accessible to modification. These ideas may be developed by children absorbing ideas through the popular media. Sometimes this information may be erroneous. It seems schools may not be providing an opportunity for children to re-express their ideas and so have them tested and refined by teachers and their peers.
+Despite the extensive coverage in the popular media of the destruction of rainforests, little formal information is available about children's ideas in this area. The aim of the present study is to start to provide such information, to help teachers design their educational strategies to build upon correct ideas and to displace misconceptions and to plan programmes in environmental studies in their schools.
+The study surveys children's scientific knowledge and attitudes to rainforests. Secondary school children were asked to complete a questionnaire containing five open-form questions. The most frequent responses to the first question were descriptions which are self-evident from the term 'rainforest'. Some children described them as damp, wet or hot. The second question concerned the geographical location of rainforests. The commonest responses were continents or countries: Africa (given by 43% of children), South America (30%), Brazil (25%). Some children also gave more general locations, such as being near the Equator.
+Responses to question three concerned the importance of rainforests. The dominant idea, raised by 64% of the pupils, was that rainforests provide animals with habitats. Fewer students responded that rainforests provide plant habitats, and even fewer mentioned the indigenous populations of rainforests. More girls (70%) than boys (60%) raised the idea of rainforest as animal habitats.
+Similarly, but at a lower level, more girls (13%) than boys (5%) said that rainforests provided human habitats. These observations are generally consistent with our previous studies of pupils' views about the use and conservation of rainforests, in which girls were shown to be more sympathetic to animals and expressed views which seem to place an intrinsic value on non-human animal life.
+---
+## Questions 1–8
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 1 The plight of the rainforests has largely been ignored by the media.
+@tfng 2 Children only accept opinions on rainforests that they encounter in their classrooms.
+@tfng 3 It has been suggested that children hold mistaken views about the 'pure' science that they study at school.
+@tfng 4 The fact that children's ideas about science form part of a larger framework of ideas means that it is easier to change them.
+@tfng 5 The study involved asking children a number of yes/no questions such as 'Are there any rainforests in Africa?'
+@tfng 6 Girls are more likely than boys to hold mistaken views about the rainforests' destruction.
+@tfng 7 The study reported here follows on from a series of studies that have looked at children's understanding of rainforests.
+@tfng 8 A second study has been planned to investigate primary school children's ideas about rainforests.
+
+= Homework Ex 8
+# Farming and the Environment
+### Section A
+The role of governments in environmental management is difficult but inescapable. Sometimes, the state tries to manage the resources it owns, and does so badly. Often, however, governments act in an even more harmful way. They actually subsidise the exploitation and consumption of natural resources. A whole range of policies, from farm price support to protection for coal-mining, do environmental damage and (often) make no economic sense. Scrapping them offers a two-fold bonus: a cleaner environment and a more efficient economy. Growth and environmentalism can actually go hand in hand, if politicians have the courage to confront the vested interest that subsidies create.
+### Section B
+No activity affects more of the earth's surface than farming. It shapes a third of the planet's land area, not counting Antarctica, and the proportion is rising. World food output per head has risen by 4 per cent between the 1970s and 1980s mainly as a result of increases in yields from land already in cultivation, but also because more land has been brought under the plough. Higher yields have been achieved by increased irrigation, better crop breeding, and a doubling in the use of pesticides and chemical fertilisers in the 1970s and 1980s.
+### Section C
+All these activities may have damaging environmental impacts. For example, land clearing for agriculture is the largest single cause of deforestation; chemical fertilisers and pesticides may contaminate water supplies; more intensive farming and the abandonment of fallow periods tend to exacerbate soil erosion; and the spread of monoculture and use of high-yielding varieties of crops have been accompanied by the disappearance of old varieties of food plants which might have provided some insurance against pests or diseases in future. Soil erosion threatens the productivity of land in both rich and poor countries. The United States, where the most careful measurements have been done, discovered in 1982 that about one-fifth of its farmland was losing topsoil at a rate likely to diminish the soil's productivity. The country subsequently embarked upon a program to convert 11 per cent of its cropped land to meadow or forest. Topsoil in India and China is vanishing much faster than in America.
+### Section D
+Government policies have frequently compounded the environmental damage that farming can cause. In the rich countries, subsidies for growing crops and price supports for farm output drive up the price of land. The annual value of these subsidies is immense: about $250 billion, or more than all World Bank lending in the 1980s. To increase the output of crops per acre, a farmer's easiest option is to use more of the most readily available inputs: fertilisers and pesticides. Fertiliser use doubled in Denmark in the period 1960-1985 and increased in The Netherlands by 150 per cent. The quantity of pesticides applied has risen too; by 69 per cent in 1975-1984 in Denmark, for example, with a rise of 115 per cent in the frequency of application in the three years from 1981.
+In the late 1980s and early 1990s some efforts were made to reduce farm subsidies. The most dramatic example was that of New Zealand, which scrapped most farm support in 1984. A study of the environmental effects, conducted in 1993, found that the end of fertiliser subsidies had been followed by a fall in fertiliser use (a fall compounded by the decline in world commodity prices, which cut farm incomes). The removal of subsidies also stopped land-clearing and over-stocking, which in the past had been the principal causes of erosion. Farms began to diversify. The one kind of subsidy whose removal appeared to have been bad for the environment was the subsidy to manage soil erosion.
+In less enlightened countries, and in the European Union, the trend has been to reduce rather than eliminate subsidies, and to introduce new payments to encourage farmers to treat their land in environmentally friendlier ways, or to leave it fallow. It may sound strange but such payments need to be higher than the existing incentives for farmers to grow food crops. Farmers, however, dislike being paid to do nothing. In several countries they have become interested in the possibility of using fuel produced from crop residues either as a replacement for petrol (as ethanol) or as fuel for power stations (as biomass). Such fuels produce far less carbon dioxide than coal or oil, and absorb carbon dioxide as they grow. They are therefore less likely to contribute to the greenhouse effect. But they are rarely competitive with fossil fuels unless subsidised - and growing them does no less environmental harm than other crops.
+### Section E
+In poor countries, governments aggravate other sorts of damage. Subsidies for pesticides and artificial fertilisers encourage farmers to use greater quantities than are needed to get the highest economic crop yield. A study by the International Rice Research Institute of pesticide use by farmers in South East Asia found that, with pest-resistant varieties of rice, even moderate applications of pesticide frequently cost farmers more than they saved. Such waste puts farmers on a chemical treadmill: bugs and weeds become resistant to poisons, so next year's poisons must be more lethal. One cost is to human health. Every year some 10,000 people die from pesticide poisoning, almost all of them in the developing countries, and another 400,000 become seriously ill. As for artificial fertilisers, their use world-wide increased by 40 per cent per unit of farmed land between the mid 1970s and late 1980s, mostly in the developing countries. Overuse of fertilisers may cause farmers to stop rotating crops or leaving their land fallow. That, in turn, may make soil erosion worse.
+### Section F
+A result of the Uruguay Round of world trade negotiations is likely to be a reduction of 36 per cent in the average levels of farm subsidies paid by the rich countries in 1986-1990. Some of the world's food production will move from Western Europe to regions where subsidies are lower or non-existent, such as the former communist countries and parts of the developing world. Some environmentalists worry about this outcome. It will undoubtedly mean more pressure to convert natural habitat into farmland. But it will also have many desirable environmental effects. The intensity of farming in the rich world should decline, and the use of chemical inputs will diminish. Crops are more likely to be grown in the environments to which they are naturally suited. And more farmers in poor countries will have the money and the incentive to manage their land in ways that are sustainable in the long run. That is important. To feed an increasingly hungry world, farmers need every incentive to use their soil and water effectively and efficiently.
+---
+## Questions 1–5
+> Choose the correct answer.
+@mcq 1 Research completed in 1982 found that in the United States soil erosion
+- reduced the productivity of farmland by 20 per cent.
+- was almost as severe as in India and China.
+- was causing significant damage to 20 per cent of farmland.
+- could be reduced by converting cultivated land to meadow or forest.
+@mcq 2 By the mid-1980s, farmers in Denmark
+- used 50 per cent less fertiliser than Dutch farmers.
+- used twice as much fertiliser as they had in 1960.
+- applied fertiliser much more frequently than in 1960.
+- more than doubled the amount of pesticide they used in just 3 years.
+@mcq 3 Which one of the following increased in New Zealand after 1984?
+- farm incomes
+- use of fertiliser
+- over-stocking
+- farm diversification
+@mcq 4 The writer refers to some rich countries as being 'less enlightened' than New Zealand because
+- they disapprove of paying farmers for not cultivating the land.
+- their new fuel crops are as harmful as the ones they have replaced.
+- their policies do not recognise the long-term benefit of ending subsidies.
+- they have not encouraged their farmers to follow environmentally friendly practices.
+@mcq 5 The writer believes that the Uruguay Round agreements on trade will
+- encourage more sustainable farming practices in the long term.
+- do more harm than good to the international environment.
+- increase pressure to cultivate land in the rich countries.
+- be more beneficial to rich than to poor countries.

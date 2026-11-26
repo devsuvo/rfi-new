@@ -1,0 +1,127 @@
+@fulltest
+= Passage 1
+# Geoff Brash
+Australian businessman and philanthropist Geoff Brash, who passed away in 2010, was known for inspiring young people to attain their full potential.
+He was raised in Melbourne by Elsa and Alfred Brash and attended Scotch College. His sibling Barbara achieved success as a printer and visual artist. His grandfather, German immigrant Marcus Brasch, established the Brash retail music company in 1862; his father, Alfred, operated it. The tagline said, "A house is not a home without a piano."
+In his youth, Brash relished the finer things in life, such as golfing, sailing, and taking a leisurely two months to backpack around Europe. After gaining experience in retail at Myer, he joined the family firm in 1949 and immediately made his mark. His first managerial move was to re-carpet his father's office while he was gone, a departure from his thrifty aesthetic sensibilities. His father, who at first disapproved of his son's lavish spending, eventually came to embrace the alteration and gave his son more responsibilities in the company.
+By the end of the Second World War (1939–1945), Brash's was catering to the growing need for white goods like dishwashers and refrigerators. While the senior Brash was pleased with what he had accomplished, his son saw the need for continued growth. The company only had two locations when Geoff Brash became managing director in 1957, but he quickly grew the business by floating it on the stock exchange the following year and opening suburban locations and acquiring well-known music industry names like Allans, Palings, and Suttons. A total of 170 Brash's shops eventually opened for business across the continent.
+Geoff Brash absorbed his father's emphasis on providing excellent customer service. A pioneer in establishing a share scheme for his employees, Alfred Brash's son continued and extended the programme when the company became public.
+Geoff Brash was upbeat and empathetic. As a result, he was a pioneer in building contacts abroad as well as in obtaining and marketing new technologies. He acquired and offered for sale a variety of contemporary instruments, including electric guitars, organs, and cutting-edge audio and video gear. He grew close to Taro Kakehashi, the creator of the Roland group in Japan, and this connection resulted in a partnership that brought electronic musical instruments to Australia.
+Brash and his wife were among the first Western businesspeople permitted to enter China after Mao Zedong's Cultural Revolution, and they went to the first trade fair of its sort in Guangzhou in 1965. He visited Beijing several times and assisted the Chinese in their establishment of a top-notch piano manufacturer there. He then served as the plant's representative in Australia. Don Burrows and James Morrison, two prominent jazz musicians, were also brought to China by Brash on a journey that reintroduced jazz to many Chinese artists.
+In 1988, he resigned from his position as executive chairman of Brash's, but under the new management, debt problems developed, and in 1994, the banks appointed administrators. After being sold to Singaporean investors, the business operated until 1998, when it once more entered administration. The Brash brand eventually vanished from the retail industry. The failure of the business he had led for so long, and its final demise, left Brash feeling deeply let down. But he didn't take long to make an investment in Allan's music label when it had been reorganised.
+Brash was a devoted philanthropist who, in the middle of the 1980s, started the Brash Foundation, which later changed into the Soundhouse Music Alliance with the help of other partners. This non-profit organisation oversaw and promoted the creation of multimedia music and music education for both instructors and students. The Soundhouse gives educators and students the chance to experience cutting-edge music technology and utilise it to independently or collaboratively write and record their own music. Along with various locations around Australia, the organisation has also developed branches in New Zealand, South Africa, and Ireland.
+---
+## Questions 1–5
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 1 Initially, the Brash company sold pianos.
+@tfng 2 Geoff Brash worked for his grandfather's business in his first position.
+@tfng 3 Alfred Brash believed his son was wasting money.
+@tfng 4 When Geoff Brash took over, the Brash company was already selling certain electrical goods.
+@tfng 5 Geoff Brash has aspirations of opening Brash outlets abroad.
+## Questions 6–10
+> Answer the questions below.
+> Choose **NO MORE THAN THREE WORDS OR A NUMBER** from the passage for each answer.
+Which policy did Alfred Brash establish for his staff? [[6]]
+Which Japanese business did Geoff Brash work for? [[7]]
+What kind of occurrence took place in China that launched Geoff Brash's friendship with that nation? [[8]]
+What musical genre did Geoff Brash assist in promoting in China? [[9]]
+When did the Brash firm officially cease operations? [[10]]
+## Questions 11–13
+> Complete the notes below.
+> Choose **ONE WORD ONLY** from the passage for each answer.
+### Soundhouse Music Alliance
+developed from the Brash Foundation.
+a non-profit institution that supports music and music [[11]].
+provides an opportunity for leveraging current [[12]].
+has [[13]] throughout numerous nations.
+
+= Passage 2
+# Stress of Workplace
+[A] How busy is too busy? For some it means having to miss the occasional long lunch; for others, it means missing lunch altogether. For a few, it is not being able to take a “sickie” once a month. Then there is a group of people for whom working every evening and weekend is normal, and frantic is the tempo of their lives. For most senior executives, workloads swing between extremely busy and frenzied. The vice-president of the management consultancy AT Kearney and its head of telecommunications for the Asia-Pacific region, Neil Plumridge, says his work weeks vary from a “manageable” 45 hours to 80 hours, but average 60 hours.
+[B] Three warning signs alert Plumridge about his workload: sleep, scheduling and family. He knows he has too much on when he gets less than six hours of sleep for three consecutive nights; when he is constantly having to reschedule appointments; “and the third one is on the family side”, says Plumridge, the father of a three-year-old daughter, and expecting a second child in October. “If I happen to miss a birthday or anniversary, I know things are out of control.” Being “too busy” is highly subjective. But for any individual, the perception of being too busy over a prolonged period can start showing up as stress: disturbed sleep, and declining mental and physical health. National workers’ compensation figures show stress causes the most lost time of any workplace injury. Employees suffering stress are off work an average of 16.6 weeks. The effects of stress are also expensive. Comcare, the Federal Government insurer, reports that in 2003-04, claims for psychological injury accounted for 7% of claims but almost 27% of claim costs. Experts say the key to dealing with stress is not to focus on relief – a game of golf or a massage – but to reassess workloads. Neil Plumridge says he makes it a priority to work out what has to change; that might mean allocating extra resources to a job, allowing more time or changing expectations. The decision may take several days. He also relies on the advice of colleagues, saying his peers’ coach each other with business problems. “Just a fresh pair of eyes over an issue can help,” he says.
+[C] Executive stress is not confined to big organisations. Vanessa Stoykov has been running her own advertising and public relations business for seven years, specializing in work for financial and professional services firms. Evolution Media has grown so fast that it debuted on the BRW Fast 100 list of fastest-growing small enterprises last year – just after Stoykov had her first child. Stoykov thrives on the mental stimulation of running her own business. “Like everyone, I have the occasional day when I think my head’s going to blow off,” she says. Because of the growth phase, the business is in, Stoykov has to concentrate on short-term stress relief – weekends in the mountains, the occasional “mental health” day – rather than delegating more work. She says: “We’re hiring more people, but you need to train them, teach them about the culture and the clients, so it’s actually more work rather than less.”
+[D] Identify the causes: Jan Elsnera, Melbourne psychologist who specialises in executive coaching, says thriving on a demanding workload is typical of senior executives and other high-potential business people. She says there is no one-size-fits-all approach to stress: some people work best with high-adrenalin periods followed by quieter patches, while others thrive under sustained pressure. “We could take urine and blood hormonal measures and pass judgement of whether someone’s physiologically stressed or not,” she says. “But that’s not going to give us an indicator of what their experience of stress is, and what the emotional and cognitive impacts of stress are going to be.”
+[E] Elsner’s practice is informed by a movement known as positive psychology, a school of thought that argues “positive” experiences – feeling engaged, challenged, and that one is making a contribution to something meaningful – do not balance out negative ones such as stress; instead, they help people increase their resilience over time. Good stress, or positive experiences of being challenged and rewarded, is thus cumulative in the same way as bad stress. Elsner says many of the senior business people she coaches are relying more on regulating bad stress through methods such as meditation and yoga. She points to research showing that meditation can alter the biochemistry of the brain and actually help people “retrain” the way their brains and bodies react to stress. “Meditation and yoga enable you to shift the way that your brain reacts, so if you get proficient at it you’re in control.”
+[F] The Australian vice-president of AT Kearney, Neil Plumridge, says: “Often stress is caused by our setting unrealistic expectations of ourselves. I’ll promise a client I’ll do something tomorrow, and the [promise] another client the same thing, when I really know it’s not going to happen. I’ve put stress on myself when I could have said to the clients: ‘Why don’t I give that to you in 48 hours?’ The client doesn’t care.” Overcommitting is something people experience as an individual problem. We explain it as the result of procrastination or Parkinson’s law: that work expands to fill the time available. New research indicates that people may be hard-wired to do it.
+[G] A study in the February issue of the Journal of Experimental Psychology shows that people always believe they will be less busy in the future than now. This is a misapprehension, according to the authors of the report, Professor Gal Zauberman, of the University of North Carolina, and Professor John Lynch, of Duke University. “On average, an individual will be just as busy two weeks or a month from now as he or she is today. But that is not how it appears to be in everyday life,” they wrote. “People often make commitments long in advance that they would never make if the same commitments required immediate action. That is, they discount future time investments relatively steeply.” Why do we perceive a greater “surplus” of time in the future than in the present? The researchers suggest that people underestimate completion times for tasks stretching into the future and that they are bad at imagining the future competition for their time.
+---
+## Questions 14–18
+> Look at the following statements (Questions 14–18) and the list of people below.
+> Match each statement with the correct person, **A**, **B**, **C** or **D**.
+> **NB** You may use any letter more than once.
+@box
+* A. Jan Elsner
+* B. Vanessa Stoykov
+* C. Gal Zauberman
+* D. Neil Plumridge
+@sel 14 A-D Work stress usually happens in the high level of a business.
+@sel 15 A-D More people’s ideas involved would be beneficial for stress relief.
+@sel 16 A-D A temporary holiday sometimes doesn’t mean less work.
+@sel 17 A-D Stress leads to the wrong direction when trying to satisfy customers.
+@sel 18 A-D It is not correct that stress in the future will be eased more than now.
+## Questions 19–21
+> Choose the correct answer.
+@mcq 19 Which of the following workplace stress is NOT mentioned according to Plumridge in the following option?
+- Not enough time spent on family
+- Unable to concentrate on work
+- Inadequate time of sleep
+- Alteration of appointment
+@mcq 20 Which of the following solutions is NOT mentioned in helping reduce the work pressure according to Plumridge?
+- Allocate more personnel
+- Increase more time
+- Lower expectation
+- Do sports and massage
+@mcq 21 What is the point of view of Jan Elsner towards work stress?
+- Medical test can only reveal part of the data needed to cope with stress
+- Index somebody samples will be abnormal in a stressful experience
+- Emotional and cognitive affection is superior to a physical one
+- One well-designed solution can release all stress
+## Questions 22–27
+> Complete the summary below.
+> Choose **NO MORE THAN TWO WORDS AND/OR A NUMBER** from the passage for each answer.
+Statistics from National worker’s compensation indicate stress plays the most important role in [[22]] which cause the time losses. Staff take about [[23]] for absence from work caused by stress. Not just time is our main concern but great expenses generated consequently. An official insurer wrote sometime that about [[24]] of all claims were mental issues whereas nearly 27% costs in all claims. Sports such as [[25]], as well as [[26]] could be a treatment to release stress; however, specialists recommended another practical way out, analyse [[27]] once again.
+
+= Passage 3
+# Running on Empty
+[A] For almost a century, scientists have presumed, not unreasonably, that fatigue - or exhaustion in athletes originates in the muscles. Precise explanations have varied but all have been based on the ‘limitations theory’. In other words, muscles tire because they hit a physical limit: they either run out of fuel or oxygen or they drown in toxic by-products.
+[B] In the past few years, however, Timothy Noakes and Alan St Clair Gibson from the University of Cape Town, South Africa, have examined this standard theory. The deeper they dig, the more convinced they have become that physical fatigue simply isn't the same as a car running out of petrol. Fatigue, they argue, is caused not by distress signals springing from overtaxed muscles, but is an emotional response which begins in the brain. The essence of their new theory is that the brain, using a mix of physiological, subconscious and conscious cues, paces the muscles to keep them well back from the brink of exhaustion. When the brain decides its time to quit, it creates the distressing sensations we interpret as unbearable muscle fatigue. This ‘central governor* theory remains controversial, but it does explain many puzzling aspects of athletic performance.
+[C] A recent discovery that Noakes calls the ‘lactic acid paradox' made him start researching this area seriously. Lactic acid is a by-product of exercise, and its accumulation is often cited as a cause of fatigue. But when research subjects exercise in conditions simulating high altitude, they become fatigued even though lactic acid levels remain low. Nor has the oxygen content of their blood fallen too low for them to keep going. Obviously, Noakes deduced, something else was making them tire before they hit either of these physiological limits.
+[D] Probing further, Noakes conducted an experiment with seven cyclists who had sensors taped to their legs to measure the nerve impulses travelling through their muscles. It has long been known that during exercise, the body never uses 100% of the available muscle fibres in a single contraction. The amount used varies, but in endurance tasks such as this cycling test the body calls on about 30%.
+[E] Noakes reasoned that if the limitations theory was correct and fatigue was due to muscle fibres hitting some limit, the number of fibres used for each pedal stroke should increase as the fibres tired and the cyclist’s body attempted to compensate by recruiting an ever-larger proportion of the total. But his team found exactly the opposite. As fatigue set in, the electrical activity in the cyclists' legs declined - even during sprinting, when they were striving to cycle as fast as they could.
+[F] To Noakes, this was strong evidence that the old theory was wrong. ‘The cyclists may have felt completely exhausted,’ he says, ‘but their bodies actually had considerable reserves that they could theoretically tap by using a greater proportion of the resting fibres.’ This, he believes, is proof that the brain is regulating the pace of the workout to hold the cyclists well back from the point of catastrophic exhaustion.
+[G] More evidence comes from the fact that fatigued muscles don’t actually run out of anything critical. Levels of glycogen, which is the muscles’ primary fuel, and ATP. the chemical they use for temporary energy storage, decline with exercise but never bottom out. Even at the end of a marathon, ATP levels are 80-90% of the resting norm, and glycogen levels never get to zero.
+[H] Further support for the central regulator comes from the fact that top athletes usually manage to go their fastest at the end of a race, even though, theoretically, that's when their muscles should be closest to exhaustion. But Noakes believes the end spurt makes no sense if fatigue is caused by muscles poisoning themselves with lactic acid as this would cause racers to slow down rather than enable them to sprint for the finish line. In the new theory, the explanation is obvious. Knowing the end is near, the brain slightly relaxes its vigil, allowing the athlete to tap some of the body’s carefully hoarded reserves.
+[I] But the central governor theory does not mean that what's happening in the muscles is irrelevant. The governor constantly monitors physiological signals from the muscles, along with other information, to set the level of fatigue. A large number of signals are probably involved but, unlike the limitations theory, the central governor theory suggests that these physiological factors are not the direct determinants of fatigue, but simply information to take into account.
+[J] Conscious factors can also intervene. Noakes believes that the central regulator evaluates the planned workout, and sets a pacing strategy accordingly. Experienced runners know that if they set out on a 10-kilometre run. the first kilometre feels easier than the first kilometre of a 5-kilometre run, even though there should be no difference. That, Noakes says, is because the central governor knows you have farther to go in the longer run and has programmed itself to dole out fatigue symptoms accordingly.
+[K] St Clair Gibson believes there is a good reason why our bodies arc designed to keep something back. That way, there's always something left in the tank for an emergency. In ancient times, and still today, life would be too dangerous if our bodies allowed us to become so tired that we couldn't move quickly when faced with an unexpected need.
+---
+## Questions 28–33
+> Reading Passage 3 has eleven paragraphs, **A–K**. Choose the correct heading for Paragraphs **A–F** from the list of headings below.
+@box List of Headings
+* i. Avoiding tiredness in athletes
+* ii. Puzzling evidence raises a question
+* iii. Traditional explanations
+* iv. Interpreting the findings
+* v. Developing muscle fibres
+* vi. A new hypothesis
+* vii. Description of a new test
+* viii. Surprising results in an endurance test
+@sel 28 i-viii Paragraph A
+@sel 29 i-viii Paragraph B
+@sel 30 i-viii Paragraph C
+@sel 31 i-viii Paragraph D
+@sel 32 i-viii Paragraph E
+@sel 33 i-viii Paragraph F
+## Questions 34–40
+> Classify the following ideas as relating to the theories below. **NB** You may use any letter more than once.
+@box
+* A. the Limitations Theory
+* B. the Central Governor Theory
+* C. both the Limitations Theory and the Central Governor Theory
+@sel 34 A-C Lactic acid is produced in muscles during exercise.
+@sel 35 A-C Athletes can keep going until they use up all their available resources.
+@sel 36 A-C Mental processes control the symptoms of tiredness.
+@sel 37 A-C The physiological signals from an athlete's muscles are linked to fatigue.
+@sel 38 A-C The brain plans and regulates muscle performance in advance of a run.
+@sel 39 A-C Athletes' performance during a race may be affected by lactic acid build-up.
+@sel 40 A-C Humans are genetically programmed to keep some energy reserves.

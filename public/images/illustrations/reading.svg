@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="rbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e3f6f8"/>
+      <stop offset="1" stop-color="#cdeef2"/>
+    </linearGradient>
+  </defs>
+  <circle cx="200" cy="150" r="128" fill="url(#rbg)"/>
+  <!-- book shadow -->
+  <ellipse cx="200" cy="236" rx="120" ry="10" fill="#0aa3b5" fill-opacity=".15"/>
+  <!-- open book -->
+  <path d="M200 92c-28-16-66-20-104-14v146c38-6 76-2 104 14z" fill="#fff" stroke="#0aa3b5" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M200 92c28-16 66-20 104-14v146c-38-6-76-2-104 14z" fill="#fff" stroke="#0aa3b5" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M200 92v146" stroke="#0aa3b5" stroke-width="4"/>
+  <!-- text lines left -->
+  <g stroke="#0aa3b5" stroke-linecap="round" stroke-width="5" stroke-opacity=".35">
+    <path d="M116 106c22-3 44-2 64 6"/>
+    <path d="M116 126c22-3 44-2 64 6"/>
+    <path d="M116 146c22-3 44-2 64 6"/>
+    <path d="M116 166c22-3 44-2 64 6"/>
+    <path d="M116 186c14-2 28-1 40 2"/>
+  </g>
+  <!-- highlighted line -->
+  <path d="M114 124c22-3 46-2 68 7" stroke="#ffd43b" stroke-width="12" stroke-linecap="round" stroke-opacity=".55"/>
+  <!-- text lines right -->
+  <g stroke="#0aa3b5" stroke-linecap="round" stroke-width="5" stroke-opacity=".35">
+    <path d="M220 112c20-8 42-9 64-6"/>
+    <path d="M220 132c20-8 42-9 64-6"/>
+    <path d="M220 152c20-8 42-9 64-6"/>
+    <path d="M220 172c20-8 42-9 64-6"/>
+  </g>
+  <!-- bookmark -->
+  <path d="M262 74h22v44l-11-8-11 8z" fill="#e2263c"/>
+  <!-- magnifier -->
+  <circle cx="300" cy="196" r="26" fill="#fff" fill-opacity=".7" stroke="#0b1b3f" stroke-width="7"/>
+  <path d="M319 215l22 22" stroke="#0b1b3f" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="292" cy="188" r="7" fill="#fff"/>
+  <circle cx="84" cy="70" r="8" fill="#0aa3b5" fill-opacity=".3"/>
+  <circle cx="330" cy="70" r="5" fill="#e2263c" fill-opacity=".35"/>
+</svg>

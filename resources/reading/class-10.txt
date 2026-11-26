@@ -1,0 +1,235 @@
+@fulltest
+= Passage 1
+Languages around the world are dying off at a tremendous rate. Linguists estimate that between 20 per cent and 50 per cent of the 6000 languages now spoken are no longer being taught to children, and will become extinct in the next century. According to linguists at the AAAS, the loss of language is bad not only for linguists but for all humanity. "The world would be less beautiful and less interesting without linguistic diversity," said Michael Krauss of the University of Alaska, Fairbanks. "I challenge anyone to prove to me we are better off without linguistic diversity."
+Languages are dying as improved transport and telecommunications bring different peoples into closer contact, and speakers of minority tongues abandon them for the languages of more dominant cultures. Sometimes the switch is voluntary, but often it is forced. Earlier this century, for example, American Indian schoolchildren were punished for speaking their native tongue. The most basic reason why linguistic diversity should be preserved is that language helps people to retain their culture. But speakers cited several other good reasons too. "As linguists we need linguistic diversity," said Kenneth Hale of the Massachusetts Institute of Technology. "We wouldn't even know what questions to ask with only one language."
+Linguists are especially interested in the rules of grammar that seem common to all languages, because they provide important clues to how the mind works. As an example, Hale pointed to the distinction between singular and plural forms, such as "cat" and "cats". Trying to figure out the deeper rule that allows this distinction, a linguist who knew only English might come up with two possible explanations. One is that built into the brain there is a basic binary distinction between "one" and "more than one". Alternatively, there might be in-built distinctions between one subject, two, three or more. In English, it is impossible to tell which of these processes is at work. But by studying many different languages, linguists find the common factor is the binary distinction.
+Hale also argued that language should be seen as "the product of human intellectual toil" rather than something that evolves unaided. For example, he studied a language called Damin, an offshoot of Lardil, an Australian Aboriginal tongue. Damin was a special language spoken only by young men in the first few years after their initiation. It was an extremely abstract, simplified form of Lardil, which could be taught to initiates in a few hours. Hale said the genius of Damin was the way it broke Lardil down into its most basic concepts. Lardil, for example, has many words for "fish" while Damin has only two - one meaning "bony fish", and one meaning "cartilaginous fish". This shows that for Lardil speakers, there is a fundamental distinction between the two.
+In a similar vein, Lardil has about 90 words to cover pronouns such as "me" and "you" and determiners such as "this" and "that". But in Damin, these are boiled down to two words, "niaa" and "niuu", meaning "I" and "not-I". "I hope you'll realise this is a very big invention," said Hale. "It's not just joking around." It is as if an expert linguist had sat down to make a basic study of the Lardil language, he said. Unfortunately, Damin is no longer spoken, and Lardil is dying out.
+---
+## Questions 1–6
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 1 Michael Krauss feels the world does not need so many languages.
+@tfng 2 American Indian schoolchildren prefer to speak their mother tongue.
+@tfng 3 Kenneth Hale believes we need to keep different languages to maintain different cultures.
+@tfng 4 The rules of grammar can help us to understand how people think.
+@tfng 5 Lardil is a simplified version of Damin.
+@tfng 6 Lardil is now used less than Damin.
+## Questions 7–13
+> Complete the summary below.
+> Choose **NO MORE THAN TWO WORDS** from the passage for each answer.
+### Kenneth Hale's View of Language
+Kenneth Hale argues that language is the [[7]] of human intellectual toil rather than something that simply [[8]] on its own. Through his research, he demonstrates that reducing a language to its most basic [[9]] can reveal how its speakers make a fundamental [[10]] between related ideas. Hale further highlights what he describes as a major [[11]] in Damin, a simplified form of Lardil. He points out that approximately 90 [[12]] and determiners from Lardil are [[13]] to just two words in Damin.
+
+= Passage 2
+# Hard Languages
+[A] A certain genre of books about English extols the language’s supposed difficulty and idiosyncrasy. “Crazy English”, by an American folk-linguist, Richard Lederer, asks “how is it that your nose can run and your feet can smell?”. Bill Bryson’s “Mother Tongue: English and How It Got That Way” says that “English is full of booby traps for the unwary foreigner… Imagine being a foreigner and having to learn that in English one tells _a _lie but _the _truth.” Such books are usually harmless, if slightly fact-challenged. You tell “a” lie but “the” truth in many languages, partly because many lies exist but truth is rather more definite.
+[B] It may be natural to think that your own tongue is complex and mysterious. But English is pretty simple: verbs hardly conjugate; nouns pluralise easily (just add “s”, mostly) and there are no genders to remember. English-speakers appreciate this when they try to learn other languages. A Spanish verb has six present-tense forms, and six each in the preterite, imperfect, future, conditional, subjunctive and two different past subjunctives, for a total of 48 forms. German has three genders, seemingly so random that Mark Twain wondered why “a young lady has no sex, but a turnip has”. (_Mädchen _is neuter, whereas _Steckrübe _is feminine.) English spelling may be the most idiosyncratic, although French gives it a run for the money with 13 ways to spell the sound “o”. But spelling is ancillary to a language’s real complexity; English is a relatively simple language, absurdly spelled.
+[C] Perhaps the “hardest” language studied by many Anglophones is Latin. In it, all nouns are marked for case, an ending that tells what function the word has in a sentence (subject, direct object, possessive and so on). There are six cases, and five different patterns for declining verbs into them. This system, and its many exceptions, made for years of classroom torture for many children. But it also gives Latin a flexibility of word order. If the subject is marked as a subject with an ending, it need not come at the beginning of a sentence. This ability made many scholars of bygone days admire Latin’s majesty—and admire themselves for mastering it. Knowing Latin (and Greek, which presents similar problems) was long the sign of an educated person. Yet are Latin and Greek truly hard? These two genetic cousins of English, in the Indo-European language family, are child’s play compared with some. Languages tend to get “harder” the farther one moves from English and its relatives. Assessing how languages are tricky for English-speakers gives a guide to how the world’s languages differ overall.
+[D] Even before learning a word, the foreigner is struck by how different languages can sound. The uvular r’s of French and the fricative, glottal ch’s of German (and Scots) are essential to one’s imagination of these languages and their speakers. But sound systems get a lot more difficult than that. Vowels, for example, go far beyond a, e, i, o and u, and sometimes y. Those represent more than five or six sounds in English, consider the a’s in father, fate and fat. The vowels of European languages however vary more widely; think of the umlauted ones of German, or the nasal ones of French, Portuguese and Polish.
+[E] Yet much more exotic vowels exist, for example that carry tones: pitch that rises, falls, dips, stays low or high, and so on. Mandarin, the biggest language in the Chinese family, has four tones, so that what sounds just like “ma” in English has four distinct sounds, and meanings. That is relatively simple compared with other Chinese varieties. Cantonese has six tones, and Min Chinese dialects seven or eight. One tone can also affect neighbouring tones’ pronunciation through a series of complex rules.
+[F] Consonants are more complex. Some (p, t, k, m and n are common) appear in most languages, but consonants can come in a blizzard of varieties known as egressive (air coming from the nose or mouth), ingressive (air coming back in the nose and mouth), ejective (air expelled from the mouth while the breath is blocked by the glottis), pharyngealised (the pharynx constricted), palatised (the tongue raised toward the palate) and more. And languages with hard-to-pronounce consonants cluster in families. Languages in East Asia tend to have tonal vowels, those of the north-eastern Caucasus are known for consonantal complexity: Ubykh has 78 consonant sounds. Austronesian languages, by contrast, may have the simplest sounds of any language family.
+[G] Beyond sound comes the problem of grammar. On this score, some European languages are far harder than are, say, Latin or Greek. Latin’s six cases cower in comparison with Estonian’s 14, which include inessive, elative, adessive, abessive, and the system is riddled with irregularities and exceptions. Estonian’s cousins in the Finno-Ugric language group do much the same. Slavic languages force speakers, when talking about the past, to say whether an action was completed or not. Linguists call this “aspect”, and English has it too, for example in the distinction between “I go” and “I am going.” And to say “go” requires different Slavic verbs for going by foot, car, plane, boat or other conveyance. For Russians or Poles, the journey does matter more than the destination.
+[H] With all that in mind, which is the hardest language? On balance perhaps it would be Tuyuca, of the eastern Amazon. It has a sound system with simple consonants and a few nasal vowels, so it is not that hard to speak, but the noun classes in Tuyuca’s language family have been estimated at between 50 and 140. Most fascinating is a feature that would make any journalist tremble. Tuyuca requires verb-endings on statements to show how the speaker knows something. _Diga __ape-wi means_ that “the boy played soccer (I know because I saw him)”, while _diga __ape-hiyi means_ “the boy played soccer (I assume)”. English can provide such information, but for Tuyuca that is an obligatory ending on the verb. Evidential languages force speakers to think hard about how they learned what they say they know!
+---
+## Questions 14–21
+> Reading Passage 2 has eight paragraphs, **A–H**. Choose the correct heading for each paragraph from the list of headings below.
+@box List of Headings
+* i. Variations of language forms
+* ii. Why grammar is so important
+* iii. Why English may be considered simple
+* iv. Possibly the most difficult language of all
+* v. The complexities of pronunciation
+* vi. One example of a tonal language
+* vii. A difficult language for speakers of English
+* viii. Amusing claims about the difficulty of English
+* ix. Sounds other than vowels
+@sel 14 i-ix Paragraph A
+@sel 15 i-ix Paragraph B
+@sel 16 i-ix Paragraph C
+@sel 17 i-ix Paragraph D
+@sel 18 i-ix Paragraph E
+@sel 19 i-ix Paragraph F
+@sel 20 i-ix Paragraph G
+@sel 21 i-ix Paragraph H
+## Questions 22–26
+> Choose **TRUE** if the statement agrees with the information, choose **FALSE** if the statement contradicts the information, or choose **NOT GIVEN** if there is no information on this.
+@tfng 22 There are fewer variations in the vowel sounds in European languages than in English.
+@tfng 23 Mandarin is probably an easier language to learn than Cantonese.
+@tfng 24 Vowel sounds are generally not as complicated as consonant sounds.
+@tfng 25 The grammar of Estonian is far more complicated than the grammar of Latin.
+@tfng 26 The writer is pleased that she does not write in Tuyuca.
+
+= Passage 3
+# Translation Software
+[A] There is no doubting the practical value of a device that is capable of translating any language into another, and remarkably, such devices are now on the verge of becoming a reality thanks to new "statistical machine translation" software. Unlike previous approaches to machine translation, which relied upon rules identified by linguists which then had to be tediously hand-coded into software, this new method requires absolutely no linguistic knowledge or expert understanding of a language in order to translate it. Last month researchers at Carnegie Mellon University (CMU) in Pittsburgh began work on a machine that they hope will be able to learn a new language simply by getting foreign speakers to talk into it and perhaps, eventually, by watching television.
+[B] Within the next few years there will be an explosion in translation technologies, says Alex Waibel, director of the International Centre for Advanced Communication Technology, which is based jointly at the University of Karlsruhe in Germany and at CMU. He predicts there will be real-time automatic dubbing, which will let people watch foreign films or television programmes in their native languages, and search engines that will enable users to trawl through multilingual archives of documents, videos and audio files. Eventually, there may even be electronic devices that work like Babel fish, whispering translations in your ear as someone speaks to you in a foreign tongue.
+[C] This may sound fanciful, but already a system has been developed that can translate speeches or lectures from one language into another, in real time and regardless of the subject matter. The system required no programming of grammatical rules or syntax. Instead, it was given a vast number of speeches, and their accurate translations (performed by humans) into a second language, for statistical analysis. One of the reasons it works so well is that these speeches came from the United Nations and the European Parliament, where a broad range of topics are discussed. "The linguistic knowledge is automatically extracted from these huge data resources," says Dr Waibel.
+[D] Statistical translation encompasses a range of techniques, but what they all have in common is the use of statistical analysis, rather than rigid rules, to convert text from one language into another. Most systems start with a large bilingual corpus of text. By analysing the frequency with which clusters of words appear in close proximity in the two languages, it is possible to work out which words correspond to each other in the two languages. This approach offers much greater flexibility than rule-based systems, since it translates languages based on how they are actually used, rather than relying on rigid grammatical rules which may not always be observed, and often have exceptions.
+[E] The statistical approach, which starts off without any linguistic knowledge of a language, might seem a strange way of doing things, but it is actually remarkably similar to the way humans attempt to translate languages, says Shou-de Lin, a machine-translation expert who was until recently a researcher at the University of Southern California's Information Sciences Institute (ISI). "It looks at the script and bunches symbols together," he explains, much as a human mind might try to solve the problem. But in order for this approach to work, the voracious translation systems must be fed with huge numbers of training texts. This prompted Franz Och, Google's machine-translation expert, to boast recently that the search-engine giant would probably have a key role in the future of machine translation, since it has such a huge repository of text.
+[F] Translation systems are of limited use if they cannot be used by people on the move, such as tourists looking for a restaurant or soldiers talking to local people in a war zone. So, what is on the cards to replace the good old-fashioned phrasebook? In the past couple of years, the Defence Advanced Research Projects Agency (DARPA), an American military research body, has been testing a number of projects that cram a combination of speech-recognition, machine-translation and voice-synthesis software into a handheld device. One of these projects, developed at CMU and called Babylon, can now perform two-way translations between spoken English and Iraqi Arabic.
+[G] This is a huge improvement on the earlier one-way text-based translators used by American soldiers, says Alan Black, one of the researchers involved in the development of Babylon. For one thing, Iraqis can respond in their native language, rather than communicating through nods and shakes of the head, he says. Better still, Babylon is capable of translating completely novel sentences, rather than being limited to only a couple of hundred set phrases, as with the earlier systems.
+[H] The next phase of the project, says Dr Black, will be to allow portable translation devices to be trained in the field. The idea is that when a traveller encounters people speaking a new language that is unknown by the translation device, it can be trained by exposing the software to lots of chatter. In theory, once a language model has been acquired, you could just leave the device in training mode in front of the television, although it would probably be preferable to find some bilingual people and ask them to repeat set phrases containing a lot of linguistic information, says Dr Black.
+[I] Learning a new language from scratch, as humans can, is far more difficult than statistical translation using parallel texts. But since the number of high-quality parallel texts is limited, particularly for more obscure languages, a lot of effort is now being put into the development of statistical translation systems that can manage without them. Instead, the aim is to use statistical techniques to divine the language's inherent structure, and then to work out what particular words mean. If this could be done, of course, it would open the way to a universal translator. How far can machine translators be taken? "There is no reason why they should not become as good, if not better, than humans," says Dr Waibel.
+---
+## Questions 27–32
+> Which paragraph contains the following information? Choose the correct letter, **A–I**.
+@sel 27 A-I examples of problems with rule-based translations
+@sel 28 A-I why search web-sites may be useful
+@sel 29 A-I how a wide range of international language data was collected
+@sel 30 A-I the need for a system which is mobile
+@sel 31 A-I details of an older, labour-intensive translation system
+@sel 32 A-I a prediction that translation systems will develop significantly in the future
+## Questions 33–37
+> Choose **NO MORE THAN TWO WORDS** from the passage for each answer.
+DARPA is working on a handheld device containing a [[33]] of software.
+Currently many Iraqis communicate with American soldiers using basic [[34]] movements.
+A major benefit of Babylon is that it goes beyond translating [[35]].
+Attempts are now being made to develop a statistical translation system which does not rely on [[36]].
+If statistical methods could understand a language's innate structure, a [[37]] could be developed.
+## Questions 38–40
+> Match each name to the sentences below.
+> Choose the correct letter, **A–D**.
+@box
+* A. Alex Waibel
+* B. Shou-de Lin
+* C. Dr Black
+* D. Franz Och
+@sel 38 A-D Sees a role for bilingual people in training the portable device.
+@sel 39 A-D Thinks the statistical approach and the approach taken by people are not so different.
+@sel 40 A-D Believes it will be easier for people to watch foreign films in the future.
+
+= Homework P1
+# Trees in trouble
+_ What is causing the decline of the world's giant forests?
+[A] Big trees are incredibly important ecologically. For a start, they sustain countless other species. They provide shelter for many animals, and their trunks and branches can become gardens, hung with green ferns, orchids and bromeliads, coated with mosses and draped with vines. With their tall canopies* basking in the sun, they capture vast amounts of energy. This allows them to produce massive crops of fruit, flowers and foliage that sustain much of the animal life in the forest.
+[B] Only a small number of tree species have the genetic capacity to grow really big. The mightiest are native to North America, but big trees grow all over the globe, from the tropics to the boreal forests of the high latitudes. To achieve giant stature, a tree needs three things: the right place to establish its seedling, good growing conditions and lots of time with low adult mortality*. Disrupt any of these, and you can lose your biggest trees.
+[C] In some parts of the world, populations of big trees are dwindling because their seedlings cannot survive or grow. In southern India, for instance, an aggressive non-native shrub, Lantana camara, is invading the floor of many forests. Lantana grows so thickly that young trees often fail to take root. With no young trees to replace them, it is only a matter of time before most of the big trees disappear. Across much of northern Australia, gamba grass from Africa is overrunning native savannah woodlands. The grass grows up to four metres tall and burns fiercely, creating super-hot fires that cause catastrophic tree mortality.
+[D] Without the right growing conditions trees cannot get really big, and there is some evidence to suggest tree growth could slow in a warmer world, particularly in environments that are already warm. Having worked for decades at La Selva Biological Station in Puerto Viejo de Sarapiqui, Costa Rica, David and Deborah Clark and colleagues have shown that tree growth there declines markedly in warmer years. "During the day, their photosynthesis* shuts down when it gets too warm, and at night they consume more energy because their metabolic rate increases, much as a reptile's would when it gets warmer," explains David Clark. With less energy produced in warmer years and more being consumed just to survive, there is even less energy available for growth.
+[E] The Clarks' hypothesis, if correct, means tropical forests would shrink over time. The largest, oldest trees would progressively die off and tend not to be replaced. According to the Clarks, this might trigger a destabilisation of the climate; as older trees die, forests would release some of their stored carbon into the atmosphere, prompting a vicious cycle of further warming, forest shrinkage and carbon emissions.
+[F] Big trees face threats from elsewhere. The most serious is increasing mortality, especially of mature trees. Across much of the planet, forests of slow-growing ancient trees have been cleared for human use. In western North America, most have been replaced by monocultures of fast-growing conifers. Siberia's forests are being logged at an incredible rate. Logging in tropical forests is selective but the timber cutters usually prioritise the biggest and oldest trees. In the Amazon, my colleagues and I found the mortality rate for the biggest trees had tripled in small patches of rainforest surrounded by pasture land. This happens for two reasons. First, as they grow taller, big trees become thicker and less flexible: when winds blow across the surrounding cleared land, there is nothing to stop their acceleration. When they hit the trees, the impact can snap them in half. Second, rainforest fragments dry out when surrounded by dry, hot pastures and the resulting drought can have devastating consequences: one four-year study has shown that death rates will double for smaller trees but will increase 4.5 times for bigger trees.
+[G] Particular enemies to large trees are insects and disease. Across vast areas of western North America, increasingly mild winters are causing massive outbreaks of bark beetle. These tiny creatures can kill entire forests as they tunnel their way through the inside of trees. In both North America and Europe, fungus-caused diseases such as Dutch elm disease have killed off millions of stately trees that once gave beauty to forests and cities. As a result of human activity, such enemies reach even the remotest corners of the world, threatening to make the ancient giants a thing of the past.
+### Glossary
+_ canopies: the leafy upper branches of a tree · mortality: the rate at which members of a group die · photosynthesis: the way plants turn sunlight into food
+---
+## Questions 1–7
+> Match each heading to the most suitable paragraph.
+@box List of Headings
+* i. How deforestation harms isolated trees
+* ii. How other plants can cause harm
+* iii. Which big trees support the most diverse species
+* iv. Impact of big tree loss on the wider environment
+* v. Measures to prevent further decline in big tree populations
+* vi. How wildlife benefits from big trees
+* vii. Risk from pests and infection
+* viii. Ways in which industry uses big tree products
+* ix. How higher temperatures slow the rate of tree growth
+* x. Factors that enable trees to grow to significant heights
+@sel 1 i-x Paragraph A
+@sel 2 i-x Paragraph B
+@sel 3 i-x Paragraph C
+@sel 4 i-x Paragraph D
+@sel 5 i-x Paragraph E
+@sel 6 i-x Paragraph F
+@sel 7 i-x Paragraph G
+## Questions 8–13
+> Answer the questions below using **NO MORE THAN THREE WORDS**.
+What do big trees provide for many animals? [[8]]
+Which three conditions are necessary for a tree to achieve giant stature? [[9]]
+How do bark beetles kill trees? [[10]]
+Which type of disease has destroyed millions of trees in North America and Europe? [[11]]
+How tall can gamba grass grow in northern Australia? [[12]]
+What happens to tree growth during warmer years at La Selva Biological Station? [[13]]
+
+= Homework P2
+# The Future of Fish
+The face of the ocean has changed completely since the first commercial fishers cast their nets and hooks over a thousand years ago. Fisheries intensified over the centuries, but even by the nineteenth century it was still felt, justifiably, that the plentiful resources of the sea were for the most part beyond the reach of fishing, and so there was little need to restrict fishing or create protected areas. The twentieth century heralded an escalation in fishing intensity that is unprecedented in the history of the oceans, and modern fishing technologies leave fish no place to hide. Today, the only refuges from fishing are those we deliberately create. Unhappily, the sea trails far behind the land in terms of the area and the quality of protection given.
+For centuries, as fishing and commerce have expanded, we have held onto the notion that the sea is different from the land. We still view it as a place where people and nations should be free to come and go at will, as well as somewhere that should be free for us to exploit. Perhaps this is why we have been so reluctant to protect the sea. On land, protected areas have proliferated as human populations have grown. Here, compared to the sea, we have made greater headway in our struggle to maintain the richness and variety of wildlife and landscape. Twelve percent of the world's land is now contained in protected areas, whereas the corresponding figure for the sea is but three-fifths of one percent. Worse still, most marine protected areas allow some fishing to continue. Areas off-limits to all exploitation cover something like one five-thousandth of the total area of the world's seas.
+Today, we are belatedly coming to realise that 'natural refuges' from fishing have played a critical role in sustaining fisheries, and maintaining healthy and diverse marine ecosystems. This does not mean that marine reserves can rebuild fisheries on their own – other management measures are also required for that. However, places that are off-limits to fishing constitute the last and most important part of our package of reform for fisheries management. They underpin and enhance all our other efforts. There are limits to protection though.
+Reserves cannot bring back what has died out. We can never resurrect globally extinct species, and restoring locally extinct animals may require reintroductions from elsewhere, if natural dispersal from remaining populations is insufficient. We are also seeing, in cases such as northern cod in Canada, that fishing can shift marine ecosystems into different states, where different mixes of species prevail. In many cases, these species are less desirable, since the prime fishing targets have gone or are much reduced in numbers, and changes may be difficult to reverse, even with a complete moratorium on fishing. The Mediterranean sailed by Ulysses, the legendary king of ancient Greece, supported abundant monk seals, loggerhead turtles and porpoises. Their disappearance through hunting and overfishing has totally restructured food webs, and recovery is likely to be much harder to achieve than their destruction was. This means that the sooner we act to protect marine life, the more certain will be our success.
+To some people, creating marine reserves is an admission of failure. According to their logic, reserves should not be necessary if we have done our work properly in managing the uses we make of the sea. Many fisheries managers are still wedded to the idea that one day their models will work, and politicians will listen to their advice. Just give the approach time, and success will be theirs. How much time have we got? This approach has been tried and refined for the last 50 years. There have been few successes with which to feather the managers' caps, but a growing litany of failure. The Common Fisheries Policy, the European Union's instrument for the management of fisheries and aquaculture, exemplifies the worst pitfalls: flawed models, flawed advice, watered-down recommendations from government bureaucrats and then the disregard of much of this advice by politicians. When it all went wrong, as it inevitably had to, Europe sent its boats to other countries in order to obtain fish for far less than they were actually worth.
+We are squandering the wealth of oceans. If we don't break out of this cycle of failure, humanity will lose a key source of protein, and much more besides. Disrupting natural ecosystem processes, such as water purification, nutrient cycling, and carbon storage, could have ramifications for human life itself. We can go a long way to avoiding this catastrophic mistake with simple common sense management. Marine reserves lie at the heart of the reform. But they will not be sufficient if they are implemented only here and there to shore up the crumbling edifice of the 'rational fisheries management' envisioned by scientists in the 1940s and 1950s. They have to be placed centre stage as a fundamental underpinning for everything we do in the oceans. Reserves are a first resort, not a final resort when all else fails.
+---
+## Questions 14–18
+> Choose **YES** if the statement agrees with the claims of the writer, choose **NO** if the statement contradicts the claims of the writer, or choose **NOT GIVEN** if it is impossible to say what the writer thinks about this.
+@ynng 14 It is more than a thousand years since people started to catch fish for commercial use.
+@ynng 15 In general, open access to the oceans is still regarded as desirable.
+@ynng 16 Sea fishing is now completely banned in the majority of protected areas.
+@ynng 17 People should be encouraged to reduce the amount of fish they eat.
+@ynng 18 The re-introduction of certain mammals to the Mediterranean is a straightforward task.
+## Questions 19–21
+> Choose the correct answer.
+@mcq 19 What does the writer mean with the question, 'How much time have we got?' in the fifth paragraph?
+- Fisheries policies are currently based on uncertain estimates.
+- Accurate predictions will allow governments to plan properly.
+- Fisheries managers should provide clearer information.
+- Action to protect fish stocks is urgently needed.
+@mcq 20 What is the writer's comment on the Common Fisheries Policy?
+- Measures that it advocated were hastily implemented.
+- Officials exaggerated some of its recommendations.
+- It was based on predictions which were inaccurate.
+- The policy makers acquired a good reputation.
+@mcq 21 What is the writer's conclusion concerning the decline of marine resources?
+- The means of avoiding the worst outcomes needs to be prioritised.
+- Measures already taken to avoid a crisis are probably sufficient.
+- The situation is now so severe that there is no likely solution.
+- It is no longer clear which measures would be most effective.
+## Questions 22–26
+> Complete the summary using the list of words/phrases, **A–J**, below.
+@box Words / Phrases
+* A. action
+* B. controls
+* C. failure
+* D. fish catches
+* E. fish processing
+* F. fishing techniques
+* G. large boats
+* H. marine reserves
+* I. the land
+* J. the past
+### Measures to protect the oceans
+Up till the twentieth century the world's supply of fish was sufficient for its needs. It was unnecessary to introduce [[22:A-J]] of any kind, because large areas of the oceans were inaccessible. However, as [[23:A-J]] improved, this situation changed, and in the middle of the twentieth century, policies were introduced to regulate fish catches. These policies have not succeeded. Today, by comparison with [[24:A-J]], the oceans have very little legal protection.
+Despite the doubts that many officials have about the concept of [[25:A-J]], these should be at the heart of any action taken. The consequences of further [[26:A-J]] are very serious, and may even affect our continuing existence.
+
+= Homework P3
+# Homer's Literary Legacy
+_ Why was the work of Homer, famous author of ancient Greece, so full of clichés?
+[A] Until the last tick of history's clock, cultural transmission meant oral transmission and poetry, passed from mouth to ear, was the principal medium of moving information across space and from one generation to the next. Oral poetry was not simply a way of telling lovely or important stories, or of flexing the imagination. It was, argues the classicist Eric Havelock, a "massive repository of useful knowledge, a sort of encyclopedia of ethics, politics, history and technology which the effective citizen was required to learn as the core of his educational equipment". The great oral works transmitted a shared cultural heritage, held in common not on bookshelves, but in brains. In India, an entire class of priests was charged with memorizing the Vedas with perfect fidelity. In pre-Islamic Arabia, people known as Rawis were often attached to poets as official memorizers. The Buddha's teachings were passed down in an unbroken chain of oral tradition for four centuries until they were committed to writing in Sri Lanka in the first century B.C.
+[B] The most famous of the Western tradition's oral works, and the first to have been systematically studied, were Homer's Odyssey and Iliad. These two poems – possibly the first to have been written down in the Greek alphabet – had long been held up as literary archetypes. However, even as they were celebrated as the models to which all literature should aspire, Homer's masterworks had also long been the source of scholarly unease. The earliest modern critics sensed that they were somehow qualitatively different from everything that came after – even a little strange. For one thing, both poems were oddly repetitive in the way they referred to characters. Odysseus was always "clever Odysseus". Dawn was always "rosy-fingered". Why would someone write that? Sometimes the epithets seemed completely off-key. Why call the murderer of Agamemnon "blameless Aegisthos"? Why refer to "swift-footed Achilles" even when he was sitting down? Or to "laughing Aphrodite" even when she was in tears? In terms of both structure and theme, the Odyssey and Iliad were also oddly formulaic, to the point of predictability. The same narrative units – gathering armies, heroic shields, challenges between rivals – pop up again and again, only with different characters and different circumstances. In the context of such finely spun, deliberate masterpieces, these quirks* seemed hard to explain.
+[C] At the heart of the unease about these earliest works of literature were two fundamental questions: first, how could Greek literature have been born ex nihilo* with two masterpieces? Surely a few less perfect stories must have come before, and yet these two were among the first on record. And second, who exactly was their author? Or was it authors? There were no historical records of Homer, and no trustworthy biography of the man exists beyond a few self-referential hints embedded in the texts themselves.
+[D] Jean-Jacques Rousseau was one of the first modern critics to suggest that Homer might not have been an author in the contemporary sense of a single person who sat down and wrote a story and then published it for others to read. In his 1781 Essay on the Origin of Languages, the Swiss philosopher suggested that the Odyssey and Iliad might have been "written only in men's memories. Somewhat later they were laboriously collected in writing" – though that was about as far as his enquiry into the matter went.
+[E] In 1795, the German philologist Friedrich August Wolf argued for the first time that not only were Homer's works not written down by Homer, but they weren't even by Homer. They were, rather, a loose collection of songs transmitted by generations of Greek bards*, and only redacted* in their present form at some later date. In 1920, an eighteen-year-old scholar named Milman Parry took up the question of Homeric authorship as his Master's thesis at the University of California, Berkeley. He suggested that the reason Homer's epics seemed unlike other literature was because they were unlike other literature. Parry had discovered what earlier scholars such as Robert Wood and Friedrich Wolf had missed: the evidence that the poems had been transmitted orally was right there in the text itself. All those stylistic quirks, including the formulaic and recurring plot elements and the bizarrely repetitive epithets – "clever Odysseus" and "gray-eyed Athena" – that had always perplexed readers were actually like thumbprints left by a potter: material evidence of how the poems had been crafted. They were mnemonic* aids that helped the bard(s) fit the meter and pattern of the line, and remember the essence of the poems.
+[F] The greatest author of antiquity was actually, Parry argued, just "one of a long tradition of oral poets that ... composed wholly without the aid of writing". Parry realised that if you were setting out to create memorable poems, the Odyssey and the Iliad were exactly the kind of poems you'd create. It's said that clichés* are the worst sin a writer can commit, but to an oral bard, they were essential. The very reason that clichés so easily seep into our speech and writing – their insidious memorability – is exactly why they played such an important role in oral storytelling. The principles that the oral bards discovered as they sharpened their stories through telling and retelling were the same mnemonic principles that psychologists rediscovered when they began conducting their first scientific experiments on memory around the turn of the twentieth century. Words that rhyme are much more memorable than words that don't, and concrete nouns are easier to remember than abstract ones. Finding patterns and structure in information is how our brains extract meaning from the world, and putting words to music and rhyme is a way of adding extra levels of pattern and structure to language.
+### Glossary
+_ quirk: behaviour or a habit which seems to be unique to one person · ex nihilo: 'creation out of nothing' · bard: a person who composed and recited long, heroic poems · redacted: published · mnemonic: a sentence or short poem used for helping someone to remember something · cliché: a phrase or idea that is unoriginal because people use it very frequently
+---
+## Questions 27–32
+> Which paragraph, **A–F**, contains the following information? You may use any letter more than once.
+@sel 27 A-F the claim that the Odyssey and Iliad were not poems in their original form
+@sel 28 A-F a theory involving the reinterpretation of the term 'author'
+@sel 29 A-F references to the fact that little is known about Homer's life
+@sel 30 A-F a comparison between the construction of Homer's poems and another art form
+@sel 31 A-F examples of the kinds of people employed to recall language
+@sel 32 A-F doubts regarding Homer's apparently inappropriate descriptions
+## Questions 33–34
+> Choose **TWO** letters, **A–E**.
+@mcq2 33,34 Which TWO of these points are made by the writer of the text about the Odyssey and the Iliad?
+- They are sometimes historically inaccurate.
+- It is uncertain which century they were written in.
+- Their content is very similar.
+- Later writers referred to them as ideal examples of writing.
+- There are stylistic differences between them.
+## Questions 35–36
+> Choose **TWO** letters, **A–E**.
+@mcq2 35,36 Which TWO of the following theories does the writer of the text refer to?
+- Homer wrote his work during a period of captivity.
+- Neither the Odyssey nor the Iliad were written by Homer.
+- Homer created the Odyssey and Iliad without writing them down.
+- Homer may have suffered from a failing memory in later life.
+- The oral and written versions of Homer's work may not be identical.
+## Questions 37–40
+> Complete the summary below.
+> Choose **ONE WORD ONLY** from the passage for each answer.
+### The importance of the spoken word and how words are remembered
+Spoken poetry was once the means by which each [[37]] of a particular culture or community could pass on its knowledge. Indeed, it has been suggested that it was the duty of a [[38]] to know poetry so they would be informed about subjects such as politics and history.
+Psychologists now know that when people are trying to remember information, they may find it difficult to remember words that express [[39]] ideas. It is easier to remember words which sound similar or go together with [[40]].
+
